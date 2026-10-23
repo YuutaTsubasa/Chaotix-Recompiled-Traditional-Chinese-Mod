@@ -2,7 +2,7 @@
 
 ## Title
 
-Traditional Chinese Translation (繁體中文化) 1.0.0
+Traditional Chinese Translation (繁體中文化) 1.0.1
 
 (alternative: Knuckles' Chaotix - Traditional Chinese / 納克魯斯 卡歐提斯 繁體中文化)
 
@@ -37,7 +37,7 @@ texture mod: drop it into the Mods folder, no ROM patching.
 
 ## Install
 
-1. Download and unzip `ChaotixRecompiled-zhTW-1.0.0.zip`.
+1. Download and unzip `ChaotixRecompiled-zhTW-1.0.1.zip`.
 2. Copy the `Mods` folder into the game's user data folder:
    - Windows: `%APPDATA%\ChaotixRecompiled\ChaotixRecompiled`
    - Linux: `~/.local/share/ChaotixRecompiled/ChaotixRecompiled`

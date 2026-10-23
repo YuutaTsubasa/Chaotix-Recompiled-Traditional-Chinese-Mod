@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1 (2026-10-23)
+
+- RINGS / RING BONUS now read 金環 instead of 戒指 (HUD and results).
+
 ## 1.0.0 (2026-10-23)
 
 Initial release. Needs Knuckles' Chaotix Recompiled 0.7.1 or later.

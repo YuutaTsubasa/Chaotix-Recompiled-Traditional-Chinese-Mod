@@ -1,13 +1,13 @@
 {
  "en": "RINGS",
- "zh": "戒指",
+ "zh": "金環",
  "layers": [
   {
    "font": "NotoSansTC-Black.ttf",
    "size": 15,
    "thresh": 140,
    "gap": 1,
-   "zh": "戒指",
+   "zh": "金環",
    "style": "res_white",
    "y": 0,
    "align": "center"

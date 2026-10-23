@@ -1,6 +1,6 @@
-# GameBanana form: Knuckles' Chaotix Recompiled zh-TW 1.0.0
+# GameBanana form: Knuckles' Chaotix Recompiled zh-TW 1.0.1
 
-Zip: `release/ChaotixRecompiled-zhTW-1.0.0.zip` (147,276 bytes, SHA-1 `311f538edc2c5d973a142ce3e933012238a2be62`)
+Zip: `release/ChaotixRecompiled-zhTW-1.0.1.zip` (147,244 bytes, SHA-1 `a61966acb095c3a251ffbedfffef760c7aa17a34`)
 
 ## Mod Title
 ```
@@ -116,12 +116,12 @@ Upload in this order (1280x720 PNG, all well under 6.1 MB):
 ## Files
 | Field | Value |
 | --- | --- |
-| File | `ChaotixRecompiled-zhTW-1.0.0.zip` |
+| File | `ChaotixRecompiled-zhTW-1.0.1.zip` |
 | Description | `Mods folder + README_zhTW.txt + font licences. Copy Mods into the game's user data folder. Needs Knuckles' Chaotix Recompiled 0.7.1+. 需要 0.7.1 以上，把 Mods 複製到遊戲的使用者資料夾。` |
-| Version | `1.0.0` |
+| Version | `1.0.1` |
 | Archived | unchecked |
 | Video / Portfolio image | leave empty |
-| Alternate File Sources | `https://github.com/YuutaTsubasa/Chaotix-Recompiled-Traditional-Chinese-Mod/releases/download/v1.0.0/ChaotixRecompiled-zhTW-1.0.0.zip` (GitHub release asset); repo `https://github.com/YuutaTsubasa/Chaotix-Recompiled-Traditional-Chinese-Mod` |
+| Alternate File Sources | `https://github.com/YuutaTsubasa/Chaotix-Recompiled-Traditional-Chinese-Mod/releases/download/v1.0.1/ChaotixRecompiled-zhTW-1.0.1.zip` (GitHub release asset); repo `https://github.com/YuutaTsubasa/Chaotix-Recompiled-Traditional-Chinese-Mod` |
 
 ## Tags
 | Name | Value |
@@ -175,7 +175,7 @@ Non-contest, Non-jam, none, none.
 
 ## Version
 ```
-1.0.0
+1.0.1
 ```
 
 ## DevNotes

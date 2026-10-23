@@ -104,8 +104,8 @@
     "note": ""
   },
   "Rings": {
-    "zh": "戒指",
-    "note": "Sonic convention"
+    "zh": "金環",
+    "note": "changed from 金環 by user 2026-10-23"
   },
   "Game Over": {
     "zh": "遊戲結束",
@@ -169,7 +169,7 @@
   },
   "Bonus": {
     "zh": "獎勵",
-    "note": "translator decision, approved by user 2026-10-23; TIME/RING/SECRET BONUS = 時間/戒指/隱藏獎勵"
+    "note": "translator decision, approved by user 2026-10-23; TIME/RING/SECRET BONUS = 時間/金環/隱藏獎勵"
   },
   "Secret": {
     "zh": "隱藏",

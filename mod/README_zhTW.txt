@@ -1,6 +1,6 @@
 Knuckles' Chaotix Recompiled - Traditional Chinese (zh-TW) translation mod
 =========================================================================
-Version 1.0.0 (2026-10-23)
+Version 1.0.1 (2026-10-23)
 
 納克魯斯 卡歐提斯 繁體中文化模組
 

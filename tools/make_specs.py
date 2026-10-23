@@ -100,8 +100,8 @@ SPECS = {}
 # ---------------------------------------------------------------- HUD 13
 SPECS.update({
     "13_00": hud("POINTS", "得分"),
-    "13_01": hud("RINGS", "戒指"),
-    "13_02": hud("RINGS (red)", "戒指", "hud_red"),
+    "13_01": hud("RINGS", "金環"),
+    "13_02": hud("RINGS (red)", "金環", "hud_red"),
     "13_03": hud("TIME", "時間"),
     "13_04": hud("TIME (red)", "時間", "hud_red"),
     "13_05": hud("PAUSE", "暫停"),
@@ -178,7 +178,7 @@ SPECS.update({
     "4a_01": blank("GOT", "drawn by 4a_00 (順利過關)"),
     "4a_02": blank("THROUGH", "drawn by 4a_00 (順利過關)"),
     "4a_03": res("TIME (BONUS)", "時間", align="right", region=[0, 30]),
-    "4a_04": res("RING (BONUS)", "戒指", align="right", region=[0, 29]),
+    "4a_04": res("RING (BONUS)", "金環", align="right", region=[0, 29]),
     "4a_05": res("SECRET (BONUS)", "隱藏", align="right", region=[0, 46]),
     "4a_06": res("BONUS", "獎勵", x=0),
     "4a_07": res("TOTAL", "合計", align="right", region=[0, 38]),
@@ -207,7 +207,7 @@ SPECS.update({
     "4a_27": blank("RECORD!", "drawn by 4a_24"),
     "4a_28": res("TO (NEXT LEVEL!) white", "前往下一關！", align="center", region=[0, 116]),
     "4a_29": blank("NEXT", "drawn by 4a_28"), "4a_2a": blank("LEVEL!", "drawn by 4a_28"),
-    "4a_2e": res("RINGS", "戒指", align="center"),
+    "4a_2e": res("RINGS", "金環", align="center"),
 })
 ZONES = {"0c": ("BOTANIC BASE", "植物基地"), "0d": ("SPEED SLIDER", "極速滑道"),
          "0e": ("AMAZING ARENA", "驚奇競技場"), "0f": ("TECHNO TOWER", "科技之塔"),
