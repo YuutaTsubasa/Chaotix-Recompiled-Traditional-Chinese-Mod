@@ -1,6 +1,6 @@
-# GameBanana form: Knuckles' Chaotix Recompiled zh-TW 1.0.1
+# GameBanana form: Knuckles' Chaotix Recompiled zh-TW 1.1.0
 
-Zip: `release/ChaotixRecompiled-zhTW-1.0.1.zip` (147,244 bytes, SHA-1 `a61966acb095c3a251ffbedfffef760c7aa17a34`)
+Zip: `release/ChaotixRecompiled-zhTW-1.1.0.zip` (152,342 bytes, SHA-1 `f64d359a69625cfb0e56205217a049c471c59077`)
 
 ## Mod Title
 ```
@@ -34,14 +34,14 @@ Traditional Chinese (Taiwan) translation for Knuckles' Chaotix Recompiled: HUD, 
 
 <h2>Requirements</h2>
 <ul>
-<li><a href="https://github.com/YuutaTsubasa/ChaotixRecompiled/releases">Knuckles' Chaotix Recompiled</a> <b>0.7.1 or later</b> (older versions show some menu text in English)</li>
+<li><a href="https://github.com/YuutaTsubasa/ChaotixRecompiled/releases">Knuckles' Chaotix Recompiled</a> <b>0.9.0 or later</b> (older versions show some menu text in English)</li>
 <li>Your own Knuckles' Chaotix (Japan, USA) 32X ROM, which the game asks for. Not included.</li>
 </ul>
 
 <h2>How to install</h2>
 <ol>
 <li>Extract the zip.</li>
-<li>Copy the <code>Mods</code> folder into the game's user data folder (Windows: <code>%APPDATA%\ChaotixRecompiled\ChaotixRecompiled</code>). Other platforms are listed in <code>README_zhTW.txt</code>.</li>
+<li>Copy the <code>Mods</code> folder (it holds the pack <code>ChaotixZhTW</code>) into the game's user data folder (Windows: <code>%APPDATA%\ChaotixRecompiled\ChaotixRecompiled</code>). Other platforms are listed in <code>README_zhTW.txt</code>.</li>
 <li>Start the game.</li>
 </ol>
 
@@ -53,7 +53,7 @@ Traditional Chinese (Taiwan) translation for Knuckles' Chaotix Recompiled: HUD, 
 <h2>繁體中文說明</h2>
 <p>《Knuckles' Chaotix Recompiled》的繁體中文化模組。遊戲中的英文文字重新繪製成繁體中文：HUD、關卡標題卡、結算畫面、特別關卡與獎勵關卡、世界入口的看板、標題畫面，以及所有選單（讀取存檔、練習模式、遊玩方式、選擇角色、設定）。角色名稱採用 SEGA 官方繁體中文譯名。這是貼圖模組，不需要修改 ROM。</p>
 <ol>
-<li>需要 Knuckles' Chaotix Recompiled <b>0.7.1 以上</b>，以及自己的 Knuckles' Chaotix ROM。</li>
+<li>需要 Knuckles' Chaotix Recompiled <b>0.9.0 以上</b>，以及自己的 Knuckles' Chaotix ROM。</li>
 <li>解壓縮後，把 <code>Mods</code> 資料夾複製到遊戲的使用者資料夾（Windows：<code>%APPDATA%\ChaotixRecompiled\ChaotixRecompiled</code>，其他平台見 <code>README_zhTW.txt</code>）。</li>
 <li>啟動遊戲即可。</li>
 </ol>
@@ -116,12 +116,12 @@ Upload in this order (1280x720 PNG, all well under 6.1 MB):
 ## Files
 | Field | Value |
 | --- | --- |
-| File | `ChaotixRecompiled-zhTW-1.0.1.zip` |
-| Description | `Mods folder + README_zhTW.txt + font licences. Copy Mods into the game's user data folder. Needs Knuckles' Chaotix Recompiled 0.7.1+. 需要 0.7.1 以上，把 Mods 複製到遊戲的使用者資料夾。` |
-| Version | `1.0.1` |
+| File | `ChaotixRecompiled-zhTW-1.1.0.zip` |
+| Description | `Mods folder + README_zhTW.txt + font licences. Copy Mods into the game's user data folder. Needs Knuckles' Chaotix Recompiled 0.9.0+. 需要 0.9.0 以上，把 Mods 複製到遊戲的使用者資料夾。` |
+| Version | `1.1.0` |
 | Archived | unchecked |
 | Video / Portfolio image | leave empty |
-| Alternate File Sources | `https://github.com/YuutaTsubasa/Chaotix-Recompiled-Traditional-Chinese-Mod/releases/download/v1.0.1/ChaotixRecompiled-zhTW-1.0.1.zip` (GitHub release asset); repo `https://github.com/YuutaTsubasa/Chaotix-Recompiled-Traditional-Chinese-Mod` |
+| Alternate File Sources | `https://github.com/YuutaTsubasa/Chaotix-Recompiled-Traditional-Chinese-Mod/releases/download/v1.1.0/ChaotixRecompiled-zhTW-1.1.0.zip` (GitHub release asset); repo `https://github.com/YuutaTsubasa/Chaotix-Recompiled-Traditional-Chinese-Mod` |
 
 ## Tags
 | Name | Value |
@@ -129,15 +129,15 @@ Upload in this order (1280x720 PNG, all well under 6.1 MB):
 | Software Used | Python |
 | Language | Traditional Chinese (zh-TW) |
 | Platform | Windows, Linux, macOS, Android, iOS |
-| Requires | Knuckles' Chaotix Recompiled 0.7.1+ |
+| Requires | Knuckles' Chaotix Recompiled 0.9.0+ |
 | Mod Type | Texture replacement |
 
 ## Installation Instructions
 ```html
 <ol>
-<li>Install <a href="https://github.com/YuutaTsubasa/ChaotixRecompiled/releases">Knuckles' Chaotix Recompiled</a> <b>0.7.1 or later</b> and set it up with your own ROM.</li>
+<li>Install <a href="https://github.com/YuutaTsubasa/ChaotixRecompiled/releases">Knuckles' Chaotix Recompiled</a> <b>0.9.0 or later</b> and set it up with your own ROM.</li>
 <li>Extract the zip.</li>
-<li>Copy the <code>Mods</code> folder into the game's user data folder:
+<li>Copy the <code>Mods</code> folder (it holds the pack <code>ChaotixZhTW</code>) into the game's user data folder:
 <ul>
 <li><b>Windows:</b> <code>%APPDATA%\ChaotixRecompiled\ChaotixRecompiled</code></li>
 <li><b>Linux:</b> <code>~/.local/share/ChaotixRecompiled/ChaotixRecompiled</code></li>
@@ -149,7 +149,7 @@ Upload in this order (1280x720 PNG, all well under 6.1 MB):
 </ol>
 <hr>
 <ol>
-<li>安裝 Knuckles' Chaotix Recompiled <b>0.7.1 以上</b>，並用自己的 ROM 完成設定。</li>
+<li>安裝 Knuckles' Chaotix Recompiled <b>0.9.0 以上</b>，並用自己的 ROM 完成設定。</li>
 <li>解壓縮 zip。</li>
 <li>把 <code>Mods</code> 資料夾複製到遊戲的使用者資料夾（各平台位置如上）。</li>
 <li>啟動遊戲。</li>
@@ -159,7 +159,7 @@ Upload in this order (1280x720 PNG, all well under 6.1 MB):
 ## Requirements
 | Requirement | URL |
 | --- | --- |
-| Knuckles' Chaotix Recompiled 0.7.1+ | https://github.com/YuutaTsubasa/ChaotixRecompiled/releases |
+| Knuckles' Chaotix Recompiled 0.9.0+ | https://github.com/YuutaTsubasa/ChaotixRecompiled/releases |
 | Your own Knuckles' Chaotix (Japan, USA) 32X ROM | (none) |
 
 ## AI Usage (the user decides the final answer)
@@ -175,7 +175,7 @@ Non-contest, Non-jam, none, none.
 
 ## Version
 ```
-1.0.1
+1.1.0
 ```
 
 ## DevNotes

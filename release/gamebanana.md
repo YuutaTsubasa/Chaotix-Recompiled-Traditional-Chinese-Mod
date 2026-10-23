@@ -2,7 +2,7 @@
 
 ## Title
 
-Traditional Chinese Translation (繁體中文化) 1.0.1
+Traditional Chinese Translation (繁體中文化) 1.1.0
 
 (alternative: Knuckles' Chaotix - Traditional Chinese / 納克魯斯 卡歐提斯 繁體中文化)
 
@@ -32,12 +32,12 @@ texture mod: drop it into the Mods folder, no ROM patching.
 
 ## Requirements
 
-- Knuckles' Chaotix Recompiled **0.7.1 or later**
+- Knuckles' Chaotix Recompiled **0.9.0 or later**
 - Your own Knuckles' Chaotix (32X) ROM (not included)
 
 ## Install
 
-1. Download and unzip `ChaotixRecompiled-zhTW-1.0.1.zip`.
+1. Download and unzip `ChaotixRecompiled-zhTW-1.1.0.zip`.
 2. Copy the `Mods` folder into the game's user data folder:
    - Windows: `%APPDATA%\ChaotixRecompiled\ChaotixRecompiled`
    - Linux: `~/.local/share/ChaotixRecompiled/ChaotixRecompiled`
@@ -69,4 +69,4 @@ SOUND TEST song titles, the cast list on the title cards, digits.
 - The names of the hidden characters Bomb and Heavy on the character select
   were not seen in testing (they are made the same way as the others).
 - TRAINING zone names other than Isolated Island were not seen in testing.
-- Needs 0.7.1: older versions of the game show some menu text in English.
+- Needs 0.9.0: older versions of the game show some menu text in English.

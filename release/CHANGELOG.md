@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.1.0 (2026-10-23)
+
+- Now a mod pack for Knuckles' Chaotix Recompiled 0.9.0 or later: it installs
+  as Mods/ChaotixZhTW with a mod.ini, and shows in OPTIONS > EXTRAS > MODS,
+  where it can be turned off and on. For 0.7.1 to 0.8.x, use 1.0.1.
+- If you installed 1.0.x, delete its files from Mods/Textures first.
+
 ## 1.0.1 (2026-10-23)
 
 - RINGS / RING BONUS now read 金環 instead of 戒指 (HUD and results).

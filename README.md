@@ -7,10 +7,10 @@ A Traditional Chinese (zh-TW, Taiwan) translation mod for [Knuckles' Chaotix Rec
 ## Download and install / 下載與安裝
 
 - Download the zip from [Releases](https://github.com/YuutaTsubasa/Chaotix-Recompiled-Traditional-Chinese-Mod/releases).
-- It needs Knuckles' Chaotix Recompiled **0.7.1 or later** and your own Knuckles' Chaotix (Japan, USA) ROM.
-- Copy the zip's `Mods` folder into the game's user data folder (Windows: `%APPDATA%\ChaotixRecompiled\ChaotixRecompiled`). The other platforms are listed in [mod/README_zhTW.txt](mod/README_zhTW.txt).
+- It needs Knuckles' Chaotix Recompiled **0.9.0 or later** and your own Knuckles' Chaotix (Japan, USA) ROM.
+- Copy the zip's `Mods` folder (the mod pack `Mods/ChaotixZhTW`) into the game's user data folder (Windows: `%APPDATA%\ChaotixRecompiled\ChaotixRecompiled`). The other platforms are listed in [mod/README_zhTW.txt](mod/README_zhTW.txt).
 
-需要 Knuckles' Chaotix Recompiled **0.7.1 以上**和自己的 ROM。把 zip 裡的 `Mods` 資料夾複製到遊戲的使用者資料夾即可。
+需要 Knuckles' Chaotix Recompiled **0.9.0 以上**和自己的 ROM。把 zip 裡的 `Mods` 資料夾複製到遊戲的使用者資料夾即可。
 
 ## Repository layout
 

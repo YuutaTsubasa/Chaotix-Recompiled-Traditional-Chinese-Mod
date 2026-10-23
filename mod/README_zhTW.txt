@@ -1,6 +1,6 @@
 Knuckles' Chaotix Recompiled - Traditional Chinese (zh-TW) translation mod
 =========================================================================
-Version 1.0.1 (2026-10-23)
+Version 1.1.0 (2026-10-23)
 
 納克魯斯 卡歐提斯 繁體中文化模組
 
@@ -9,23 +9,28 @@ What it is
 A graphics mod for Knuckles' Chaotix Recompiled that redraws the game's
 English text in Traditional Chinese (Taiwan), using the names and terms of
 SEGA's official Traditional Chinese where they exist. It is a set of
-replacement pictures for Mods/Textures; the game and the ROM are not
+replacement pictures, packed as a mod pack; the game and the ROM are not
 changed, and removing the files brings the English back.
 
 Requirements
 ------------
-- Knuckles' Chaotix Recompiled 0.7.1 or later.
-  (Older versions ignore some of the files and show that text in English:
-  0.7.0, for example, shows the banners, the character names and the save
-  boxes of the menus in English.)
+- Knuckles' Chaotix Recompiled 0.9.0 or later. This version is a mod pack
+  (a folder of its own in Mods), which older versions of the game don't
+  read. For 0.7.1 to 0.8.x, use version 1.0.1 of this mod.
 - Your own copy of the Knuckles' Chaotix (32X) ROM, installed in Knuckles'
   Chaotix Recompiled as usual. No ROM is included.
 
 Install
 -------
 Copy the "Mods" folder of this package into the game's user data folder,
-so that the files end up in Mods/Textures there (merge it with the Mods
-folder that may already be there). Then start the game.
+so that this mod ends up in its own folder, Mods/ChaotixZhTW, there (merge
+it with the Mods folder that may already be there). Then start the game.
+OPTIONS > EXTRAS > MODS lists it as "Traditional Chinese (zh-TW)", where it
+can be turned off and on, or moved above or below other mods.
+
+If you installed 1.0.x of this mod before, delete its files from
+Mods/Textures first (32x_*.png, mdtext_*, mdsprite_*): loose files there
+override every mod pack.
 
 The user data folder is:
 - Windows: %APPDATA%\ChaotixRecompiled\ChaotixRecompiled
@@ -33,16 +38,16 @@ The user data folder is:
 - Linux:   ~/.local/share/ChaotixRecompiled/ChaotixRecompiled
 - macOS:   ~/Library/Application Support/ChaotixRecompiled/ChaotixRecompiled
 - Android: the Mods folder is ChaotixRecompiled/Mods in the phone's storage
-  once you allow it (OPTIONS > EXTRAS > MODS FOLDER opens Android's "All
-  files access" page), and Android/data/org.chaotixrecompiled/files/Mods
-  until then. Copy the contents of this package's Mods folder (the Textures
-  folder) into it.
+  once you allow it (OPTIONS > EXTRAS > MODS > MODS FOLDER opens Android's
+  "All files access" page), and Android/data/org.chaotixrecompiled/files/Mods
+  until then. Copy the contents of this package's Mods folder (the
+  ChaotixZhTW folder) into it.
 - iOS / iPadOS: the app's Documents, which the Files app shows as
   On My iPhone (iPad) > Chaotix; copy the Mods folder there.
 - A portable install (started with --user-dir DIR): DIR.
 
-To uninstall, delete the files this package put in Mods/Textures
-(32x_*.png, mdtext_*.txt / .png, mdsprite_*.txt / .png).
+To turn it off, use OPTIONS > EXTRAS > MODS. To uninstall, delete the
+Mods/ChaotixZhTW folder.
 
 What is translated
 ------------------
