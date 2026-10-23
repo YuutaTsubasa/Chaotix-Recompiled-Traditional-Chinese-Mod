@@ -1,0 +1,106 @@
+{
+ "en": "CONTROL CONFIGURATION",
+ "zh": "按鍵設定",
+ "screen": "OPTIONS",
+ "align": "left",
+ "source": "work/p3/opt/dump/Text/text_001968.txt plane A cells 4,5 21x1",
+ "plane": "A",
+ "rows": [
+  "06849326c9a1f6b7 c55f51f079e83c63 06e89b91ed8a5c67 61289eb94ebec2bf 8ab6e8c4c14e5edb c55f51f079e83c63 56a1bb7565b0ae7f 171bb79dc8e18503 06849326c9a1f6b7 c55f51f079e83c63 06e89b91ed8a5c67 0346df9f43995807 ee6410f28116fbcf f8114cb80125279b 49b1a1d0f548db7f 8ab6e8c4c14e5edb 8383a19547aa21e3 61289eb94ebec2bf ee6410f28116fbcf c55f51f079e83c63 06e89b91ed8a5c67",
+  "171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503"
+ ],
+ "preview_palette": [
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   255,
+   255,
+   255
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   33,
+   0,
+   66
+  ]
+ ],
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 16,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "按鍵設定",
+   "style": "menu16",
+   "align": "left",
+   "y": 0
+  }
+ ]
+}

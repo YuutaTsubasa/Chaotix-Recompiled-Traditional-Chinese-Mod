@@ -1,0 +1,114 @@
+{
+ "en": "COMBI SELECT (header)",
+ "zh": "選擇搭檔",
+ "screen": "COMBI SELECT",
+ "source": "8x16 game font tiles (inventory.json), 'COMBI SELECT', header",
+ "sprites": [
+  "sprite 0 0 1x2 c72a4a0b99fc8fa8 815d62102bf06998",
+  "sprite 8 0 1x2 39a0942751e8d911 f0c31d793e4f9684",
+  "sprite 16 0 1x2 c086fd7a63463508 ab83780f170f2e0c",
+  "sprite 24 0 1x2 b938dc279984ef8f 8e0227572a93ec34",
+  "sprite 32 0 1x2 56abb2dc145909d0 c3905656a6c46b9a",
+  "sprite 48 0 1x2 5e93fe772590c759 4d7d362eb13af50c",
+  "sprite 56 0 1x2 2ccc5225a3934a44 09e0974adfa3ac03",
+  "sprite 64 0 1x2 9710a8c488355f0e 56e9160cea095d49",
+  "sprite 72 0 1x2 2ccc5225a3934a44 09e0974adfa3ac03",
+  "sprite 80 0 1x2 c72a4a0b99fc8fa8 815d62102bf06998",
+  "sprite 88 0 1x2 fc2e5150537bf7a6 c3905656a6c46b9a"
+ ],
+ "align": "center",
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 16,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "選擇搭檔",
+   "style": "font16",
+   "align": "center",
+   "y": 0
+  }
+ ],
+ "preview_palette": [
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   255,
+   255,
+   255
+  ],
+  [
+   219,
+   146,
+   219
+  ],
+  [
+   109,
+   36,
+   109
+  ],
+  [
+   73,
+   0,
+   73
+  ],
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   219
+  ],
+  [
+   36,
+   73,
+   255
+  ],
+  [
+   73,
+   146,
+   255
+  ],
+  [
+   182,
+   255,
+   255
+  ],
+  [
+   255,
+   219,
+   0
+  ],
+  [
+   182,
+   73,
+   0
+  ],
+  [
+   73,
+   0,
+   0
+  ],
+  [
+   0,
+   73,
+   0
+  ],
+  [
+   0,
+   146,
+   0
+  ],
+  [
+   0,
+   255,
+   0
+  ]
+ ]
+}

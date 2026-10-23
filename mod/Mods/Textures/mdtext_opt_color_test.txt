@@ -1,0 +1,6 @@
+# OPTIONS: COLOR TEST -> 色彩測試 (zh-TW translation mod)
+# built by tools/build_mdtext.py from text/mdtext/opt_color_test.json
+plane A
+align left
+row 06849326c9a1f6b7 c55f51f079e83c63 56a1bb7565b0ae7f c55f51f079e83c63 8ab6e8c4c14e5edb 171bb79dc8e18503 61289eb94ebec2bf 0be70ba06abdcbbf 262ed75e7586890f 61289eb94ebec2bf
+row 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503

@@ -1,0 +1,111 @@
+{
+ "en": "TRAINING (banner)",
+ "zh": "練習模式",
+ "screen": "TRAINING",
+ "source": "work/p4/tr/dump/Text/sprites_002043.txt group 1 (screen 176,12, palette line 0)",
+ "sprites": [
+  "sprite 0 0 4x3 18152bdc104b1e37 101d935c151f9943 752ad1683a34f243 034595b8f7281637 00d0d0e04d381564 2b806f9313f35d88 440c2dfb92c9d251 d4462674364ec2ed fd54049b3ae4da7a 213cc80a3b2661b6 575125232a99e204 e02ec0c28a8d215f",
+  "sprite 32 0 4x3 36a811a9345be760 d8009f0bf2fa1afd 434cae9855925d5e 8720c35530d31cf1 39c3a078559a7597 67b3a939547156d0 101d935c151f9943 f30d20fba867f91e 9612a76a6b2ca67b 6b390136a8b113ff 08cd7ce4b3e3697c 9eaf4ad5cd359048",
+  "sprite 64 0 4x3 200d867fba934db7 d1296b4b8485eefa 9d8943258c9eb8f5 4fb693dfb69f478f c158cf6bc05c9163 a255eb5b5378a09f 4fb693dfb69f478f c158cf6bc05c9163 e2a179e7b55ab673 543c6556948918e7 ae8ee08ca47aeaf3 2f7ed240f27ad4aa",
+  "sprite 96 0 4x3 8f7a02e2c7cc803f adda183e15d7480a 0be4448ce79c487a 4111f8ef2044bf58 58aeaed053f3333f 18162fc04221f474 eb6e55406d9bbb26 42458d6f3f702473 95547c76fefb3210 41a4721ff1c1f0e3 4a9184ad8c485bd3 a47e78fac2285726"
+ ],
+ "align": "center",
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 22,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "練習模式",
+   "style": "banner",
+   "align": "center",
+   "y": 0,
+   "region": [
+    0,
+    128
+   ]
+  }
+ ],
+ "preview_palette": [
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   255,
+   255,
+   255
+  ],
+  [
+   219,
+   146,
+   219
+  ],
+  [
+   109,
+   36,
+   109
+  ],
+  [
+   73,
+   0,
+   73
+  ],
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   219
+  ],
+  [
+   36,
+   73,
+   255
+  ],
+  [
+   73,
+   146,
+   255
+  ],
+  [
+   182,
+   255,
+   255
+  ],
+  [
+   255,
+   219,
+   0
+  ],
+  [
+   182,
+   73,
+   0
+  ],
+  [
+   73,
+   0,
+   0
+  ],
+  [
+   0,
+   73,
+   0
+  ],
+  [
+   0,
+   146,
+   0
+  ],
+  [
+   0,
+   255,
+   0
+  ]
+ ]
+}

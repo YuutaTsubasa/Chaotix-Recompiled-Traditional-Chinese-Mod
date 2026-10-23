@@ -1,0 +1,131 @@
+{
+ "en": "DATA n (save slot): DATA 1",
+ "zh": "存檔 1",
+ "screen": "DATA LOAD (slot header)",
+ "align": "center",
+ "source": "work/p3/dl2/dump/Text/text_002154.txt plane A cells 10,14 9x3",
+ "plane": "A",
+ "rows": [
+  "a07a3b44c1badeb9 6cb1ef1bebc96c4a 7b48fc7198ab57b4 0f4fbf7e6bed7df7 b6f9480d2a517f2c 01c434a3a4e66835 171bb79dc8e18503 f7e44b88c422d21b 7f30131386a20363",
+  "7c7199f1112ae37a 74cb9fe2a6e6dddd 1422d2cfcd05ff52 c15fabcd9342b6ec 8b00dfcaa9c4e964 337763dbf895d0c7 d675c7642e50b886 9649cee8bb6d4023 926276d739bcdcb3",
+  "92b5280bf0494c6b c80e8650ebae22bf 966c07b0c11226cb 966c07b0c11226cb 4d1564f51ce883e3 97c6b865e59e448b 5de83062ac36bd63 f5a0c05cc4c17323 5de83062ac36bd63"
+ ],
+ "preview_palette": [
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   255,
+   255,
+   255
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   255,
+   219,
+   0
+  ],
+  [
+   182,
+   73,
+   0
+  ],
+  [
+   73,
+   0,
+   0
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   146,
+   182,
+   146
+  ]
+ ],
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 14,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "存檔",
+   "style": "slot_yellow",
+   "x": 10,
+   "y": 0,
+   "cast": {
+    "idx": 5,
+    "dx": 2,
+    "dy": 7,
+    "y0": 16,
+    "grow": 1
+   }
+  },
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 14,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "1",
+   "style": "slot_white",
+   "x": 48,
+   "y": 0,
+   "cast": {
+    "idx": 5,
+    "dx": 2,
+    "dy": 7,
+    "y0": 16,
+    "grow": 1
+   }
+  }
+ ]
+}

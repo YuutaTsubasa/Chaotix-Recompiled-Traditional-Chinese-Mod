@@ -1,0 +1,9 @@
+{
+ "banner": {"fill": 10, "shadow": {"idx": 5, "offsets": [[1, 1], [2, 2], [2, 1], [1, 2]]}},
+ "font16": {"fill": 10, "shadow": {"idx": 5, "offsets": [[1, 1]]}},
+ "small_pink": {"fill": 2, "shadow": {"idx": 5, "offsets": [[1, 1]]}},
+ "box_title": {"fill": 10, "shadow": {"idx": 5, "offsets": [[1, 1]]}},
+ "box_pink": {"fill": 2, "shadow": {"idx": 5, "offsets": [[1, 1]]}},
+ "box_green": {"fill": 15, "shadow": {"idx": 5, "offsets": [[1, 1]]}},
+ "slot_yellow": {"fill": 10, "shadow": {"idx": 5, "offsets": [[2, 2]]}}
+}

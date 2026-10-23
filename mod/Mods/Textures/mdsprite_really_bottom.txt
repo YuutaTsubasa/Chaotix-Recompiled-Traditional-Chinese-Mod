@@ -1,0 +1,6 @@
+# DATA LOAD (DELETE chosen): YES (delete confirmation): box, bottom -> 是 (zh-TW translation mod)
+# built by tools/build_mdsprite.py from text/mdsprite/really_bottom.json
+align left
+sprite 0 0 4x3 3f8ac8f2633c54b3 3732ec16cf028473 171bb79dc8e18503 c76fb4a479d3b103 acdc4957ae8ee5ef a903478badb28321 c76fb4a479d3b103 acdc4957ae8ee5ef fe390eb009aeee13 ca426874f86e3c24 acdc4957ae8ee5ef fe390eb009aeee13
+sprite 32 0 4x3 841b90e80fe41a55 acdc4957ae8ee5ef fe390eb009aeee13 2cb09c23ed1e4bdb acdc4957ae8ee5ef fe390eb009aeee13 3e38f45beff7e713 acdc4957ae8ee5ef fe390eb009aeee13 b5afab7e45a4f031 acdc4957ae8ee5ef fe390eb009aeee13
+sprite 64 0 3x3 0cc982fe68f61163 acdc4957ae8ee5ef fe390eb009aeee13 a1a06aec1dfabb33 4d3e967231cafb56 fe390eb009aeee13 fe390eb009aeee13 fe390eb009aeee13 73c5cabe7b39c716

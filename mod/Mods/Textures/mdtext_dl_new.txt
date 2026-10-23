@@ -1,0 +1,7 @@
+# DATA LOAD (slot): NEW (save slot) -> 新遊戲 (zh-TW translation mod)
+# built by tools/build_mdtext.py from text/mdtext/dl_new.json
+plane A
+align center
+row b0b4ff4ba2d01522 8f45b97cec89113c 2f76001ed4f96916 a002fbd7cd6a39f9 e4cb44a51af36d33 52a9362deb356e93 7f30131386a20363
+row 40cfc760f145fd56 6705774d52e42691 7366718add9353b9 9bdbf873f15acae8 aa462554b55fecfe 7ab3d7a49416696c 322986d8253c9cc3
+row f5a0c05cc4c17323 d49ece7512aae552 749aa45e2ef32d13 92d98fb5d9758a33 1f21512b605c6da4 9639e5c1dd5bdadd f389f50a068df6f3

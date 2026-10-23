@@ -1,0 +1,28 @@
+{
+ "en": "DOWN (block)",
+ "zh": "下",
+ "canvas": "orig",
+ "rects": [
+  [
+   3,
+   11,
+   29,
+   21,
+   1
+  ]
+ ],
+ "layers": [
+  {
+   "zh": "下",
+   "font": "NotoSansTC-Black.ttf",
+   "size": 12,
+   "thresh": 128,
+   "style": "bonus_down",
+   "valign": [
+    10,
+    22
+   ],
+   "align": "center"
+  }
+ ]
+}

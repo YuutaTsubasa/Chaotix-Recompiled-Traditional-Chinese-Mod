@@ -1,0 +1,7 @@
+{
+ "menu16": {"fill": 4, "shadow": {"idx": 8, "offsets": [[1, 1]]}},
+ "slot_pink": {"fill": 2, "shadow": {"idx": 5, "offsets": [[2, 2]]}},
+ "slot_yellow": {"fill": 10, "shadow": {"idx": 5, "offsets": [[2, 2]]}},
+ "slot_white": {"fill": 1, "shadow": {"idx": 5, "offsets": [[2, 2]]}},
+ "slot_green": {"fill": 15, "shadow": {"idx": 5, "offsets": [[3, 3]]}}
+}

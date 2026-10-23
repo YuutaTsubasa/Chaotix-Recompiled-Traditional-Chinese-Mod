@@ -1,0 +1,118 @@
+{
+ "en": "SPEED SLIDER (TRAINING zone list)",
+ "zh": "極速滑道",
+ "screen": "TRAINING",
+ "source": "8x16 game font tiles (inventory.json), 'SPEED SLIDER', TRAINING's zone panel",
+ "sprites": [
+  "sprite 0 0 1x2 5e93fe772590c759 4d7d362eb13af50c",
+  "sprite 8 0 1x2 b9387727998443f0 426d87c484f6fbf8",
+  "sprite 16 0 1x2 2ccc5225a3934a44 09e0974adfa3ac03",
+  "sprite 24 0 1x2 2ccc5225a3934a44 09e0974adfa3ac03",
+  "sprite 32 0 1x2 39a0942751e8d911 0b0636d403f89ab5",
+  "sprite 48 0 1x2 5e93fe772590c759 4d7d362eb13af50c",
+  "sprite 56 0 1x2 9710a8c488355f0e 56e9160cea095d49",
+  "sprite 64 0 1x2 56abb2dc145909d0 c3905656a6c46b9a",
+  "sprite 72 0 1x2 39a0942751e8d911 0b0636d403f89ab5",
+  "sprite 80 0 1x2 2ccc5225a3934a44 09e0974adfa3ac03",
+  "sprite 88 0 1x2 b9387727998443f0 fc22ab5c2ead4cb6"
+ ],
+ "align": "left",
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 16,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "極速滑道",
+   "style": "font16",
+   "align": "left",
+   "y": 0,
+   "region": [
+    2,
+    200
+   ]
+  }
+ ],
+ "preview_palette": [
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   255,
+   255,
+   255
+  ],
+  [
+   219,
+   146,
+   219
+  ],
+  [
+   109,
+   36,
+   109
+  ],
+  [
+   73,
+   0,
+   73
+  ],
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   219
+  ],
+  [
+   36,
+   73,
+   255
+  ],
+  [
+   73,
+   146,
+   255
+  ],
+  [
+   182,
+   255,
+   255
+  ],
+  [
+   255,
+   219,
+   0
+  ],
+  [
+   182,
+   73,
+   0
+  ],
+  [
+   73,
+   0,
+   0
+  ],
+  [
+   0,
+   73,
+   0
+  ],
+  [
+   0,
+   146,
+   0
+  ],
+  [
+   0,
+   255,
+   0
+  ]
+ ]
+}

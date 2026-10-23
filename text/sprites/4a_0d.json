@@ -1,0 +1,23 @@
+{
+ "en": "SPEED SLIDER",
+ "zh": "極速滑道",
+ "layers": [
+  {
+   "zh": "極速滑道",
+   "font": "GlowSansTC-Condensed-Heavy.otf",
+   "size": 22,
+   "thresh": 120,
+   "gap": 3,
+   "style": "res_zone",
+   "valign": [
+    0,
+    23
+   ],
+   "align": "right",
+   "region": [
+    0,
+    115
+   ]
+  }
+ ]
+}

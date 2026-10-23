@@ -1,0 +1,16 @@
+{
+ "en": "TIME (red)",
+ "zh": "時間",
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 15,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "時間",
+   "style": "hud_red",
+   "y": 0,
+   "align": "center"
+  }
+ ]
+}

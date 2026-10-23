@@ -1,0 +1,118 @@
+{
+ "en": "NEW (save slot)",
+ "zh": "新遊戲",
+ "screen": "DATA LOAD (slot)",
+ "align": "center",
+ "source": "work/p3/dl/dump/Text/text_002049.txt plane A cells 11,7 7x3",
+ "plane": "A",
+ "rows": [
+  "b0b4ff4ba2d01522 8f45b97cec89113c 2f76001ed4f96916 a002fbd7cd6a39f9 e4cb44a51af36d33 52a9362deb356e93 7f30131386a20363",
+  "40cfc760f145fd56 6705774d52e42691 7366718add9353b9 9bdbf873f15acae8 aa462554b55fecfe 7ab3d7a49416696c 322986d8253c9cc3",
+  "f5a0c05cc4c17323 d49ece7512aae552 749aa45e2ef32d13 92d98fb5d9758a33 1f21512b605c6da4 9639e5c1dd5bdadd f389f50a068df6f3"
+ ],
+ "preview_palette": [
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   0,
+   73,
+   0
+  ],
+  [
+   0,
+   146,
+   0
+  ],
+  [
+   0,
+   255,
+   0
+  ]
+ ],
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 16,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "新遊戲",
+   "style": "slot_green",
+   "align": "center",
+   "region": [
+    0,
+    53
+   ],
+   "y": 0,
+   "cast": {
+    "idx": 5,
+    "dx": 3,
+    "dy": 6,
+    "y0": 17,
+    "grow": 1
+   }
+  }
+ ]
+}

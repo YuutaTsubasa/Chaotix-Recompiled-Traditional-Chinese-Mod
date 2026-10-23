@@ -1,0 +1,17 @@
+{
+ "en": "COURSE (OUT)",
+ "zh": "衝出跑道！",
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 15,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "衝出跑道！",
+   "style": "sp_white",
+   "y": 0,
+   "align": "left",
+   "x": 1
+  }
+ ]
+}

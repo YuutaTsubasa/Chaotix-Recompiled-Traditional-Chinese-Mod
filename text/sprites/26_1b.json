@@ -1,0 +1,33 @@
+{
+ "en": "EXIT (block)",
+ "zh": "出口",
+ "canvas": "orig",
+ "rects": [
+  [
+   5,
+   9,
+   27,
+   23,
+   18
+  ]
+ ],
+ "layers": [
+  {
+   "zh": "出口",
+   "font": "NotoSansTC-Black.ttf",
+   "size": 13,
+   "thresh": 128,
+   "gap": 1,
+   "style": "bonus_exit2",
+   "valign": [
+    9,
+    23
+   ],
+   "align": "center",
+   "region": [
+    4,
+    28
+   ]
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "en": "500 PTS.",
+ "zh": "500 分",
+ "canvas": "orig",
+ "rects": [
+  [
+   11,
+   17,
+   29,
+   26,
+   9
+  ]
+ ],
+ "layers": [
+  {
+   "zh": "分",
+   "font": "fusion8",
+   "scale": 1,
+   "style": "bonus_pts",
+   "y": 18,
+   "align": "center",
+   "region": [
+    11,
+    29
+   ]
+  }
+ ]
+}

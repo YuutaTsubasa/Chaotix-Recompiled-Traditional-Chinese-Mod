@@ -1,0 +1,120 @@
+{
+ "en": "WORLD ENTRANCE (TRAINING zone list)",
+ "zh": "世界入口",
+ "screen": "TRAINING",
+ "source": "8x16 game font tiles (inventory.json), 'WORLD ENTRANCE', TRAINING's zone panel",
+ "sprites": [
+  "sprite 0 0 1x2 6d5395582dc46130 c9d840160e3bf888",
+  "sprite 8 0 1x2 39a0942751e8d911 f0c31d793e4f9684",
+  "sprite 16 0 1x2 b9387727998443f0 fc22ab5c2ead4cb6",
+  "sprite 24 0 1x2 9710a8c488355f0e 56e9160cea095d49",
+  "sprite 32 0 1x2 39a0942751e8d911 0b0636d403f89ab5",
+  "sprite 48 0 1x2 2ccc5225a3934a44 09e0974adfa3ac03",
+  "sprite 56 0 1x2 4319677a654f8ee1 2b121b6e735114cb",
+  "sprite 64 0 1x2 fc2e5150537bf7a6 c3905656a6c46b9a",
+  "sprite 72 0 1x2 b9387727998443f0 fc22ab5c2ead4cb6",
+  "sprite 80 0 1x2 39a0942751e8d911 e36ba6a76f511643",
+  "sprite 88 0 1x2 4319677a654f8ee1 2b121b6e735114cb",
+  "sprite 96 0 1x2 c72a4a0b99fc8fa8 815d62102bf06998",
+  "sprite 104 0 1x2 2ccc5225a3934a44 09e0974adfa3ac03"
+ ],
+ "align": "left",
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 16,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "世界入口",
+   "style": "font16",
+   "align": "left",
+   "y": 0,
+   "region": [
+    2,
+    200
+   ]
+  }
+ ],
+ "preview_palette": [
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   255,
+   255,
+   255
+  ],
+  [
+   219,
+   146,
+   219
+  ],
+  [
+   109,
+   36,
+   109
+  ],
+  [
+   73,
+   0,
+   73
+  ],
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   219
+  ],
+  [
+   36,
+   73,
+   255
+  ],
+  [
+   73,
+   146,
+   255
+  ],
+  [
+   182,
+   255,
+   255
+  ],
+  [
+   255,
+   219,
+   0
+  ],
+  [
+   182,
+   73,
+   0
+  ],
+  [
+   73,
+   0,
+   0
+  ],
+  [
+   0,
+   73,
+   0
+  ],
+  [
+   0,
+   146,
+   0
+  ],
+  [
+   0,
+   255,
+   0
+  ]
+ ]
+}

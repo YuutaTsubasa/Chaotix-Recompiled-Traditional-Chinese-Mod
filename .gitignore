@@ -1,0 +1,6 @@
+work/
+preview/
+__pycache__/
+release/screenshots/
+release/*.zip
+inventory/sheets/

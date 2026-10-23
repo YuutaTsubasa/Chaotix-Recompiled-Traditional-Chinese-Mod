@@ -1,0 +1,6 @@
+# DATA LOAD (DELETE chosen): REALLY? (delete confirmation), NO (delete confirmation): box, top -> 確定嗎？ / 否 (zh-TW translation mod)
+# built by tools/build_mdsprite.py from text/mdsprite/really_top.json
+align left
+sprite 0 0 4x4 7de9f9d2f1fd4d4e 3f8ac8f2633c54b3 3f8ac8f2633c54b3 3f8ac8f2633c54b3 53ad88cfa98ac607 0427122ec7560708 858af6a770d05fab c76fb4a479d3b103 53ad88cfa98ac607 01e96936b7611227 5f795f35c8ee05f6 c76fb4a479d3b103 53ad88cfa98ac607 778c498511c9c402 a35f4614fdfd0703 445701903d730432
+sprite 32 0 4x4 53ad88cfa98ac607 5046de5a0e81cd06 3775df78c85aa190 6323f01ac079479a 53ad88cfa98ac607 2cd28d456b5d16f7 899b1da182f198e7 d025a861a34579cb 53ad88cfa98ac607 44b3806cf7d0d40d 7a27226d8c672d23 7f5444a853f5b1b3 53ad88cfa98ac607 3491ea38a8cff3ea c76fb4a479d3b103 c76fb4a479d3b103
+sprite 64 0 3x4 53ad88cfa98ac607 4b67aa1d35400f60 caa4ae71520c2408 c76fb4a479d3b103 e72acb2a228b676e a1a06aec1dfabb33 a1a06aec1dfabb33 a1a06aec1dfabb33 171bb79dc8e18503 2a433e18e19dc10b fe390eb009aeee13 fe390eb009aeee13

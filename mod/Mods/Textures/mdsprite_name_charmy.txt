@@ -1,0 +1,12 @@
+# PLAYER SELECT, COMBI SELECT: CHARMY BEE (character select) -> 查米 (zh-TW translation mod)
+# built by tools/build_mdsprite.py from text/mdsprite/name_charmy.json
+align center
+sprite 0 0 1x2 c72a4a0b99fc8fa8 815d62102bf06998
+sprite 8 0 1x2 33c1f543cf8feca7 9ec08155ab7f0b33
+sprite 16 0 1x2 39a0942751e8d911 e36ba6a76f511643
+sprite 24 0 1x2 b9387727998443f0 fc22ab5c2ead4cb6
+sprite 32 0 1x2 c086fd7a63463508 ab83780f170f2e0c
+sprite 40 0 1x2 c79ccd44a686c96f ef624abe648280f8
+sprite 56 0 1x2 b938dc279984ef8f 8e0227572a93ec34
+sprite 64 0 1x2 2ccc5225a3934a44 09e0974adfa3ac03
+sprite 72 0 1x2 2ccc5225a3934a44 09e0974adfa3ac03

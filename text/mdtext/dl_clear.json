@@ -1,0 +1,111 @@
+{
+ "en": "CLEAR (save slot, cleared zone)",
+ "zh": "過關",
+ "screen": "DATA LOAD (used slot)",
+ "align": "center",
+ "source": "work/p4/dlt2/dump/Text/text_002154.txt plane A cells 2,21 5x3",
+ "plane": "A",
+ "rows": [
+  "7c7f8a7820c0890b e5cec741553cbf81 03918a9043dfd4c4 34bbab0d2eb6e76a 7c0c9964748539bf",
+  "311c0a1ee80b541d e6798334d26120b7 b24e3fd511de1683 78ce94edc83a2d8c 4606ee1e5ebbbf6b",
+  "926cd31837ea8e6b 069d9b1c88a0a07b ee7dd1e1d3850d63 ca33c786175f9623 b60267b962e84823"
+ ],
+ "preview_palette": [
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   255,
+   219,
+   0
+  ],
+  [
+   182,
+   73,
+   0
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ]
+ ],
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 16,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "過關",
+   "style": "slot_yellow",
+   "align": "center",
+   "region": [
+    0,
+    38
+   ],
+   "y": 1
+  }
+ ]
+}

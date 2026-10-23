@@ -1,0 +1,105 @@
+{
+ "en": "EXIT (menu) banner",
+ "zh": "離開",
+ "screen": "TRAINING",
+ "source": "work/p4/tr/dump/Text/sprites_002043.txt group 14 (screen 104,182, palette line 1)",
+ "sprites": [
+  "sprite 0 0 4x3 159031c93cc6f212 7fcd3e901678f8c2 9a867e63eb0011e3 3f5e4b94c596c81e e4ebc59a67bc28ec c9b9d15774d24cf3 297c812c23f7bb3f a87e825dbf17b8c9 5d53309a5e55254f 0736f4198a31e6ff 4166831b6dd26213 d859d925d3704937",
+  "sprite 32 0 2x3 490e1b69dcb2deb7 52875a2cc74fbcb3 76d214966ca6b9cf 34c1cc5d7630a28f 7cc960c6f7511643 df25125ed574b8a3"
+ ],
+ "align": "center",
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 17,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "離開",
+   "style": "banner",
+   "align": "center",
+   "y": 0
+  }
+ ],
+ "preview_palette": [
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   255,
+   255,
+   255
+  ],
+  [
+   219,
+   146,
+   219
+  ],
+  [
+   109,
+   36,
+   109
+  ],
+  [
+   73,
+   0,
+   73
+  ],
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   219
+  ],
+  [
+   36,
+   73,
+   255
+  ],
+  [
+   73,
+   146,
+   255
+  ],
+  [
+   182,
+   255,
+   255
+  ],
+  [
+   255,
+   219,
+   0
+  ],
+  [
+   182,
+   73,
+   0
+  ],
+  [
+   73,
+   0,
+   0
+  ],
+  [
+   0,
+   73,
+   0
+  ],
+  [
+   0,
+   146,
+   0
+  ],
+  [
+   0,
+   255,
+   0
+  ]
+ ]
+}

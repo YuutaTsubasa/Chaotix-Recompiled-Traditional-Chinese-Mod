@@ -1,0 +1,6 @@
+# OPTIONS: JUMP (controls): C:JUMP -> 跳躍 (zh-TW translation mod)
+# built by tools/build_mdtext.py from text/mdtext/opt_jump.json
+plane A
+align left
+row 49cc3a7ebcbf7c47 49b1a1d0f548db7f faa0e6eaa95f4343 c47e6d034eb92447
+row 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503

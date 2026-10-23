@@ -1,0 +1,43 @@
+{
+ "en": "EXIT (sign)",
+ "zh": "出口",
+ "canvas": "orig",
+ "unletter": [
+  {
+   "rect": [
+    2,
+    24,
+    50,
+    36
+   ],
+   "idx": [
+    66,
+    67,
+    61,
+    60
+   ],
+   "only": [
+    65
+   ]
+  }
+ ],
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 15,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "出口",
+   "style": "lobby_sign",
+   "valign": [
+    23,
+    37
+   ],
+   "align": "center",
+   "region": [
+    2,
+    52
+   ]
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+# title menu: TRAINING (title menu) -> 練習模式 (zh-TW translation mod)
+# built by tools/build_mdtext.py from text/mdtext/title_training.json
+plane A
+align center
+row 61289eb94ebec2bf 8ab6e8c4c14e5edb 8383a19547aa21e3 ee6410f28116fbcf 06e89b91ed8a5c67 ee6410f28116fbcf 06e89b91ed8a5c67 f8114cb80125279b
+row 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503

@@ -1,0 +1,24 @@
+{
+ "en": "L E V E L",
+ "zh": "關 卡",
+ "canvas": "orig",
+ "erase": [
+  [
+   1,
+   44,
+   67,
+   52
+  ]
+ ],
+ "layers": [
+  {
+   "zh": "關卡",
+   "font": "fusion8",
+   "scale": 1,
+   "gap": 12,
+   "style": "card_small",
+   "y": 45,
+   "align": "center"
+  }
+ ]
+}

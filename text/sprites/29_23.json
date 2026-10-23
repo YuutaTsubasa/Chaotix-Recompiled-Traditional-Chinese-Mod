@@ -1,0 +1,24 @@
+{
+ "en": "(arrow) CHALLENGE AGAIN!! (arrow)",
+ "zh": "再挑戰一次！！",
+ "canvas": "orig",
+ "erase": [
+  [
+   7,
+   0,
+   121,
+   10
+  ]
+ ],
+ "layers": [
+  {
+   "zh": "再挑戰一次！！",
+   "font": "fusion8",
+   "scale": 1,
+   "gap": 2,
+   "style": "aa_again",
+   "y": 1,
+   "align": "center"
+  }
+ ]
+}

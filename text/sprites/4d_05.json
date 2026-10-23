@@ -1,0 +1,20 @@
+{
+ "en": "TOO (BAD!)",
+ "zh": "太",
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 15,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "太",
+   "style": "sp_white",
+   "y": 0,
+   "align": "right",
+   "region": [
+    0,
+    31
+   ]
+  }
+ ]
+}

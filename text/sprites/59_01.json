@@ -1,0 +1,43 @@
+{
+ "en": "PLAY (sign)",
+ "zh": "開始",
+ "canvas": "orig",
+ "unletter": [
+  {
+   "rect": [
+    2,
+    22,
+    50,
+    34
+   ],
+   "idx": [
+    66,
+    67,
+    61,
+    60
+   ],
+   "only": [
+    65
+   ]
+  }
+ ],
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 15,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "開始",
+   "style": "lobby_sign",
+   "valign": [
+    21,
+    35
+   ],
+   "align": "center",
+   "region": [
+    2,
+    52
+   ]
+  }
+ ]
+}

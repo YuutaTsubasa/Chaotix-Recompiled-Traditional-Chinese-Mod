@@ -1,0 +1,16 @@
+{
+ "en": "POINTS",
+ "zh": "得分",
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 15,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "得分",
+   "style": "hud_yellow",
+   "y": 0,
+   "align": "center"
+  }
+ ]
+}

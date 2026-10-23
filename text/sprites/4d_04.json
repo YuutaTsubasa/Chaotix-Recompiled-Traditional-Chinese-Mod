@@ -1,0 +1,17 @@
+{
+ "en": "BAD!",
+ "zh": "可惜了！",
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 15,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "可惜了！",
+   "style": "sp_white",
+   "y": 0,
+   "align": "left",
+   "x": 1
+  }
+ ]
+}

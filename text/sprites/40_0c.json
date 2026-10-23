@@ -1,0 +1,46 @@
+{
+ "en": "NEWTROGIC HIGH ZONE / SPEED SLIDER / CHAOTIX",
+ "zh": "紐托吉克高地／極速滑道／卡歐提斯",
+ "canvas": "orig",
+ "erase": [
+  [
+   0,
+   1,
+   199,
+   51
+  ]
+ ],
+ "layers": [
+  {
+   "zh": "紐托吉克高地",
+   "font": "fusion8",
+   "scale": 1,
+   "gap": 1,
+   "style": "card_small",
+   "y": 4,
+   "align": "center"
+  },
+  {
+   "zh": "極速滑道",
+   "font": "GlowSansTC-Condensed-Heavy.otf",
+   "size": 24,
+   "thresh": 120,
+   "gap": 3,
+   "style": "card_zone",
+   "valign": [
+    13,
+    39
+   ],
+   "align": "center"
+  },
+  {
+   "zh": "卡歐提斯",
+   "font": "fusion8",
+   "scale": 1,
+   "gap": 1,
+   "style": "card_small",
+   "y": 41,
+   "align": "center"
+  }
+ ]
+}

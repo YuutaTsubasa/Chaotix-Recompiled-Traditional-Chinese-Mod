@@ -1,0 +1,20 @@
+{
+ "en": "SCORE (POINTS) yellow",
+ "zh": "賺取",
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 15,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "賺取",
+   "style": "res_yellow",
+   "y": 0,
+   "align": "right",
+   "region": [
+    0,
+    38
+   ]
+  }
+ ]
+}

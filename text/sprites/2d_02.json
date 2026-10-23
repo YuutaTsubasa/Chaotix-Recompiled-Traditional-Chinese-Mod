@@ -1,0 +1,24 @@
+{
+ "en": "LOCK ON",
+ "zh": "鎖定",
+ "canvas": "orig",
+ "erase": [
+  [
+   0,
+   0,
+   20,
+   10
+  ]
+ ],
+ "layers": [
+  {
+   "zh": "鎖定",
+   "font": "fusion8",
+   "scale": 1,
+   "gap": 1,
+   "style": "tt_lock",
+   "y": 1,
+   "align": "center"
+  }
+ ]
+}

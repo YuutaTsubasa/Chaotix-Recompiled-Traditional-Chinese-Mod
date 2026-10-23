@@ -1,0 +1,23 @@
+{
+ "en": "MARINA MADNESS",
+ "zh": "瘋狂海港",
+ "layers": [
+  {
+   "zh": "瘋狂海港",
+   "font": "GlowSansTC-Condensed-Heavy.otf",
+   "size": 22,
+   "thresh": 120,
+   "gap": 3,
+   "style": "res_zone",
+   "valign": [
+    0,
+    23
+   ],
+   "align": "right",
+   "region": [
+    0,
+    151
+   ]
+  }
+ ]
+}

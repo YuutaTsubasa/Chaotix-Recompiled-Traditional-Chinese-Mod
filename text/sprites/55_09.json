@@ -1,0 +1,16 @@
+{
+ "en": "PUSH START",
+ "zh": "請按 START",
+ "layers": [
+  {
+   "zh": "請按 START",
+   "font": "fusion8",
+   "scale": 1,
+   "gap": 1,
+   "space": 4,
+   "style": "title_push",
+   "y": 0,
+   "align": "center"
+  }
+ ]
+}

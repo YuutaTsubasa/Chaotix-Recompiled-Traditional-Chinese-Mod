@@ -1,0 +1,119 @@
+{
+ "en": "AMAZING ARENA (TRAINING zone list)",
+ "zh": "驚奇競技場",
+ "screen": "TRAINING",
+ "source": "8x16 game font tiles (inventory.json), 'AMAZING ARENA', TRAINING's zone panel",
+ "sprites": [
+  "sprite 0 0 1x2 39a0942751e8d911 e36ba6a76f511643",
+  "sprite 8 0 1x2 c086fd7a63463508 ab83780f170f2e0c",
+  "sprite 16 0 1x2 39a0942751e8d911 e36ba6a76f511643",
+  "sprite 24 0 1x2 5f55b861bc08d03d e8de7576bceb3625",
+  "sprite 32 0 1x2 56abb2dc145909d0 c3905656a6c46b9a",
+  "sprite 40 0 1x2 4319677a654f8ee1 2b121b6e735114cb",
+  "sprite 48 0 1x2 da2c03bf9f6316bb ee4b7e8187067354",
+  "sprite 64 0 1x2 39a0942751e8d911 e36ba6a76f511643",
+  "sprite 72 0 1x2 b9387727998443f0 fc22ab5c2ead4cb6",
+  "sprite 80 0 1x2 2ccc5225a3934a44 09e0974adfa3ac03",
+  "sprite 88 0 1x2 4319677a654f8ee1 2b121b6e735114cb",
+  "sprite 96 0 1x2 39a0942751e8d911 e36ba6a76f511643"
+ ],
+ "align": "left",
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 16,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "驚奇競技場",
+   "style": "font16",
+   "align": "left",
+   "y": 0,
+   "region": [
+    2,
+    200
+   ]
+  }
+ ],
+ "preview_palette": [
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   255,
+   255,
+   255
+  ],
+  [
+   219,
+   146,
+   219
+  ],
+  [
+   109,
+   36,
+   109
+  ],
+  [
+   73,
+   0,
+   73
+  ],
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   219
+  ],
+  [
+   36,
+   73,
+   255
+  ],
+  [
+   73,
+   146,
+   255
+  ],
+  [
+   182,
+   255,
+   255
+  ],
+  [
+   255,
+   219,
+   0
+  ],
+  [
+   182,
+   73,
+   0
+  ],
+  [
+   73,
+   0,
+   0
+  ],
+  [
+   0,
+   73,
+   0
+  ],
+  [
+   0,
+   146,
+   0
+  ],
+  [
+   0,
+   255,
+   0
+  ]
+ ]
+}

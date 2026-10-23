@@ -1,0 +1,20 @@
+{
+ "en": "START (THE CLOCK!)",
+ "zh": "開始計時！",
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 15,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "開始計時！",
+   "style": "res_yellow",
+   "y": 0,
+   "align": "center",
+   "region": [
+    0,
+    128
+   ]
+  }
+ ]
+}

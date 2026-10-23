@@ -1,0 +1,6 @@
+# OPTIONS: EXIT (menu) -> 離開 (zh-TW translation mod)
+# built by tools/build_mdtext.py from text/mdtext/opt_exit.json
+plane A
+align left
+row 0be70ba06abdcbbf aba73530258fb9df ee6410f28116fbcf 61289eb94ebec2bf
+row 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503

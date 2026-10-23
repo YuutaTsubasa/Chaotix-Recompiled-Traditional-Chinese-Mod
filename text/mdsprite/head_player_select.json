@@ -1,0 +1,115 @@
+{
+ "en": "PLAYER SELECT (header)",
+ "zh": "選擇角色",
+ "screen": "PLAYER SELECT",
+ "source": "8x16 game font tiles (inventory.json), 'PLAYER  SELECT', header",
+ "sprites": [
+  "sprite 0 0 1x2 b9387727998443f0 426d87c484f6fbf8",
+  "sprite 8 0 1x2 9710a8c488355f0e 56e9160cea095d49",
+  "sprite 16 0 1x2 39a0942751e8d911 e36ba6a76f511643",
+  "sprite 24 0 1x2 c79ccd44a686c96f ef624abe648280f8",
+  "sprite 32 0 1x2 2ccc5225a3934a44 09e0974adfa3ac03",
+  "sprite 40 0 1x2 b9387727998443f0 fc22ab5c2ead4cb6",
+  "sprite 64 0 1x2 5e93fe772590c759 4d7d362eb13af50c",
+  "sprite 72 0 1x2 2ccc5225a3934a44 09e0974adfa3ac03",
+  "sprite 80 0 1x2 9710a8c488355f0e 56e9160cea095d49",
+  "sprite 88 0 1x2 2ccc5225a3934a44 09e0974adfa3ac03",
+  "sprite 96 0 1x2 c72a4a0b99fc8fa8 815d62102bf06998",
+  "sprite 104 0 1x2 fc2e5150537bf7a6 c3905656a6c46b9a"
+ ],
+ "align": "center",
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 16,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "選擇角色",
+   "style": "font16",
+   "align": "center",
+   "y": 0
+  }
+ ],
+ "preview_palette": [
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   255,
+   255,
+   255
+  ],
+  [
+   219,
+   146,
+   219
+  ],
+  [
+   109,
+   36,
+   109
+  ],
+  [
+   73,
+   0,
+   73
+  ],
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   219
+  ],
+  [
+   36,
+   73,
+   255
+  ],
+  [
+   73,
+   146,
+   255
+  ],
+  [
+   182,
+   255,
+   255
+  ],
+  [
+   255,
+   219,
+   0
+  ],
+  [
+   182,
+   73,
+   0
+  ],
+  [
+   73,
+   0,
+   0
+  ],
+  [
+   0,
+   73,
+   0
+  ],
+  [
+   0,
+   146,
+   0
+  ],
+  [
+   0,
+   255,
+   0
+  ]
+ ]
+}

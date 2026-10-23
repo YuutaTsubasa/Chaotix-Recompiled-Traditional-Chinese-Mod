@@ -1,0 +1,21 @@
+# PLAYER SELECT, COMBI SELECT: VECTOR THE CROCODILE (character select) -> 貝庫特 (zh-TW translation mod)
+# built by tools/build_mdsprite.py from text/mdsprite/name_vector.json
+align center
+sprite 0 0 1x2 95360d0e3636b967 119d7d8485d158f1
+sprite 8 0 1x2 2ccc5225a3934a44 09e0974adfa3ac03
+sprite 16 0 1x2 c72a4a0b99fc8fa8 815d62102bf06998
+sprite 24 0 1x2 fc2e5150537bf7a6 c3905656a6c46b9a
+sprite 32 0 1x2 39a0942751e8d911 f0c31d793e4f9684
+sprite 40 0 1x2 b9387727998443f0 fc22ab5c2ead4cb6
+sprite 56 0 1x2 fc2e5150537bf7a6 c3905656a6c46b9a
+sprite 64 0 1x2 33c1f543cf8feca7 9ec08155ab7f0b33
+sprite 72 0 1x2 2ccc5225a3934a44 09e0974adfa3ac03
+sprite 88 0 1x2 c72a4a0b99fc8fa8 815d62102bf06998
+sprite 96 0 1x2 b9387727998443f0 fc22ab5c2ead4cb6
+sprite 104 0 1x2 39a0942751e8d911 f0c31d793e4f9684
+sprite 112 0 1x2 c72a4a0b99fc8fa8 815d62102bf06998
+sprite 120 0 1x2 39a0942751e8d911 f0c31d793e4f9684
+sprite 128 0 1x2 39a0942751e8d911 0b0636d403f89ab5
+sprite 136 0 1x2 56abb2dc145909d0 c3905656a6c46b9a
+sprite 144 0 1x2 9710a8c488355f0e 56e9160cea095d49
+sprite 152 0 1x2 2ccc5225a3934a44 09e0974adfa3ac03

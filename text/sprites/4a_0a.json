@@ -1,0 +1,20 @@
+{
+ "en": "PLAYER (MISS)",
+ "zh": "玩家",
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 15,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "玩家",
+   "style": "res_white",
+   "y": 0,
+   "align": "right",
+   "region": [
+    0,
+    46
+   ]
+  }
+ ]
+}

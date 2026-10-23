@@ -1,0 +1,20 @@
+{
+ "en": "TO (NEXT LEVEL!) yellow",
+ "zh": "前往下一關！",
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 15,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "前往下一關！",
+   "style": "res_yellow",
+   "y": 0,
+   "align": "center",
+   "region": [
+    0,
+    116
+   ]
+  }
+ ]
+}

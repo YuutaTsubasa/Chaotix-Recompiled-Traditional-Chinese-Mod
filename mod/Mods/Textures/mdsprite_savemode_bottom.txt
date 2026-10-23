@@ -1,0 +1,6 @@
+# DATA LOAD (NEW slot chosen): MANUAL (save mode): save slot box, bottom -> 手動 (zh-TW translation mod)
+# built by tools/build_mdsprite.py from text/mdsprite/savemode_bottom.json
+align left
+sprite 0 0 4x3 3f8ac8f2633c54b3 3732ec16cf028473 171bb79dc8e18503 c76fb4a479d3b103 acdc4957ae8ee5ef a903478badb28321 c76fb4a479d3b103 acdc4957ae8ee5ef fe390eb009aeee13 2423ee075f2f1182 acdc4957ae8ee5ef fe390eb009aeee13
+sprite 32 0 4x3 da8318f82c92e959 acdc4957ae8ee5ef fe390eb009aeee13 260c0e6d50dcdd92 acdc4957ae8ee5ef fe390eb009aeee13 6d51cf531281ab0f acdc4957ae8ee5ef fe390eb009aeee13 da8318f82c92e959 acdc4957ae8ee5ef fe390eb009aeee13
+sprite 64 0 3x3 f990170719af8c20 acdc4957ae8ee5ef fe390eb009aeee13 a1a06aec1dfabb33 4d3e967231cafb56 fe390eb009aeee13 fe390eb009aeee13 fe390eb009aeee13 73c5cabe7b39c716

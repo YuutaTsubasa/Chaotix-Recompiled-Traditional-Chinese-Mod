@@ -1,0 +1,15 @@
+{
+ "en": "CLEAR (attraction board)",
+ "zh": "過關",
+ "layers": [
+  {
+   "zh": "過關",
+   "font": "fusion8",
+   "scale": 1,
+   "gap": 1,
+   "style": "lobby_grey",
+   "y": 0,
+   "align": "center"
+  }
+ ]
+}

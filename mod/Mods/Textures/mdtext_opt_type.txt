@@ -1,0 +1,6 @@
+# OPTIONS: TYPE (controls): 1P/2P TYPE n -> 類型 (zh-TW translation mod)
+# built by tools/build_mdtext.py from text/mdtext/opt_type.json
+plane A
+align center
+row 61289eb94ebec2bf cb9777b656d58ec3 c47e6d034eb92447 0be70ba06abdcbbf
+row 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503

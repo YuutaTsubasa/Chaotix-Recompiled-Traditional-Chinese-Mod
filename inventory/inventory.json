@@ -1,0 +1,4122 @@
+{
+ "game": "Knuckles' Chaotix (32X) as run by Knuckles' Chaotix Recompiled",
+ "count": 139,
+ "fonts": {
+  "game_font_8x16": {
+   "source": "Nemesis at ROM 0x2C4B20, 94 tiles, palette ROM 0x03E8CA line 0; glyph -> [top tile hash, bottom tile hash]",
+   "glyphs": {
+    "0": [
+     "84fcebf0a57670b3",
+     "33e356bc3dd12678"
+    ],
+    "1": [
+     "93f9416ffb7018f9",
+     "a8c5f499a9b6afe7"
+    ],
+    "2": [
+     "00ab48fc752ec41b",
+     "b41be91d844fa95d"
+    ],
+    "3": [
+     "a66aa80b3e997c1f",
+     "605e817e15521b93"
+    ],
+    "4": [
+     "16e9aaffc0b472e8",
+     "b7148a6aac0c1e6f"
+    ],
+    "5": [
+     "b264bfd97f63059a",
+     "ceb04d047901d664"
+    ],
+    "6": [
+     "108284d56a6edb8c",
+     "7236a28341f7e2ed"
+    ],
+    "7": [
+     "7a66c9c4ef1d9c73",
+     "07e0b5b783935368"
+    ],
+    "8": [
+     "5e5e3f08122c5dcc",
+     "e6aa9e05735cd43d"
+    ],
+    "9": [
+     "c6760fe8cf04caf4",
+     "aaedb3affe4d4f5c"
+    ],
+    "A": [
+     "39a0942751e8d911",
+     "e36ba6a76f511643"
+    ],
+    "B": [
+     "b938dc279984ef8f",
+     "8e0227572a93ec34"
+    ],
+    "C": [
+     "c72a4a0b99fc8fa8",
+     "815d62102bf06998"
+    ],
+    "D": [
+     "39a0942751e8d911",
+     "0b0636d403f89ab5"
+    ],
+    "E": [
+     "2ccc5225a3934a44",
+     "09e0974adfa3ac03"
+    ],
+    "F": [
+     "2ccc5225a3934a44",
+     "ea724c844a69c3bd"
+    ],
+    "G": [
+     "da2c03bf9f6316bb",
+     "ee4b7e8187067354"
+    ],
+    "H": [
+     "33c1f543cf8feca7",
+     "9ec08155ab7f0b33"
+    ],
+    "I": [
+     "56abb2dc145909d0",
+     "c3905656a6c46b9a"
+    ],
+    "J": [
+     "03c48a681e01fd86",
+     "a1e76c995f49ee88"
+    ],
+    "K": [
+     "f1319458cdb63911",
+     "100b2f0ae085f903"
+    ],
+    "L": [
+     "9710a8c488355f0e",
+     "56e9160cea095d49"
+    ],
+    "M": [
+     "c086fd7a63463508",
+     "ab83780f170f2e0c"
+    ],
+    "N": [
+     "4319677a654f8ee1",
+     "2b121b6e735114cb"
+    ],
+    "O": [
+     "39a0942751e8d911",
+     "f0c31d793e4f9684"
+    ],
+    "P": [
+     "b9387727998443f0",
+     "426d87c484f6fbf8"
+    ],
+    "Q": [
+     "39a0942751e8d911",
+     "2f9a7a301ed926b7"
+    ],
+    "R": [
+     "b9387727998443f0",
+     "fc22ab5c2ead4cb6"
+    ],
+    "S": [
+     "5e93fe772590c759",
+     "4d7d362eb13af50c"
+    ],
+    "T": [
+     "fc2e5150537bf7a6",
+     "c3905656a6c46b9a"
+    ],
+    "U": [
+     "eefe8dd4d85403b7",
+     "f0c31d793e4f9684"
+    ],
+    "V": [
+     "95360d0e3636b967",
+     "119d7d8485d158f1"
+    ],
+    "W": [
+     "6d5395582dc46130",
+     "c9d840160e3bf888"
+    ],
+    "X": [
+     "142394ea34cb000d",
+     "d817ccce002eaa5f"
+    ],
+    "Y": [
+     "c79ccd44a686c96f",
+     "ef624abe648280f8"
+    ],
+    "Z": [
+     "5f55b861bc08d03d",
+     "e8de7576bceb3625"
+    ],
+    "?": [
+     "4bd809b2d7fa0c5f",
+     "58d66b2cba3480ff"
+    ],
+    "!": [
+     "56abb2dc145909d0",
+     "cf6d50b39906488f"
+    ],
+    "-": [
+     "c14558d17539622a",
+     "510f32eafcb10a36"
+    ],
+    ",": [
+     "171bb79dc8e18503",
+     "4e5750b53b17f51f"
+    ],
+    ".": [
+     "171bb79dc8e18503",
+     "2ae1c1ea6d47f504"
+    ],
+    "male": [
+     "0e70113f64c8e5a7",
+     "b75d287b28c3bb18"
+    ],
+    "female": [
+     "d9e30776b43beafe",
+     "91f2fd0f17885eb0"
+    ],
+    "_": [
+     "171bb79dc8e18503",
+     "aaf00649ea488a17"
+    ],
+    "ldquo": [
+     "645bd2df31a993d0",
+     "171bb79dc8e18503"
+    ],
+    "rdquo": [
+     "da5ab329d03e8af0",
+     "171bb79dc8e18503"
+    ],
+    "rsquo": [
+     "efa6576c2e22e79f",
+     "171bb79dc8e18503"
+    ]
+   }
+  },
+  "menu_font_8x8": {
+   "source": "title menu and OPTIONS screen, read from the screen; glyph -> tile hash (letters seen only)",
+   "glyphs": {
+    "A": "8383a19547aa21e3",
+    "C": "06849326c9a1f6b7",
+    "D": "c2b0afc8d81f2553",
+    "E": "0be70ba06abdcbbf",
+    "F": "0346df9f43995807",
+    "G": "f8114cb80125279b",
+    "I": "ee6410f28116fbcf",
+    "L": "11afecf7114bcf30",
+    "N": "06e89b91ed8a5c67",
+    "O": "c55f51f079e83c63",
+    "P": "c47e6d034eb92447",
+    "Q": "90b290db4b02d4a3",
+    "R": "8ab6e8c4c14e5edb",
+    "S": "262ed75e7586890f",
+    "T": "61289eb94ebec2bf",
+    "U": "49b1a1d0f548db7f",
+    "X": "aba73530258fb9df"
+   }
+  }
+ },
+ "entries": [
+  {
+   "id": "title_logo_left",
+   "scene": [
+    "title"
+   ],
+   "kind": "32x",
+   "bank": "55",
+   "frame": "0a",
+   "replace_with": "32x_55_0a.png (or the cell in sheet 32x_55.png)",
+   "en": "CHAOTIX (left half) / FEATURING KNUCKLES THE ECHIDNA. / WELCOME TO THE NEXT LEVEL / IN 32X WORLD / [PUSH START box]",
+   "size_px": [
+    146,
+    112
+   ],
+   "ink_px": [
+    146,
+    112
+   ],
+   "style": "logo in purple/gold 3D letters; tagline 3 lines of ~6 px dark-olive letters on the gold bar; boxed PUSH START in blue",
+   "drawing": "the logo, tagline and the PUSH START box are one picture split in two halves (0a left, 0b right, 146x112 each); words cross the split, so both halves must be redrawn together",
+   "letter_font": false,
+   "work_file": "work/title/sheets/32x_55.png",
+   "review_crop": "sheets/32x_55_0a.png"
+  },
+  {
+   "id": "title_logo_right",
+   "scene": [
+    "title"
+   ],
+   "kind": "32x",
+   "bank": "55",
+   "frame": "0b",
+   "replace_with": "32x_55_0b.png (or the cell in sheet 32x_55.png)",
+   "en": "CHAOTIX (right half) + TM / tagline right half / [PUSH START box]",
+   "size_px": [
+    146,
+    112
+   ],
+   "ink_px": [
+    146,
+    112
+   ],
+   "style": "see title_logo_left",
+   "drawing": "right half of the logo picture",
+   "letter_font": false,
+   "work_file": "work/title/sheets/32x_55.png",
+   "review_crop": "sheets/32x_55_0b.png"
+  },
+  {
+   "id": "title_push_start",
+   "scene": [
+    "title"
+   ],
+   "kind": "32x",
+   "bank": "55",
+   "frame": "09",
+   "replace_with": "32x_55_09.png (or the cell in sheet 32x_55.png)",
+   "en": "PUSH START",
+   "size_px": [
+    78,
+    8
+   ],
+   "ink_px": [
+    78,
+    8
+   ],
+   "style": "white/pink 8 px letters with magenta shading",
+   "drawing": "whole phrase, one sprite (the flashing text in the logo box)",
+   "letter_font": false,
+   "work_file": "work/title/sheets/32x_55.png",
+   "review_crop": "sheets/32x_55_09.png"
+  },
+  {
+   "id": "title_copyright",
+   "scene": [
+    "title"
+   ],
+   "kind": "32x",
+   "bank": "55",
+   "frame": "0d",
+   "replace_with": "32x_55_0d.png (or the cell in sheet 32x_55.png)",
+   "en": "©SEGA ENTERPRISES,LTD.1995",
+   "size_px": [
+    204,
+    8
+   ],
+   "ink_px": [
+    203,
+    8
+   ],
+   "style": "white 8 px letters, black outline",
+   "drawing": "whole line, one sprite; legal line, probably kept as is",
+   "letter_font": false,
+   "work_file": "work/title/sheets/32x_55.png",
+   "review_crop": "sheets/32x_55_0d.png"
+  },
+  {
+   "id": "hud_points",
+   "scene": [
+    "level",
+    "results"
+   ],
+   "kind": "32x",
+   "bank": "13",
+   "frame": "00",
+   "replace_with": "32x_13_00.png (or the cell in sheet 32x_13.png)",
+   "en": "POINTS",
+   "size_px": [
+    46,
+    14
+   ],
+   "ink_px": [
+    45,
+    14
+   ],
+   "style": "yellow, dark-red shadow, 14 px",
+   "drawing": "whole word",
+   "letter_font": false,
+   "work_file": "work/tc/sheets/32x_13.png",
+   "review_crop": "sheets/32x_13_00.png"
+  },
+  {
+   "id": "hud_rings",
+   "scene": [
+    "level",
+    "bonus",
+    "special",
+    "results"
+   ],
+   "kind": "32x",
+   "bank": "13",
+   "frame": "01",
+   "replace_with": "32x_13_01.png (or the cell in sheet 32x_13.png)",
+   "en": "RINGS",
+   "size_px": [
+    38,
+    14
+   ],
+   "ink_px": [
+    37,
+    14
+   ],
+   "style": "yellow, 14 px",
+   "drawing": "whole word; 0x02 is the red flashing copy",
+   "letter_font": false,
+   "work_file": "work/tc/sheets/32x_13.png",
+   "review_crop": "sheets/32x_13_01.png"
+  },
+  {
+   "id": "hud_rings_red",
+   "scene": [
+    "level"
+   ],
+   "kind": "32x",
+   "bank": "13",
+   "frame": "02",
+   "replace_with": "32x_13_02.png (or the cell in sheet 32x_13.png)",
+   "en": "RINGS (red)",
+   "size_px": [
+    38,
+    14
+   ],
+   "ink_px": [
+    37,
+    14
+   ],
+   "style": "red flashing variant (no rings)",
+   "drawing": "whole word",
+   "letter_font": false,
+   "work_file": "work/tc/sheets/32x_13.png",
+   "review_crop": "sheets/32x_13_02.png"
+  },
+  {
+   "id": "hud_time",
+   "scene": [
+    "level",
+    "results"
+   ],
+   "kind": "32x",
+   "bank": "13",
+   "frame": "03",
+   "replace_with": "32x_13_03.png (or the cell in sheet 32x_13.png)",
+   "en": "TIME",
+   "size_px": [
+    32,
+    14
+   ],
+   "ink_px": [
+    30,
+    14
+   ],
+   "style": "yellow, 14 px",
+   "drawing": "whole word; 0x04 red copy",
+   "letter_font": false,
+   "work_file": "work/tc/sheets/32x_13.png",
+   "review_crop": "sheets/32x_13_03.png"
+  },
+  {
+   "id": "hud_time_red",
+   "scene": [
+    "level"
+   ],
+   "kind": "32x",
+   "bank": "13",
+   "frame": "04",
+   "replace_with": "32x_13_04.png (or the cell in sheet 32x_13.png)",
+   "en": "TIME (red)",
+   "size_px": [
+    32,
+    14
+   ],
+   "ink_px": [
+    30,
+    14
+   ],
+   "style": "red flashing variant",
+   "drawing": "whole word",
+   "letter_font": false,
+   "work_file": "work/tc/sheets/32x_13.png",
+   "review_crop": "sheets/32x_13_04.png"
+  },
+  {
+   "id": "hud_pause",
+   "scene": [
+    "level (paused)"
+   ],
+   "kind": "32x",
+   "bank": "13",
+   "frame": "05",
+   "replace_with": "32x_13_05.png (or the cell in sheet 32x_13.png)",
+   "en": "PAUSE",
+   "size_px": [
+    40,
+    14
+   ],
+   "ink_px": [
+    39,
+    14
+   ],
+   "style": "yellow, 14 px",
+   "drawing": "whole word; followed by \"!\" (frame 0x06) as a separate sprite",
+   "letter_font": false,
+   "work_file": "work/tc/sheets/32x_13.png",
+   "review_crop": "sheets/32x_13_05.png"
+  },
+  {
+   "id": "hud_exclaim",
+   "scene": [
+    "level (paused)"
+   ],
+   "kind": "32x",
+   "bank": "13",
+   "frame": "06",
+   "replace_with": "32x_13_06.png (or the cell in sheet 32x_13.png)",
+   "en": "!",
+   "size_px": [
+    6,
+    14
+   ],
+   "ink_px": [
+    5,
+    14
+   ],
+   "style": "yellow",
+   "drawing": "punctuation sprite after PAUSE (could be blanked)",
+   "letter_font": false,
+   "work_file": "work/tc/sheets/32x_13.png",
+   "review_crop": "sheets/32x_13_06.png"
+  },
+  {
+   "id": "hud_limits",
+   "scene": [
+    "special"
+   ],
+   "kind": "32x",
+   "bank": "13",
+   "frame": "07",
+   "replace_with": "32x_13_07.png (or the cell in sheet 32x_13.png)",
+   "en": "LIMITS",
+   "size_px": [
+    44,
+    14
+   ],
+   "ink_px": [
+    42,
+    14
+   ],
+   "style": "yellow, 14 px",
+   "drawing": "whole word; 0x08 red copy",
+   "letter_font": false,
+   "work_file": "work/tc/sheets/32x_13.png",
+   "review_crop": "sheets/32x_13_07.png"
+  },
+  {
+   "id": "hud_limits_red",
+   "scene": [
+    "special"
+   ],
+   "kind": "32x",
+   "bank": "13",
+   "frame": "08",
+   "replace_with": "32x_13_08.png (or the cell in sheet 32x_13.png)",
+   "en": "LIMITS (red)",
+   "size_px": [
+    44,
+    14
+   ],
+   "ink_px": [
+    42,
+    14
+   ],
+   "style": "red variant",
+   "drawing": "whole word",
+   "letter_font": false,
+   "work_file": "work/tc/sheets/32x_13.png",
+   "review_crop": "sheets/32x_13_08.png"
+  },
+  {
+   "id": "hud_attack",
+   "scene": [
+    "not seen (special/2P?)"
+   ],
+   "kind": "32x",
+   "bank": "13",
+   "frame": "09",
+   "replace_with": "32x_13_09.png (or the cell in sheet 32x_13.png)",
+   "en": "ATTACK",
+   "size_px": [
+    48,
+    14
+   ],
+   "ink_px": [
+    47,
+    14
+   ],
+   "style": "yellow, 14 px",
+   "drawing": "whole word; 0x0a red copy",
+   "letter_font": false,
+   "work_file": "work/tc/sheets/32x_13.png",
+   "review_crop": "sheets/32x_13_09.png"
+  },
+  {
+   "id": "hud_attack_red",
+   "scene": [
+    "not seen"
+   ],
+   "kind": "32x",
+   "bank": "13",
+   "frame": "0a",
+   "replace_with": "32x_13_0a.png (or the cell in sheet 32x_13.png)",
+   "en": "ATTACK (red)",
+   "size_px": [
+    48,
+    14
+   ],
+   "ink_px": [
+    47,
+    14
+   ],
+   "style": "red variant",
+   "drawing": "whole word",
+   "letter_font": false,
+   "work_file": "work/tc/sheets/32x_13.png",
+   "review_crop": "sheets/32x_13_0a.png"
+  },
+  {
+   "id": "hud_hurry",
+   "scene": [
+    "not seen"
+   ],
+   "kind": "32x",
+   "bank": "13",
+   "frame": "0b",
+   "replace_with": "32x_13_0b.png (or the cell in sheet 32x_13.png)",
+   "en": "HURRY",
+   "size_px": [
+    40,
+    14
+   ],
+   "ink_px": [
+    39,
+    14
+   ],
+   "style": "yellow, 14 px",
+   "drawing": "whole word",
+   "letter_font": false,
+   "work_file": "work/tc/sheets/32x_13.png",
+   "review_crop": "sheets/32x_13_0b.png"
+  },
+  {
+   "id": "hud_up",
+   "scene": [
+    "not seen"
+   ],
+   "kind": "32x",
+   "bank": "13",
+   "frame": "0c",
+   "replace_with": "32x_13_0c.png (or the cell in sheet 32x_13.png)",
+   "en": "UP",
+   "size_px": [
+    16,
+    14
+   ],
+   "ink_px": [
+    15,
+    14
+   ],
+   "style": "yellow, 14 px",
+   "drawing": "whole word",
+   "letter_font": false,
+   "work_file": "work/tc/sheets/32x_13.png",
+   "review_crop": "sheets/32x_13_0c.png"
+  },
+  {
+   "id": "hud_score",
+   "scene": [
+    "level",
+    "bonus",
+    "results"
+   ],
+   "kind": "32x",
+   "bank": "13",
+   "frame": "25",
+   "replace_with": "32x_13_25.png (or the cell in sheet 32x_13.png)",
+   "en": "SCORE",
+   "size_px": [
+    40,
+    14
+   ],
+   "ink_px": [
+    39,
+    14
+   ],
+   "style": "yellow, dark-red shadow, 14 px",
+   "drawing": "whole word",
+   "letter_font": false,
+   "work_file": "work/tc/sheets/32x_13.png",
+   "review_crop": "sheets/32x_13_25.png"
+  },
+  {
+   "id": "hud_hold",
+   "scene": [
+    "level"
+   ],
+   "kind": "32x",
+   "bank": "13",
+   "frame": "26",
+   "replace_with": "32x_13_26.png (or the cell in sheet 32x_13.png)",
+   "en": "HOLD!",
+   "size_px": [
+    34,
+    20
+   ],
+   "ink_px": [
+    34,
+    20
+   ],
+   "style": "black letters in a white speech bubble",
+   "drawing": "whole picture",
+   "letter_font": false,
+   "work_file": "work/tc/sheets/32x_13.png",
+   "review_crop": "sheets/32x_13_26.png"
+  },
+  {
+   "id": "hud_score_red",
+   "scene": [
+    "not seen"
+   ],
+   "kind": "32x",
+   "bank": "13",
+   "frame": "3a",
+   "replace_with": "32x_13_3a.png (or the cell in sheet 32x_13.png)",
+   "en": "SCORE (red)",
+   "size_px": [
+    40,
+    14
+   ],
+   "ink_px": [
+    39,
+    14
+   ],
+   "style": "red variant",
+   "drawing": "whole word",
+   "letter_font": false,
+   "work_file": "work/tc/sheets/32x_13.png",
+   "review_crop": "sheets/32x_13_3a.png"
+  },
+  {
+   "id": "hud_level",
+   "scene": [
+    "not seen"
+   ],
+   "kind": "32x",
+   "bank": "13",
+   "frame": "3d",
+   "replace_with": "32x_13_3d.png (or the cell in sheet 32x_13.png)",
+   "en": "LEVEL",
+   "size_px": [
+    44,
+    14
+   ],
+   "ink_px": [
+    42,
+    14
+   ],
+   "style": "yellow, 14 px",
+   "drawing": "whole word",
+   "letter_font": false,
+   "work_file": "work/tc/sheets/32x_13.png",
+   "review_crop": "sheets/32x_13_3d.png"
+  },
+  {
+   "id": "hud_demo",
+   "scene": [
+    "attract demo"
+   ],
+   "kind": "32x",
+   "bank": "13",
+   "frame": "40",
+   "replace_with": "32x_13_40.png (or the cell in sheet 32x_13.png)",
+   "en": "-DEMO-",
+   "size_px": [
+    64,
+    13
+   ],
+   "ink_px": [
+    64,
+    13
+   ],
+   "style": "yellow on black bar",
+   "drawing": "whole word",
+   "letter_font": false,
+   "work_file": "work/tc/sheets/32x_13.png",
+   "review_crop": "sheets/32x_13_40.png"
+  },
+  {
+   "id": "card_level",
+   "scene": [
+    "title card"
+   ],
+   "kind": "32x",
+   "bank": "40",
+   "frame": "07",
+   "replace_with": "32x_40_07.png (or the cell in sheet 32x_40.png)",
+   "en": "L E V E L",
+   "size_px": [
+    68,
+    54
+   ],
+   "ink_px": [
+    68,
+    54
+   ],
+   "style": "white spaced letters on black, ~7 px, at the bottom of a 68x54 black box",
+   "drawing": "whole word",
+   "letter_font": false,
+   "work_file": "work/tc/sheets/32x_40.png",
+   "review_crop": "sheets/32x_40_07.png"
+  },
+  {
+   "id": "card_botanic_base",
+   "scene": [
+    "title card"
+   ],
+   "kind": "32x",
+   "bank": "40",
+   "frame": "08",
+   "replace_with": "32x_40_08.png (or the cell in sheet 32x_40.png)",
+   "en": "NEWTROGIC HIGH ZONE / BOTANIC BASE / CHAOTIX",
+   "size_px": [
+    200,
+    52
+   ],
+   "ink_px": [
+    200,
+    52
+   ],
+   "style": "zone name ~24 px tall, green (palette per zone) with dark shading; two ~7 px white lines above and below",
+   "drawing": "whole picture 200x52 per zone (name + both small lines)",
+   "letter_font": false,
+   "work_file": "work/tc/sheets/32x_40.png",
+   "review_crop": "sheets/32x_40_08.png"
+  },
+  {
+   "id": "card_marina_madness",
+   "scene": [
+    "title card"
+   ],
+   "kind": "32x",
+   "bank": "40",
+   "frame": "09",
+   "replace_with": "32x_40_09.png (or the cell in sheet 32x_40.png)",
+   "en": "NEWTROGIC HIGH ZONE / MARINA MADNESS / CHAOTIX",
+   "size_px": [
+    200,
+    52
+   ],
+   "ink_px": [
+    200,
+    52
+   ],
+   "style": "as card_botanic_base",
+   "drawing": "whole picture",
+   "letter_font": false,
+   "work_file": "work/tc/sheets/32x_40.png",
+   "review_crop": "sheets/32x_40_09.png"
+  },
+  {
+   "id": "card_amazing_arena",
+   "scene": [
+    "title card"
+   ],
+   "kind": "32x",
+   "bank": "40",
+   "frame": "0a",
+   "replace_with": "32x_40_0a.png (or the cell in sheet 32x_40.png)",
+   "en": "NEWTROGIC HIGH ZONE / AMAZING ARENA / CHAOTIX",
+   "size_px": [
+    200,
+    52
+   ],
+   "ink_px": [
+    200,
+    52
+   ],
+   "style": "as card_botanic_base",
+   "drawing": "whole picture",
+   "letter_font": false,
+   "work_file": "work/tc/sheets/32x_40.png",
+   "review_crop": "sheets/32x_40_0a.png"
+  },
+  {
+   "id": "card_techno_tower",
+   "scene": [
+    "title card"
+   ],
+   "kind": "32x",
+   "bank": "40",
+   "frame": "0b",
+   "replace_with": "32x_40_0b.png (or the cell in sheet 32x_40.png)",
+   "en": "NEWTROGIC HIGH ZONE / TECHNO TOWER / CHAOTIX",
+   "size_px": [
+    200,
+    52
+   ],
+   "ink_px": [
+    200,
+    52
+   ],
+   "style": "as card_botanic_base",
+   "drawing": "whole picture",
+   "letter_font": false,
+   "work_file": "work/tc/sheets/32x_40.png",
+   "review_crop": "sheets/32x_40_0b.png"
+  },
+  {
+   "id": "card_speed_slider",
+   "scene": [
+    "title card"
+   ],
+   "kind": "32x",
+   "bank": "40",
+   "frame": "0c",
+   "replace_with": "32x_40_0c.png (or the cell in sheet 32x_40.png)",
+   "en": "NEWTROGIC HIGH ZONE / SPEED SLIDER / CHAOTIX",
+   "size_px": [
+    200,
+    52
+   ],
+   "ink_px": [
+    200,
+    52
+   ],
+   "style": "as card_botanic_base",
+   "drawing": "whole picture",
+   "letter_font": false,
+   "work_file": "work/tc/sheets/32x_40.png",
+   "review_crop": "sheets/32x_40_0c.png"
+  },
+  {
+   "id": "card_isolated_island",
+   "scene": [
+    "title card (intro, training)"
+   ],
+   "kind": "32x",
+   "bank": "40",
+   "frame": "10",
+   "replace_with": "32x_40_10.png (or the cell in sheet 32x_40.png)",
+   "en": "NEWTROGIC HIGH ZONE / ISOLATED ISLAND / CHAOTIX",
+   "size_px": [
+    200,
+    52
+   ],
+   "ink_px": [
+    200,
+    52
+   ],
+   "style": "as card_botanic_base",
+   "drawing": "whole picture",
+   "letter_font": false,
+   "work_file": "work/tc/sheets/32x_40.png",
+   "review_crop": "sheets/32x_40_10.png"
+  },
+  {
+   "id": "card_cast_list",
+   "scene": [
+    "title card"
+   ],
+   "kind": "32x",
+   "bank": "40",
+   "frame": "0d",
+   "replace_with": "32x_40_0d.png (or the cell in sheet 32x_40.png)",
+   "en": "ESPIO!! KNUCKLES!! MIGHTY!! CHARMY BEE!! VECTOR!! HEAVY!! BOMB!!",
+   "size_px": [
+    72,
+    56
+   ],
+   "ink_px": [
+    72,
+    56
+   ],
+   "style": "7 lines of tiny (~6 px) yellow letters on a yellow/black panel; decorative",
+   "drawing": "whole picture",
+   "letter_font": false,
+   "work_file": "work/tc/sheets/32x_40.png",
+   "review_crop": "sheets/32x_40_0d.png"
+  },
+  {
+   "id": "card_barcode",
+   "scene": [
+    "title card"
+   ],
+   "kind": "32x",
+   "bank": "40",
+   "frame": "0f",
+   "replace_with": "32x_40_0f.png (or the cell in sheet 32x_40.png)",
+   "en": "023420019023 (barcode digits)",
+   "size_px": [
+    72,
+    40
+   ],
+   "ink_px": [
+    72,
+    40
+   ],
+   "style": "black digits over a barcode",
+   "drawing": "decoration; no translation needed",
+   "letter_font": false,
+   "work_file": "work/tc/sheets/32x_40.png",
+   "review_crop": "sheets/32x_40_0f.png"
+  },
+  {
+   "id": "res_you",
+   "scene": [
+    "results (seen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "00",
+   "replace_with": "32x_4a_00.png (or the cell in sheet 32x_4a.png)",
+   "en": "YOU",
+   "size_px": [
+    24,
+    15
+   ],
+   "ink_px": [
+    23,
+    15
+   ],
+   "style": "white/grey with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_00.png"
+  },
+  {
+   "id": "res_got",
+   "scene": [
+    "results (seen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "01",
+   "replace_with": "32x_4a_01.png (or the cell in sheet 32x_4a.png)",
+   "en": "GOT",
+   "size_px": [
+    24,
+    15
+   ],
+   "ink_px": [
+    23,
+    15
+   ],
+   "style": "white/grey with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_01.png"
+  },
+  {
+   "id": "res_through",
+   "scene": [
+    "results (seen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "02",
+   "replace_with": "32x_4a_02.png (or the cell in sheet 32x_4a.png)",
+   "en": "THROUGH",
+   "size_px": [
+    56,
+    15
+   ],
+   "ink_px": [
+    55,
+    15
+   ],
+   "style": "white/grey with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_02.png"
+  },
+  {
+   "id": "res_time",
+   "scene": [
+    "results (seen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "03",
+   "replace_with": "32x_4a_03.png (or the cell in sheet 32x_4a.png)",
+   "en": "TIME",
+   "size_px": [
+    32,
+    15
+   ],
+   "ink_px": [
+    31,
+    15
+   ],
+   "style": "white/grey with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_03.png"
+  },
+  {
+   "id": "res_ring",
+   "scene": [
+    "results (seen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "04",
+   "replace_with": "32x_4a_04.png (or the cell in sheet 32x_4a.png)",
+   "en": "RING",
+   "size_px": [
+    30,
+    15
+   ],
+   "ink_px": [
+    29,
+    15
+   ],
+   "style": "white/grey with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_04.png"
+  },
+  {
+   "id": "res_secret",
+   "scene": [
+    "results (seen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "05",
+   "replace_with": "32x_4a_05.png (or the cell in sheet 32x_4a.png)",
+   "en": "SECRET",
+   "size_px": [
+    48,
+    15
+   ],
+   "ink_px": [
+    47,
+    15
+   ],
+   "style": "white/grey with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_05.png"
+  },
+  {
+   "id": "res_bonus",
+   "scene": [
+    "results (seen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "06",
+   "replace_with": "32x_4a_06.png (or the cell in sheet 32x_4a.png)",
+   "en": "BONUS",
+   "size_px": [
+    42,
+    15
+   ],
+   "ink_px": [
+    41,
+    15
+   ],
+   "style": "white/grey with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_06.png"
+  },
+  {
+   "id": "res_total",
+   "scene": [
+    "results (seen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "07",
+   "replace_with": "32x_4a_07.png (or the cell in sheet 32x_4a.png)",
+   "en": "TOTAL",
+   "size_px": [
+    40,
+    15
+   ],
+   "ink_px": [
+    39,
+    15
+   ],
+   "style": "white/grey with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_07.png"
+  },
+  {
+   "id": "res_score",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "08",
+   "replace_with": "32x_4a_08.png (or the cell in sheet 32x_4a.png)",
+   "en": "SCORE",
+   "size_px": [
+    40,
+    15
+   ],
+   "ink_px": [
+    39,
+    15
+   ],
+   "style": "white/grey with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_08.png"
+  },
+  {
+   "id": "res_up",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "09",
+   "replace_with": "32x_4a_09.png (or the cell in sheet 32x_4a.png)",
+   "en": "UP!",
+   "size_px": [
+    24,
+    15
+   ],
+   "ink_px": [
+    22,
+    15
+   ],
+   "style": "white/grey with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_09.png"
+  },
+  {
+   "id": "res_player",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "0a",
+   "replace_with": "32x_4a_0a.png (or the cell in sheet 32x_4a.png)",
+   "en": "PLAYER",
+   "size_px": [
+    48,
+    15
+   ],
+   "ink_px": [
+    47,
+    15
+   ],
+   "style": "white/grey with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_0a.png"
+  },
+  {
+   "id": "res_miss",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "0b",
+   "replace_with": "32x_4a_0b.png (or the cell in sheet 32x_4a.png)",
+   "en": "MISS",
+   "size_px": [
+    32,
+    15
+   ],
+   "ink_px": [
+    31,
+    15
+   ],
+   "style": "white/grey with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_0b.png"
+  },
+  {
+   "id": "res_botanic_base",
+   "scene": [
+    "results (seen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "0c",
+   "replace_with": "32x_4a_0c.png (or the cell in sheet 32x_4a.png)",
+   "en": "BOTANIC BASE",
+   "size_px": [
+    116,
+    23
+   ],
+   "ink_px": [
+    114,
+    23
+   ],
+   "style": "white/grey with dark shading, 23 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_0c.png"
+  },
+  {
+   "id": "res_speed_slider",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "0d",
+   "replace_with": "32x_4a_0d.png (or the cell in sheet 32x_4a.png)",
+   "en": "SPEED SLIDER",
+   "size_px": [
+    118,
+    23
+   ],
+   "ink_px": [
+    117,
+    23
+   ],
+   "style": "white/grey with dark shading, 23 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_0d.png"
+  },
+  {
+   "id": "res_amazing_arena",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "0e",
+   "replace_with": "32x_4a_0e.png (or the cell in sheet 32x_4a.png)",
+   "en": "AMAZING ARENA",
+   "size_px": [
+    150,
+    23
+   ],
+   "ink_px": [
+    149,
+    23
+   ],
+   "style": "white/grey with dark shading, 23 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_0e.png"
+  },
+  {
+   "id": "res_techno_tower",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "0f",
+   "replace_with": "32x_4a_0f.png (or the cell in sheet 32x_4a.png)",
+   "en": "TECHNO TOWER",
+   "size_px": [
+    138,
+    23
+   ],
+   "ink_px": [
+    137,
+    23
+   ],
+   "style": "white/grey with dark shading, 23 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_0f.png"
+  },
+  {
+   "id": "res_marina_madness",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "10",
+   "replace_with": "32x_4a_10.png (or the cell in sheet 32x_4a.png)",
+   "en": "MARINA MADNESS",
+   "size_px": [
+    154,
+    23
+   ],
+   "ink_px": [
+    154,
+    23
+   ],
+   "style": "white/grey with dark shading, 23 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_10.png"
+  },
+  {
+   "id": "res_lv1",
+   "scene": [
+    "results (seen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "11",
+   "replace_with": "32x_4a_11.png (or the cell in sheet 32x_4a.png)",
+   "en": "Lv1",
+   "size_px": [
+    22,
+    14
+   ],
+   "ink_px": [
+    21,
+    14
+   ],
+   "style": "white/grey with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_11.png"
+  },
+  {
+   "id": "res_lv2",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "12",
+   "replace_with": "32x_4a_12.png (or the cell in sheet 32x_4a.png)",
+   "en": "Lv2",
+   "size_px": [
+    24,
+    14
+   ],
+   "ink_px": [
+    23,
+    14
+   ],
+   "style": "white/grey with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_12.png"
+  },
+  {
+   "id": "res_lv3",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "13",
+   "replace_with": "32x_4a_13.png (or the cell in sheet 32x_4a.png)",
+   "en": "Lv3",
+   "size_px": [
+    24,
+    14
+   ],
+   "ink_px": [
+    23,
+    14
+   ],
+   "style": "white/grey with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_13.png"
+  },
+  {
+   "id": "res_lv4",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "14",
+   "replace_with": "32x_4a_14.png (or the cell in sheet 32x_4a.png)",
+   "en": "Lv4",
+   "size_px": [
+    26,
+    14
+   ],
+   "ink_px": [
+    24,
+    14
+   ],
+   "style": "white/grey with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_14.png"
+  },
+  {
+   "id": "res_lv5",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "15",
+   "replace_with": "32x_4a_15.png (or the cell in sheet 32x_4a.png)",
+   "en": "Lv5",
+   "size_px": [
+    24,
+    14
+   ],
+   "ink_px": [
+    23,
+    14
+   ],
+   "style": "white/grey with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_15.png"
+  },
+  {
+   "id": "res_start",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "16",
+   "replace_with": "32x_4a_16.png (or the cell in sheet 32x_4a.png)",
+   "en": "START",
+   "size_px": [
+    40,
+    15
+   ],
+   "ink_px": [
+    39,
+    15
+   ],
+   "style": "yellow with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_16.png"
+  },
+  {
+   "id": "res_the",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "17",
+   "replace_with": "32x_4a_17.png (or the cell in sheet 32x_4a.png)",
+   "en": "THE",
+   "size_px": [
+    24,
+    15
+   ],
+   "ink_px": [
+    23,
+    15
+   ],
+   "style": "yellow with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_17.png"
+  },
+  {
+   "id": "res_clock",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "18",
+   "replace_with": "32x_4a_18.png (or the cell in sheet 32x_4a.png)",
+   "en": "CLOCK!",
+   "size_px": [
+    48,
+    15
+   ],
+   "ink_px": [
+    46,
+    15
+   ],
+   "style": "yellow with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_18.png"
+  },
+  {
+   "id": "res_to_y",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "19",
+   "replace_with": "32x_4a_19.png (or the cell in sheet 32x_4a.png)",
+   "en": "TO",
+   "size_px": [
+    16,
+    15
+   ],
+   "ink_px": [
+    15,
+    15
+   ],
+   "style": "yellow with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_19.png"
+  },
+  {
+   "id": "res_next_y",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "1a",
+   "replace_with": "32x_4a_1a.png (or the cell in sheet 32x_4a.png)",
+   "en": "NEXT",
+   "size_px": [
+    36,
+    15
+   ],
+   "ink_px": [
+    34,
+    15
+   ],
+   "style": "yellow with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_1a.png"
+  },
+  {
+   "id": "res_level_y",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "1b",
+   "replace_with": "32x_4a_1b.png (or the cell in sheet 32x_4a.png)",
+   "en": "LEVEL!",
+   "size_px": [
+    48,
+    15
+   ],
+   "ink_px": [
+    46,
+    15
+   ],
+   "style": "yellow with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_1b.png"
+  },
+  {
+   "id": "res_go",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "1c",
+   "replace_with": "32x_4a_1c.png (or the cell in sheet 32x_4a.png)",
+   "en": "GO",
+   "size_px": [
+    16,
+    15
+   ],
+   "ink_px": [
+    15,
+    15
+   ],
+   "style": "yellow with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_1c.png"
+  },
+  {
+   "id": "res_for",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "1d",
+   "replace_with": "32x_4a_1d.png (or the cell in sheet 32x_4a.png)",
+   "en": "FOR",
+   "size_px": [
+    24,
+    15
+   ],
+   "ink_px": [
+    23,
+    15
+   ],
+   "style": "yellow with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_1d.png"
+  },
+  {
+   "id": "res_goal",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "1e",
+   "replace_with": "32x_4a_1e.png (or the cell in sheet 32x_4a.png)",
+   "en": "GOAL!",
+   "size_px": [
+    40,
+    15
+   ],
+   "ink_px": [
+    38,
+    15
+   ],
+   "style": "yellow with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_1e.png"
+  },
+  {
+   "id": "res_get",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "1f",
+   "replace_with": "32x_4a_1f.png (or the cell in sheet 32x_4a.png)",
+   "en": "GET",
+   "size_px": [
+    24,
+    15
+   ],
+   "ink_px": [
+    23,
+    15
+   ],
+   "style": "yellow with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_1f.png"
+  },
+  {
+   "id": "res_enemies",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "20",
+   "replace_with": "32x_4a_20.png (or the cell in sheet 32x_4a.png)",
+   "en": "ENEMIES!",
+   "size_px": [
+    66,
+    15
+   ],
+   "ink_px": [
+    64,
+    15
+   ],
+   "style": "yellow with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_20.png"
+  },
+  {
+   "id": "res_score_y",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "21",
+   "replace_with": "32x_4a_21.png (or the cell in sheet 32x_4a.png)",
+   "en": "SCORE",
+   "size_px": [
+    40,
+    15
+   ],
+   "ink_px": [
+    39,
+    15
+   ],
+   "style": "yellow with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_21.png"
+  },
+  {
+   "id": "res_points",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "22",
+   "replace_with": "32x_4a_22.png (or the cell in sheet 32x_4a.png)",
+   "en": "POINTS",
+   "size_px": [
+    46,
+    15
+   ],
+   "ink_px": [
+    45,
+    15
+   ],
+   "style": "yellow with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_22.png"
+  },
+  {
+   "id": "res_finish",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "23",
+   "replace_with": "32x_4a_23.png (or the cell in sheet 32x_4a.png)",
+   "en": "FINISH",
+   "size_px": [
+    42,
+    15
+   ],
+   "ink_px": [
+    41,
+    15
+   ],
+   "style": "white/grey with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_23.png"
+  },
+  {
+   "id": "res_its",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "24",
+   "replace_with": "32x_4a_24.png (or the cell in sheet 32x_4a.png)",
+   "en": "IT'S",
+   "size_px": [
+    28,
+    15
+   ],
+   "ink_px": [
+    27,
+    15
+   ],
+   "style": "yellow with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_24.png"
+  },
+  {
+   "id": "res_a",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "25",
+   "replace_with": "32x_4a_25.png (or the cell in sheet 32x_4a.png)",
+   "en": "A",
+   "size_px": [
+    8,
+    15
+   ],
+   "ink_px": [
+    7,
+    15
+   ],
+   "style": "yellow with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_25.png"
+  },
+  {
+   "id": "res_new",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "26",
+   "replace_with": "32x_4a_26.png (or the cell in sheet 32x_4a.png)",
+   "en": "NEW",
+   "size_px": [
+    30,
+    15
+   ],
+   "ink_px": [
+    29,
+    15
+   ],
+   "style": "yellow with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_26.png"
+  },
+  {
+   "id": "res_record",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "27",
+   "replace_with": "32x_4a_27.png (or the cell in sheet 32x_4a.png)",
+   "en": "RECORD!",
+   "size_px": [
+    58,
+    15
+   ],
+   "ink_px": [
+    57,
+    15
+   ],
+   "style": "yellow with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_27.png"
+  },
+  {
+   "id": "res_to_w",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "28",
+   "replace_with": "32x_4a_28.png (or the cell in sheet 32x_4a.png)",
+   "en": "TO",
+   "size_px": [
+    16,
+    15
+   ],
+   "ink_px": [
+    15,
+    15
+   ],
+   "style": "white/grey with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_28.png"
+  },
+  {
+   "id": "res_next_w",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "29",
+   "replace_with": "32x_4a_29.png (or the cell in sheet 32x_4a.png)",
+   "en": "NEXT",
+   "size_px": [
+    36,
+    15
+   ],
+   "ink_px": [
+    34,
+    15
+   ],
+   "style": "white/grey with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_29.png"
+  },
+  {
+   "id": "res_level_w",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "2a",
+   "replace_with": "32x_4a_2a.png (or the cell in sheet 32x_4a.png)",
+   "en": "LEVEL!",
+   "size_px": [
+    48,
+    15
+   ],
+   "ink_px": [
+    46,
+    15
+   ],
+   "style": "white/grey with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_2a.png"
+  },
+  {
+   "id": "res_rings",
+   "scene": [
+    "results / level messages (not seen on screen)"
+   ],
+   "kind": "32x",
+   "bank": "4a",
+   "frame": "2e",
+   "replace_with": "32x_4a_2e.png (or the cell in sheet 32x_4a.png)",
+   "en": "RINGS",
+   "size_px": [
+    36,
+    14
+   ],
+   "ink_px": [
+    36,
+    14
+   ],
+   "style": "white/grey with dark shading, 14-15 px tall",
+   "drawing": "one word per sprite; phrases (YOU GOT THROUGH, TIME BONUS, IT'S A NEW RECORD!, START THE CLOCK!, ...) are built by the game from several word sprites at fixed positions",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_4a.png",
+   "review_crop": "sheets/32x_4a_2e.png"
+  },
+  {
+   "id": "goal_clear",
+   "scene": [
+    "level end (goal sign)"
+   ],
+   "kind": "32x",
+   "bank": "23",
+   "frame": "06",
+   "replace_with": "32x_23_06.png (or the cell in sheet 32x_23.png)",
+   "en": "CLEAR",
+   "size_px": [
+    74,
+    26
+   ],
+   "ink_px": [
+    73,
+    26
+   ],
+   "style": "rainbow 3D letters on the goal signboard",
+   "drawing": "whole picture; the sign spins (0x05 / 0x07 are its edge and back)",
+   "letter_font": false,
+   "work_file": "work/scenes/results3/sheets/32x_23.png",
+   "review_crop": "sheets/32x_23_06.png"
+  },
+  {
+   "id": "aa_no_clear",
+   "scene": [
+    "Amazing Arena"
+   ],
+   "kind": "32x",
+   "bank": "3d",
+   "frame": "03",
+   "replace_with": "32x_3d_03.png (or the cell in sheet 32x_3d.png)",
+   "en": "·NO CLEAR·",
+   "size_px": [
+    100,
+    23
+   ],
+   "ink_px": [
+    99,
+    23
+   ],
+   "style": "yellow letters with red outline on a dark plate, ~20 px",
+   "drawing": "whole picture",
+   "letter_font": false,
+   "work_file": "work/z2/sheets/32x_3d.png",
+   "review_crop": "sheets/32x_3d_03.png"
+  },
+  {
+   "id": "aa_challenge_again",
+   "scene": [
+    "Amazing Arena"
+   ],
+   "kind": "32x",
+   "bank": "29",
+   "frame": "23",
+   "replace_with": "32x_29_23.png (or the cell in sheet 32x_29.png)",
+   "en": "◀CHALLENGE AGAIN!!▶",
+   "size_px": [
+    128,
+    10
+   ],
+   "ink_px": [
+    128,
+    10
+   ],
+   "style": "yellow 8 px letters with dark outline, arrows at both ends",
+   "drawing": "whole phrase, one sprite (128x10)",
+   "letter_font": false,
+   "work_file": "work/z2/sheets/32x_29.png",
+   "review_crop": "sheets/32x_29_23.png"
+  },
+  {
+   "id": "obj_lock_on",
+   "scene": [
+    "Techno Tower (target object)"
+   ],
+   "kind": "32x",
+   "bank": "2d",
+   "frame": "02",
+   "replace_with": "32x_2d_02.png (or the cell in sheet 32x_2d.png)",
+   "en": "LOCK ON",
+   "size_px": [
+    20,
+    28
+   ],
+   "ink_px": [
+    20,
+    28
+   ],
+   "style": "tiny yellow letters (2 lines, ~5 px) above a target reticle",
+   "drawing": "whole picture 20x28",
+   "letter_font": false,
+   "work_file": "work/tt1/sheets/32x_2d.png",
+   "review_crop": "sheets/32x_2d_02.png"
+  },
+  {
+   "id": "bonus_500pts",
+   "scene": [
+    "bonus stage"
+   ],
+   "kind": "32x",
+   "bank": "26",
+   "frame": "01",
+   "replace_with": "32x_26_01.png (or the cell in sheet 32x_26.png)",
+   "en": "500 PTS.",
+   "size_px": [
+    32,
+    32
+   ],
+   "ink_px": [
+    32,
+    32
+   ],
+   "style": "white/yellow on orange block",
+   "drawing": "whole block picture",
+   "letter_font": false,
+   "work_file": "work/z9/sheets/32x_26.png",
+   "review_crop": "sheets/32x_26_01.png"
+  },
+  {
+   "id": "bonus_exit_1",
+   "scene": [
+    "bonus stage"
+   ],
+   "kind": "32x",
+   "bank": "26",
+   "frame": "1a",
+   "replace_with": "32x_26_1a.png (or the cell in sheet 32x_26.png)",
+   "en": "EXIT",
+   "size_px": [
+    32,
+    32
+   ],
+   "ink_px": [
+    32,
+    32
+   ],
+   "style": "orange letters on a round red button",
+   "drawing": "whole picture; three colour variants 1a-1c",
+   "letter_font": false,
+   "work_file": "work/z9/sheets/32x_26.png",
+   "review_crop": "sheets/32x_26_1a.png"
+  },
+  {
+   "id": "bonus_exit_2",
+   "scene": [
+    "bonus stage"
+   ],
+   "kind": "32x",
+   "bank": "26",
+   "frame": "1b",
+   "replace_with": "32x_26_1b.png (or the cell in sheet 32x_26.png)",
+   "en": "EXIT",
+   "size_px": [
+    32,
+    32
+   ],
+   "ink_px": [
+    32,
+    32
+   ],
+   "style": "yellow letters on a green button",
+   "drawing": "whole picture",
+   "letter_font": false,
+   "work_file": "work/z9/sheets/32x_26.png",
+   "review_crop": "sheets/32x_26_1b.png"
+  },
+  {
+   "id": "bonus_exit_3",
+   "scene": [
+    "bonus stage"
+   ],
+   "kind": "32x",
+   "bank": "26",
+   "frame": "1c",
+   "replace_with": "32x_26_1c.png (or the cell in sheet 32x_26.png)",
+   "en": "EXIT",
+   "size_px": [
+    32,
+    32
+   ],
+   "ink_px": [
+    32,
+    32
+   ],
+   "style": "white letters on a green button",
+   "drawing": "whole picture",
+   "letter_font": false,
+   "work_file": "work/z9/sheets/32x_26.png",
+   "review_crop": "sheets/32x_26_1c.png"
+  },
+  {
+   "id": "bonus_up",
+   "scene": [
+    "bonus stage"
+   ],
+   "kind": "32x",
+   "bank": "26",
+   "frame": "20",
+   "replace_with": "32x_26_20.png (or the cell in sheet 32x_26.png)",
+   "en": "UP",
+   "size_px": [
+    32,
+    32
+   ],
+   "ink_px": [
+    32,
+    32
+   ],
+   "style": "white letters on a blue/orange button",
+   "drawing": "whole picture",
+   "letter_font": false,
+   "work_file": "work/z9/sheets/32x_26.png",
+   "review_crop": "sheets/32x_26_20.png"
+  },
+  {
+   "id": "bonus_down",
+   "scene": [
+    "bonus stage"
+   ],
+   "kind": "32x",
+   "bank": "26",
+   "frame": "21",
+   "replace_with": "32x_26_21.png (or the cell in sheet 32x_26.png)",
+   "en": "DOWN",
+   "size_px": [
+    32,
+    32
+   ],
+   "ink_px": [
+    32,
+    32
+   ],
+   "style": "white letters on a blue/orange button",
+   "drawing": "whole picture",
+   "letter_font": false,
+   "work_file": "work/z9/sheets/32x_26.png",
+   "review_crop": "sheets/32x_26_21.png"
+  },
+  {
+   "id": "sp_time",
+   "scene": [
+    "special stage"
+   ],
+   "kind": "32x",
+   "bank": "4d",
+   "frame": "00",
+   "replace_with": "32x_4d_00.png (or the cell in sheet 32x_4d.png)",
+   "en": "TIME",
+   "size_px": [
+    32,
+    15
+   ],
+   "ink_px": [
+    31,
+    15
+   ],
+   "style": "white with grey shading, 15 px (drawn scaled up in the tube)",
+   "drawing": "one word per sprite; \"GET nn BLUE SPHERES TO GO\" etc. are built from word sprites and drawn scaled; numbers come from bank 13",
+   "letter_font": false,
+   "work_file": "work/z10/sheets/32x_4d.png",
+   "review_crop": "sheets/32x_4d_00.png"
+  },
+  {
+   "id": "sp_course",
+   "scene": [
+    "special stage"
+   ],
+   "kind": "32x",
+   "bank": "4d",
+   "frame": "01",
+   "replace_with": "32x_4d_01.png (or the cell in sheet 32x_4d.png)",
+   "en": "COURSE",
+   "size_px": [
+    48,
+    15
+   ],
+   "ink_px": [
+    47,
+    15
+   ],
+   "style": "white with grey shading, 15 px (drawn scaled up in the tube)",
+   "drawing": "one word per sprite; \"GET nn BLUE SPHERES TO GO\" etc. are built from word sprites and drawn scaled; numbers come from bank 13",
+   "letter_font": false,
+   "work_file": "work/z10/sheets/32x_4d.png",
+   "review_crop": "sheets/32x_4d_01.png"
+  },
+  {
+   "id": "sp_out",
+   "scene": [
+    "special stage"
+   ],
+   "kind": "32x",
+   "bank": "4d",
+   "frame": "02",
+   "replace_with": "32x_4d_02.png (or the cell in sheet 32x_4d.png)",
+   "en": "OUT",
+   "size_px": [
+    24,
+    15
+   ],
+   "ink_px": [
+    23,
+    15
+   ],
+   "style": "white with grey shading, 15 px (drawn scaled up in the tube)",
+   "drawing": "one word per sprite; \"GET nn BLUE SPHERES TO GO\" etc. are built from word sprites and drawn scaled; numbers come from bank 13",
+   "letter_font": false,
+   "work_file": "work/z10/sheets/32x_4d.png",
+   "review_crop": "sheets/32x_4d_02.png"
+  },
+  {
+   "id": "sp_got_pts",
+   "scene": [
+    "special stage"
+   ],
+   "kind": "32x",
+   "bank": "4d",
+   "frame": "03",
+   "replace_with": "32x_4d_03.png (or the cell in sheet 32x_4d.png)",
+   "en": "GOT .... pts!",
+   "size_px": [
+    110,
+    20
+   ],
+   "ink_px": [
+    108,
+    20
+   ],
+   "style": "white with grey shading, 15 px (drawn scaled up in the tube)",
+   "drawing": "one word per sprite; \"GET nn BLUE SPHERES TO GO\" etc. are built from word sprites and drawn scaled; numbers come from bank 13",
+   "letter_font": false,
+   "work_file": "work/z10/sheets/32x_4d.png",
+   "review_crop": "sheets/32x_4d_03.png"
+  },
+  {
+   "id": "sp_bad",
+   "scene": [
+    "special stage"
+   ],
+   "kind": "32x",
+   "bank": "4d",
+   "frame": "04",
+   "replace_with": "32x_4d_04.png (or the cell in sheet 32x_4d.png)",
+   "en": "BAD!",
+   "size_px": [
+    32,
+    15
+   ],
+   "ink_px": [
+    30,
+    15
+   ],
+   "style": "white with grey shading, 15 px (drawn scaled up in the tube)",
+   "drawing": "one word per sprite; \"GET nn BLUE SPHERES TO GO\" etc. are built from word sprites and drawn scaled; numbers come from bank 13",
+   "letter_font": false,
+   "work_file": "work/z10/sheets/32x_4d.png",
+   "review_crop": "sheets/32x_4d_04.png"
+  },
+  {
+   "id": "sp_too",
+   "scene": [
+    "special stage"
+   ],
+   "kind": "32x",
+   "bank": "4d",
+   "frame": "05",
+   "replace_with": "32x_4d_05.png (or the cell in sheet 32x_4d.png)",
+   "en": "TOO",
+   "size_px": [
+    24,
+    15
+   ],
+   "ink_px": [
+    23,
+    15
+   ],
+   "style": "white with grey shading, 15 px (drawn scaled up in the tube)",
+   "drawing": "one word per sprite; \"GET nn BLUE SPHERES TO GO\" etc. are built from word sprites and drawn scaled; numbers come from bank 13",
+   "letter_font": false,
+   "work_file": "work/z10/sheets/32x_4d.png",
+   "review_crop": "sheets/32x_4d_05.png"
+  },
+  {
+   "id": "sp_coooool",
+   "scene": [
+    "special stage"
+   ],
+   "kind": "32x",
+   "bank": "4d",
+   "frame": "06",
+   "replace_with": "32x_4d_06.png (or the cell in sheet 32x_4d.png)",
+   "en": "COOOOL",
+   "size_px": [
+    48,
+    15
+   ],
+   "ink_px": [
+    47,
+    15
+   ],
+   "style": "white with grey shading, 15 px (drawn scaled up in the tube)",
+   "drawing": "one word per sprite; \"GET nn BLUE SPHERES TO GO\" etc. are built from word sprites and drawn scaled; numbers come from bank 13",
+   "letter_font": false,
+   "work_file": "work/z10/sheets/32x_4d.png",
+   "review_crop": "sheets/32x_4d_06.png"
+  },
+  {
+   "id": "sp_next",
+   "scene": [
+    "special stage"
+   ],
+   "kind": "32x",
+   "bank": "4d",
+   "frame": "07",
+   "replace_with": "32x_4d_07.png (or the cell in sheet 32x_4d.png)",
+   "en": "NEXT",
+   "size_px": [
+    32,
+    15
+   ],
+   "ink_px": [
+    32,
+    15
+   ],
+   "style": "white with grey shading, 15 px (drawn scaled up in the tube)",
+   "drawing": "one word per sprite; \"GET nn BLUE SPHERES TO GO\" etc. are built from word sprites and drawn scaled; numbers come from bank 13",
+   "letter_font": false,
+   "work_file": "work/z10/sheets/32x_4d.png",
+   "review_crop": "sheets/32x_4d_07.png"
+  },
+  {
+   "id": "sp_excl",
+   "scene": [
+    "special stage"
+   ],
+   "kind": "32x",
+   "bank": "4d",
+   "frame": "08",
+   "replace_with": "32x_4d_08.png (or the cell in sheet 32x_4d.png)",
+   "en": "!",
+   "size_px": [
+    6,
+    14
+   ],
+   "ink_px": [
+    5,
+    14
+   ],
+   "style": "white with grey shading, 15 px (drawn scaled up in the tube)",
+   "drawing": "one word per sprite; \"GET nn BLUE SPHERES TO GO\" etc. are built from word sprites and drawn scaled; numbers come from bank 13",
+   "letter_font": false,
+   "work_file": "work/z10/sheets/32x_4d.png",
+   "review_crop": "sheets/32x_4d_08.png"
+  },
+  {
+   "id": "sp_to_go",
+   "scene": [
+    "special stage"
+   ],
+   "kind": "32x",
+   "bank": "4d",
+   "frame": "09",
+   "replace_with": "32x_4d_09.png (or the cell in sheet 32x_4d.png)",
+   "en": "TO  GO",
+   "size_px": [
+    40,
+    15
+   ],
+   "ink_px": [
+    39,
+    15
+   ],
+   "style": "white with grey shading, 15 px (drawn scaled up in the tube)",
+   "drawing": "one word per sprite; \"GET nn BLUE SPHERES TO GO\" etc. are built from word sprites and drawn scaled; numbers come from bank 13",
+   "letter_font": false,
+   "work_file": "work/z10/sheets/32x_4d.png",
+   "review_crop": "sheets/32x_4d_09.png"
+  },
+  {
+   "id": "sp_spheres",
+   "scene": [
+    "special stage"
+   ],
+   "kind": "32x",
+   "bank": "4d",
+   "frame": "0a",
+   "replace_with": "32x_4d_0a.png (or the cell in sheet 32x_4d.png)",
+   "en": "SPHERES",
+   "size_px": [
+    56,
+    15
+   ],
+   "ink_px": [
+    55,
+    15
+   ],
+   "style": "white with grey shading, 15 px (drawn scaled up in the tube)",
+   "drawing": "one word per sprite; \"GET nn BLUE SPHERES TO GO\" etc. are built from word sprites and drawn scaled; numbers come from bank 13",
+   "letter_font": false,
+   "work_file": "work/z10/sheets/32x_4d.png",
+   "review_crop": "sheets/32x_4d_0a.png"
+  },
+  {
+   "id": "sp_blue",
+   "scene": [
+    "special stage"
+   ],
+   "kind": "32x",
+   "bank": "4d",
+   "frame": "0b",
+   "replace_with": "32x_4d_0b.png (or the cell in sheet 32x_4d.png)",
+   "en": "BLUE",
+   "size_px": [
+    32,
+    15
+   ],
+   "ink_px": [
+    31,
+    15
+   ],
+   "style": "white with grey shading, 15 px (drawn scaled up in the tube)",
+   "drawing": "one word per sprite; \"GET nn BLUE SPHERES TO GO\" etc. are built from word sprites and drawn scaled; numbers come from bank 13",
+   "letter_font": false,
+   "work_file": "work/z10/sheets/32x_4d.png",
+   "review_crop": "sheets/32x_4d_0b.png"
+  },
+  {
+   "id": "sp_get",
+   "scene": [
+    "special stage"
+   ],
+   "kind": "32x",
+   "bank": "4d",
+   "frame": "0c",
+   "replace_with": "32x_4d_0c.png (or the cell in sheet 32x_4d.png)",
+   "en": "GET",
+   "size_px": [
+    24,
+    15
+   ],
+   "ink_px": [
+    23,
+    15
+   ],
+   "style": "white with grey shading, 15 px (drawn scaled up in the tube)",
+   "drawing": "one word per sprite; \"GET nn BLUE SPHERES TO GO\" etc. are built from word sprites and drawn scaled; numbers come from bank 13",
+   "letter_font": false,
+   "work_file": "work/z10/sheets/32x_4d.png",
+   "review_crop": "sheets/32x_4d_0c.png"
+  },
+  {
+   "id": "lobby_exit_sign",
+   "scene": [
+    "World Entrance (lobby)"
+   ],
+   "kind": "32x",
+   "bank": "59",
+   "frame": "00",
+   "replace_with": "32x_59_00.png (or the cell in sheet 32x_59.png)",
+   "en": "EXIT",
+   "size_px": [
+    56,
+    48
+   ],
+   "ink_px": [
+    55,
+    48
+   ],
+   "style": "big pale letters with dark outline on a yellow arrow sign",
+   "drawing": "whole picture (56x48)",
+   "letter_font": false,
+   "work_file": "work/lobby2/sheets/32x_59.png",
+   "review_crop": "sheets/32x_59_00.png"
+  },
+  {
+   "id": "lobby_play_sign",
+   "scene": [
+    "World Entrance (lobby)"
+   ],
+   "kind": "32x",
+   "bank": "59",
+   "frame": "01",
+   "replace_with": "32x_59_01.png (or the cell in sheet 32x_59.png)",
+   "en": "PLAY",
+   "size_px": [
+    56,
+    50
+   ],
+   "ink_px": [
+    56,
+    50
+   ],
+   "style": "as lobby_exit_sign",
+   "drawing": "whole picture (56x50)",
+   "letter_font": false,
+   "work_file": "work/lobby2/sheets/32x_59.png",
+   "review_crop": "sheets/32x_59_01.png"
+  },
+  {
+   "id": "lobby_catcher",
+   "scene": [
+    "World Entrance (Combi Catcher)"
+   ],
+   "kind": "32x",
+   "bank": "58",
+   "frame": "00",
+   "replace_with": "32x_58_00.png (or the cell in sheet 32x_58.png)",
+   "en": "COMBI / CATCHER (alternating)",
+   "size_px": [
+    60,
+    82
+   ],
+   "ink_px": [
+    58,
+    82
+   ],
+   "style": "sign on top of the Combi Catcher machine; ~8 px letters",
+   "drawing": "one picture with the machine (60x82). The two words are drawn over each other in different palette indices (COMBI in 0x6C/0x6D, CATCHER in 0x6E) and palette cycling shows one at a time; a replacement must keep that scheme (two words in two index sets in the same 46x8 area). Crop is from the dump (the sheet was exported while the colour was faded out)",
+   "letter_font": false,
+   "work_file": "work/lobby2/dump/32x_58_00.png",
+   "review_crop": "sheets/32x_58_00.png"
+  },
+  {
+   "id": "lobby_attraction_info",
+   "scene": [
+    "World Entrance (attraction board)"
+   ],
+   "kind": "32x",
+   "bank": "5e",
+   "frame": "00",
+   "replace_with": "32x_5e_00.png (or the cell in sheet 32x_5e.png)",
+   "en": "NEWTROGIC HIGH ZONE / ATTRACTION INFORMATION",
+   "size_px": [
+    92,
+    46
+   ],
+   "ink_px": [
+    92,
+    46
+   ],
+   "style": "blue/white top line, orange bottom two lines on a panel",
+   "drawing": "whole picture 92x46",
+   "letter_font": false,
+   "work_file": "work/lobby2/sheets/32x_5e.png",
+   "review_crop": "sheets/32x_5e_00.png"
+  },
+  {
+   "id": "lobby_clear",
+   "scene": [
+    "World Entrance (attraction board)"
+   ],
+   "kind": "32x",
+   "bank": "5e",
+   "frame": "01",
+   "replace_with": "32x_5e_01.png (or the cell in sheet 32x_5e.png)",
+   "en": "CLEAR",
+   "size_px": [
+    30,
+    7
+   ],
+   "ink_px": [
+    29,
+    7
+   ],
+   "style": "tiny grey letters, 7 px",
+   "drawing": "whole word",
+   "letter_font": false,
+   "work_file": "work/lobby2/sheets/32x_5e.png",
+   "review_crop": "sheets/32x_5e_01.png"
+  },
+  {
+   "id": "lobby_level",
+   "scene": [
+    "World Entrance (attraction board)"
+   ],
+   "kind": "32x",
+   "bank": "5e",
+   "frame": "02",
+   "replace_with": "32x_5e_02.png (or the cell in sheet 32x_5e.png)",
+   "en": "LEVEL",
+   "size_px": [
+    28,
+    5
+   ],
+   "ink_px": [
+    28,
+    5
+   ],
+   "style": "tiny grey letters, 5 px",
+   "drawing": "whole word; digits 1-5 are 5e_03..07",
+   "letter_font": false,
+   "work_file": "work/lobby2/sheets/32x_5e.png",
+   "review_crop": "sheets/32x_5e_02.png"
+  },
+  {
+   "id": "debug_test",
+   "scene": [
+    "debug (low priority)"
+   ],
+   "kind": "32x",
+   "bank": "24",
+   "frame": "1a",
+   "replace_with": "32x_24_1a.png (or the cell in sheet 32x_24.png)",
+   "en": "Test",
+   "size_px": [
+    32,
+    32
+   ],
+   "ink_px": [
+    32,
+    32
+   ],
+   "style": "yellow hand-drawn letters",
+   "drawing": "debug graphic",
+   "letter_font": false,
+   "work_file": "work/tt1/sheets/32x_24.png",
+   "review_crop": "sheets/32x_24_1a.png"
+  },
+  {
+   "id": "debug_skull",
+   "scene": [
+    "debug (low priority)"
+   ],
+   "kind": "32x",
+   "bank": "24",
+   "frame": "19",
+   "replace_with": "32x_24_19.png (or the cell in sheet 32x_24.png)",
+   "en": "skull with small text",
+   "size_px": [
+    30,
+    32
+   ],
+   "ink_px": [
+    29,
+    32
+   ],
+   "style": "yellow tiny text under a skull",
+   "drawing": "debug graphic",
+   "letter_font": false,
+   "work_file": "work/tt1/sheets/32x_24.png",
+   "review_crop": "sheets/32x_24_19.png"
+  },
+  {
+   "id": "menu_scenario_quest",
+   "scene": [
+    "menu"
+   ],
+   "kind": "md",
+   "en": "SCENARIO QUEST",
+   "tile_hashes": [
+    "262ed75e7586890f",
+    "06849326c9a1f6b7",
+    "0be70ba06abdcbbf",
+    "06e89b91ed8a5c67",
+    "8383a19547aa21e3",
+    "8ab6e8c4c14e5edb",
+    "ee6410f28116fbcf",
+    "c55f51f079e83c63",
+    "90b290db4b02d4a3",
+    "49b1a1d0f548db7f",
+    "61289eb94ebec2bf"
+   ],
+   "tile_count": 13,
+   "screen_box": [
+    96,
+    120,
+    208,
+    128
+   ],
+   "size_px": [
+    112,
+    8
+   ],
+   "style": "8x8 tile letter font, white (selected) / grey (others), 7 px glyphs",
+   "drawing": "REUSABLE LETTER FONT: each letter is one 8x8 tile, shared by every string on the title menu and OPTIONS; strings come from a table (ROM 0x6C0E for OPTIONS, letters stored as ASCII - 0x20); cannot be translated word by word with tile replacement",
+   "letter_font": true,
+   "work_file": "work/scenes/menu/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_menu_scenario_quest.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "menu_training",
+   "scene": [
+    "menu"
+   ],
+   "kind": "md",
+   "en": "TRAINING",
+   "tile_hashes": [
+    "61289eb94ebec2bf",
+    "8ab6e8c4c14e5edb",
+    "8383a19547aa21e3",
+    "ee6410f28116fbcf",
+    "06e89b91ed8a5c67",
+    "f8114cb80125279b"
+   ],
+   "tile_count": 8,
+   "screen_box": [
+    120,
+    136,
+    184,
+    144
+   ],
+   "size_px": [
+    64,
+    8
+   ],
+   "style": "8x8 tile letter font, white (selected) / grey (others), 7 px glyphs",
+   "drawing": "REUSABLE LETTER FONT: each letter is one 8x8 tile, shared by every string on the title menu and OPTIONS; strings come from a table (ROM 0x6C0E for OPTIONS, letters stored as ASCII - 0x20); cannot be translated word by word with tile replacement",
+   "letter_font": true,
+   "work_file": "work/scenes/menu/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_menu_training.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "menu_options",
+   "scene": [
+    "menu"
+   ],
+   "kind": "md",
+   "en": "OPTIONS",
+   "tile_hashes": [
+    "c55f51f079e83c63",
+    "c47e6d034eb92447",
+    "61289eb94ebec2bf",
+    "ee6410f28116fbcf",
+    "06e89b91ed8a5c67",
+    "262ed75e7586890f"
+   ],
+   "tile_count": 7,
+   "screen_box": [
+    128,
+    152,
+    184,
+    160
+   ],
+   "size_px": [
+    56,
+    8
+   ],
+   "style": "8x8 tile letter font, white (selected) / grey (others), 7 px glyphs",
+   "drawing": "REUSABLE LETTER FONT: each letter is one 8x8 tile, shared by every string on the title menu and OPTIONS; strings come from a table (ROM 0x6C0E for OPTIONS, letters stored as ASCII - 0x20); cannot be translated word by word with tile replacement",
+   "letter_font": true,
+   "work_file": "work/scenes/menu/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_menu_options.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "opt_control_configuration",
+   "scene": [
+    "options"
+   ],
+   "kind": "md",
+   "en": "CONTROL CONFIGURATION",
+   "tile_hashes": [
+    "06849326c9a1f6b7",
+    "c55f51f079e83c63",
+    "06e89b91ed8a5c67",
+    "61289eb94ebec2bf",
+    "8ab6e8c4c14e5edb",
+    "11afecf7114bcf30",
+    "0346df9f43995807",
+    "ee6410f28116fbcf",
+    "f8114cb80125279b",
+    "49b1a1d0f548db7f",
+    "8383a19547aa21e3"
+   ],
+   "tile_count": 20,
+   "screen_box": [
+    32,
+    40,
+    200,
+    48
+   ],
+   "size_px": [
+    168,
+    8
+   ],
+   "style": "8x8 tile letter font, white (selected) / grey (others), 7 px glyphs",
+   "drawing": "REUSABLE LETTER FONT: each letter is one 8x8 tile, shared by every string on the title menu and OPTIONS; strings come from a table (ROM 0x6C0E for OPTIONS, letters stored as ASCII - 0x20); cannot be translated word by word with tile replacement",
+   "letter_font": true,
+   "work_file": "work/scenes/options/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_opt_control_configuration.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "opt_1p_type",
+   "scene": [
+    "options"
+   ],
+   "kind": "md",
+   "en": "1P   TYPE 1",
+   "tile_hashes": [
+    "e2644b45c5e5100b",
+    "84ec3c55cf0eb7b3",
+    "11afecf7114bcf30",
+    "cb9777b656d58ec3",
+    "c47e6d034eb92447",
+    "0be70ba06abdcbbf"
+   ],
+   "tile_count": 7,
+   "screen_box": [
+    56,
+    56,
+    136,
+    67
+   ],
+   "size_px": [
+    80,
+    11
+   ],
+   "style": "8x8 tile letter font, white (selected) / grey (others), 7 px glyphs",
+   "drawing": "REUSABLE LETTER FONT: each letter is one 8x8 tile, shared by every string on the title menu and OPTIONS; strings come from a table (ROM 0x6C0E for OPTIONS, letters stored as ASCII - 0x20); cannot be translated word by word with tile replacement",
+   "letter_font": true,
+   "work_file": "work/scenes/options/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_opt_1p_type.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "opt_2p_type",
+   "scene": [
+    "options"
+   ],
+   "kind": "md",
+   "en": "2P   TYPE 1",
+   "tile_hashes": [
+    "d2188c2761fe833f",
+    "84ec3c55cf0eb7b3",
+    "11afecf7114bcf30",
+    "cb9777b656d58ec3",
+    "c47e6d034eb92447",
+    "0be70ba06abdcbbf",
+    "e2644b45c5e5100b"
+   ],
+   "tile_count": 7,
+   "screen_box": [
+    184,
+    56,
+    264,
+    67
+   ],
+   "size_px": [
+    80,
+    11
+   ],
+   "style": "8x8 tile letter font, white (selected) / grey (others), 7 px glyphs",
+   "drawing": "REUSABLE LETTER FONT: each letter is one 8x8 tile, shared by every string on the title menu and OPTIONS; strings come from a table (ROM 0x6C0E for OPTIONS, letters stored as ASCII - 0x20); cannot be translated word by word with tile replacement",
+   "letter_font": true,
+   "work_file": "work/scenes/options/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_opt_2p_type.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "opt_a_call",
+   "scene": [
+    "options"
+   ],
+   "kind": "md",
+   "en": "A:CALL (x2)",
+   "tile_hashes": [
+    "8383a19547aa21e3",
+    "06849326c9a1f6b7",
+    "56a1bb7565b0ae7f",
+    "11afecf7114bcf30"
+   ],
+   "tile_count": 10,
+   "screen_box": [
+    72,
+    72,
+    248,
+    80
+   ],
+   "size_px": [
+    176,
+    8
+   ],
+   "style": "8x8 tile letter font, white (selected) / grey (others), 7 px glyphs",
+   "drawing": "REUSABLE LETTER FONT: each letter is one 8x8 tile, shared by every string on the title menu and OPTIONS; strings come from a table (ROM 0x6C0E for OPTIONS, letters stored as ASCII - 0x20); cannot be translated word by word with tile replacement",
+   "letter_font": true,
+   "work_file": "work/scenes/options/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_opt_a_call.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "opt_b_hold",
+   "scene": [
+    "options"
+   ],
+   "kind": "md",
+   "en": "B:HOLD (x2)",
+   "tile_hashes": [
+    "15e455e6a0a1c23f",
+    "91d88c3200b9daff",
+    "c55f51f079e83c63",
+    "56a1bb7565b0ae7f",
+    "c2b0afc8d81f2553"
+   ],
+   "tile_count": 10,
+   "screen_box": [
+    72,
+    88,
+    248,
+    96
+   ],
+   "size_px": [
+    176,
+    8
+   ],
+   "style": "8x8 tile letter font, white (selected) / grey (others), 7 px glyphs",
+   "drawing": "REUSABLE LETTER FONT: each letter is one 8x8 tile, shared by every string on the title menu and OPTIONS; strings come from a table (ROM 0x6C0E for OPTIONS, letters stored as ASCII - 0x20); cannot be translated word by word with tile replacement",
+   "letter_font": true,
+   "work_file": "work/scenes/options/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_opt_b_hold.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "opt_c_jump",
+   "scene": [
+    "options"
+   ],
+   "kind": "md",
+   "en": "C:JUMP (x2)",
+   "tile_hashes": [
+    "06849326c9a1f6b7",
+    "49cc3a7ebcbf7c47",
+    "49b1a1d0f548db7f",
+    "faa0e6eaa95f4343",
+    "84ec3c55cf0eb7b3",
+    "c47e6d034eb92447"
+   ],
+   "tile_count": 10,
+   "screen_box": [
+    72,
+    104,
+    248,
+    115
+   ],
+   "size_px": [
+    176,
+    11
+   ],
+   "style": "8x8 tile letter font, white (selected) / grey (others), 7 px glyphs",
+   "drawing": "REUSABLE LETTER FONT: each letter is one 8x8 tile, shared by every string on the title menu and OPTIONS; strings come from a table (ROM 0x6C0E for OPTIONS, letters stored as ASCII - 0x20); cannot be translated word by word with tile replacement",
+   "letter_font": true,
+   "work_file": "work/scenes/options/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_opt_c_jump.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "opt_sound_test",
+   "scene": [
+    "options"
+   ],
+   "kind": "md",
+   "en": "SOUND TEST",
+   "tile_hashes": [
+    "262ed75e7586890f",
+    "c55f51f079e83c63",
+    "49b1a1d0f548db7f",
+    "06e89b91ed8a5c67",
+    "c2b0afc8d81f2553",
+    "11afecf7114bcf30",
+    "0be70ba06abdcbbf",
+    "61289eb94ebec2bf"
+   ],
+   "tile_count": 9,
+   "screen_box": [
+    32,
+    128,
+    112,
+    137
+   ],
+   "size_px": [
+    80,
+    9
+   ],
+   "style": "8x8 tile letter font, white (selected) / grey (others), 7 px glyphs",
+   "drawing": "REUSABLE LETTER FONT: each letter is one 8x8 tile, shared by every string on the title menu and OPTIONS; strings come from a table (ROM 0x6C0E for OPTIONS, letters stored as ASCII - 0x20); cannot be translated word by word with tile replacement",
+   "letter_font": true,
+   "work_file": "work/scenes/options/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_opt_sound_test.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "opt_color_test",
+   "scene": [
+    "options"
+   ],
+   "kind": "md",
+   "en": "COLOR TEST",
+   "tile_hashes": [
+    "06849326c9a1f6b7",
+    "c55f51f079e83c63",
+    "56a1bb7565b0ae7f",
+    "8ab6e8c4c14e5edb",
+    "11afecf7114bcf30",
+    "0be70ba06abdcbbf",
+    "262ed75e7586890f",
+    "61289eb94ebec2bf"
+   ],
+   "tile_count": 9,
+   "screen_box": [
+    32,
+    152,
+    112,
+    161
+   ],
+   "size_px": [
+    80,
+    9
+   ],
+   "style": "8x8 tile letter font, white (selected) / grey (others), 7 px glyphs",
+   "drawing": "REUSABLE LETTER FONT: each letter is one 8x8 tile, shared by every string on the title menu and OPTIONS; strings come from a table (ROM 0x6C0E for OPTIONS, letters stored as ASCII - 0x20); cannot be translated word by word with tile replacement",
+   "letter_font": true,
+   "work_file": "work/scenes/options/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_opt_color_test.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "opt_exit",
+   "scene": [
+    "options"
+   ],
+   "kind": "md",
+   "en": "EXIT",
+   "tile_hashes": [
+    "0be70ba06abdcbbf",
+    "aba73530258fb9df",
+    "ee6410f28116fbcf",
+    "61289eb94ebec2bf"
+   ],
+   "tile_count": 4,
+   "screen_box": [
+    32,
+    176,
+    64,
+    184
+   ],
+   "size_px": [
+    32,
+    8
+   ],
+   "style": "8x8 tile letter font, white (selected) / grey (others), 7 px glyphs",
+   "drawing": "REUSABLE LETTER FONT: each letter is one 8x8 tile, shared by every string on the title menu and OPTIONS; strings come from a table (ROM 0x6C0E for OPTIONS, letters stored as ASCII - 0x20); cannot be translated word by word with tile replacement",
+   "letter_font": true,
+   "work_file": "work/scenes/options/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_opt_exit.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "dl_data_load",
+   "scene": [
+    "dataload"
+   ],
+   "kind": "md",
+   "en": "DATA LOAD",
+   "tile_hashes": [
+    "937008198f333b01",
+    "7af099539c3e57ab",
+    "0aa2a1141e7c249e",
+    "23908d0c94234a13",
+    "92d98fb5d9758a33",
+    "387c9a13daf55712",
+    "1f9ddb99b2488fcb",
+    "28e2c3585f8af4e3",
+    "10299343d31d4ea2",
+    "c3c0a650aa918fd3",
+    "cbbfe17066f48464",
+    "60dc4503dc48e20b",
+    "9ec8313a3b3fc25a",
+    "e3e6e88720402933",
+    "f2e2dc1335917b63",
+    "2490ac2a81e46f53",
+    "52b1dbd529dd8a5e",
+    "972a3893c617a1f3",
+    "82b85e69bf12abc6",
+    "23b443e6d39969a4",
+    "322986d8253c9cc3",
+    "42270dcd3c478ee9",
+    "6d3af973923c5899",
+    "523bf4e05b878444",
+    "ec123e3643681533",
+    "ed89375615fd94f8",
+    "af3b4f16d4fcc0c7",
+    "dee047ad9d1769a2",
+    "24310003ede4ce5f",
+    "36916977be1eed4b",
+    "9c727a2c04154f7f",
+    "47c2ce54ef859017",
+    "1bb8190ab6f86ce6",
+    "4c0fb2ca7a75840b"
+   ],
+   "tile_count": 45,
+   "screen_box": [
+    175,
+    6,
+    305,
+    42
+   ],
+   "size_px": [
+    130,
+    36
+   ],
+   "style": "banner lettering: big yellow letters (brown = inactive) with dark shading and black shadow, 3-4 tiles tall",
+   "drawing": "word drawn as a block of tiles on a plane; the tiles of identical letter runs are shared between banners (PLAY in PLAY / PLAYER SELECT, DATA in DATA LOAD / DATA n, ELE in DELETE / SELECT); see README",
+   "letter_font": false,
+   "work_file": "work/scenes/dataload/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_dl_data_load.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "dl_no_save",
+   "scene": [
+    "dataload"
+   ],
+   "kind": "md",
+   "en": "NO SAVE",
+   "tile_hashes": [
+    "0951112714779add",
+    "c62d80d71fff150a",
+    "c35669f8532cd06f",
+    "212376859cd16570",
+    "55c599e90c22ace6",
+    "a7406382296bf865",
+    "bd22a6d2e2c09af2",
+    "2f76001ed4f96916",
+    "e34c8f7852a0d939",
+    "16b86a2ae4b1aec0",
+    "b84142a08eb75d2d",
+    "90da387bca043810",
+    "8b85319242141f80",
+    "c2dd73c0a5860c5c",
+    "997132b003d44069",
+    "bdd88cced4bf0ea7"
+   ],
+   "tile_count": 16,
+   "screen_box": [
+    128,
+    64,
+    192,
+    80
+   ],
+   "size_px": [
+    64,
+    16
+   ],
+   "style": "16-24 px tile lettering (NEW green, NO pink + SAVE yellow), black shadow",
+   "drawing": "word drawn as a block of tiles on a plane; the tiles of identical letter runs are shared between banners (PLAY in PLAY / PLAYER SELECT, DATA in DATA LOAD / DATA n, ELE in DELETE / SELECT); see README",
+   "letter_font": false,
+   "work_file": "work/scenes/dataload/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_dl_no_save.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "dl_new",
+   "scene": [
+    "dataload"
+   ],
+   "kind": "md",
+   "en": "NEW",
+   "tile_hashes": [
+    "11afecf7114bcf30",
+    "b0b4ff4ba2d01522",
+    "8f45b97cec89113c",
+    "2f76001ed4f96916",
+    "a002fbd7cd6a39f9",
+    "5de83062ac36bd63",
+    "40cfc760f145fd56",
+    "6705774d52e42691",
+    "c0d86045af77ae47",
+    "aa462554b55fecfe",
+    "7ab3d7a49416696c"
+   ],
+   "tile_count": 11,
+   "screen_box": [
+    136,
+    117,
+    186,
+    139
+   ],
+   "size_px": [
+    50,
+    22
+   ],
+   "style": "16-24 px tile lettering (NEW green, NO pink + SAVE yellow), black shadow",
+   "drawing": "word drawn as a block of tiles on a plane; the tiles of identical letter runs are shared between banners (PLAY in PLAY / PLAYER SELECT, DATA in DATA LOAD / DATA n, ELE in DELETE / SELECT); see README",
+   "letter_font": false,
+   "work_file": "work/scenes/dataload/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_dl_new.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "dl_play",
+   "scene": [
+    "dataload"
+   ],
+   "kind": "md",
+   "en": "PLAY",
+   "tile_hashes": [
+    "73a1de9cb81dc0af",
+    "edb4c31bd83c3e95",
+    "c201ca0c81c8217a",
+    "75aca8175f4592c7",
+    "9d41d178c17f0d61",
+    "cd9d0c4658f2da84",
+    "2a3877ebf5817edb",
+    "ec2112a45d4c3071",
+    "3ab6a123744c790b",
+    "2f99af2edff6ac82",
+    "56d7fa498591f3bf",
+    "501a169d4c874f8f",
+    "262473a08d4ee92c",
+    "aa5a4b47d8984b76",
+    "df5dca78f9d5cb83",
+    "bb1460712305b852",
+    "edc716cd97fa9591",
+    "6f250bd8018ee3bd",
+    "63287165ad10ee3b"
+   ],
+   "tile_count": 19,
+   "screen_box": [
+    28,
+    176,
+    80,
+    208
+   ],
+   "size_px": [
+    52,
+    32
+   ],
+   "style": "banner lettering: big yellow letters (brown = inactive) with dark shading and black shadow, 3-4 tiles tall",
+   "drawing": "word drawn as a block of tiles on a plane; the tiles of identical letter runs are shared between banners (PLAY in PLAY / PLAYER SELECT, DATA in DATA LOAD / DATA n, ELE in DELETE / SELECT); see README",
+   "letter_font": false,
+   "work_file": "work/scenes/dataload/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_dl_play.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "dl_delete",
+   "scene": [
+    "dataload"
+   ],
+   "kind": "md",
+   "en": "DELETE",
+   "tile_hashes": [
+    "73a1de9cb81dc0af",
+    "4c0fb2ca7a75840b",
+    "67712c8a68653de5",
+    "bcab9b43060c809b",
+    "310ba70a02fc3a2f",
+    "679694d985dad24f",
+    "60c56fc02f7718f8",
+    "954f029202698062",
+    "affa08965eb8d59c",
+    "e0d1149c23d2f257",
+    "1058e08669e89162",
+    "2085954e6054f3b1",
+    "2058f7ab3b20ec83",
+    "c758e4d4c2909a4b",
+    "cea16f8c03083a0b",
+    "6f250bd8018ee3bd",
+    "6abda6e64afe38c2",
+    "599af1c8ee292366",
+    "5c25b68635112777",
+    "4811ecca2b877c7c"
+   ],
+   "tile_count": 24,
+   "screen_box": [
+    92,
+    176,
+    160,
+    208
+   ],
+   "size_px": [
+    68,
+    32
+   ],
+   "style": "banner lettering: big yellow letters (brown = inactive) with dark shading and black shadow, 3-4 tiles tall",
+   "drawing": "word drawn as a block of tiles on a plane; the tiles of identical letter runs are shared between banners (PLAY in PLAY / PLAYER SELECT, DATA in DATA LOAD / DATA n, ELE in DELETE / SELECT); see README",
+   "letter_font": false,
+   "work_file": "work/scenes/dataload/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_dl_delete.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "dl_data_n",
+   "scene": [
+    "dataload"
+   ],
+   "kind": "md",
+   "en": "DATA 1",
+   "tile_hashes": [
+    "074fb6796ea643cf",
+    "066c8dfa24717786",
+    "6cb1ef1bebc96c4a",
+    "7b48fc7198ab57b4",
+    "0f4fbf7e6bed7df7",
+    "b6f9480d2a517f2c",
+    "23908d0c94234a13",
+    "2490ac2a81e46f53",
+    "74cb9fe2a6e6dddd",
+    "337763dbf895d0c7",
+    "c15fabcd9342b6ec",
+    "8b00dfcaa9c4e964",
+    "d675c7642e50b886",
+    "090259ddc1291410",
+    "11afecf7114bcf30",
+    "1f9ddb99b2488fcb",
+    "c80e8650ebae22bf",
+    "4d1564f51ce883e3"
+   ],
+   "tile_count": 23,
+   "screen_box": [
+    171,
+    174,
+    245,
+    200
+   ],
+   "size_px": [
+    74,
+    26
+   ],
+   "style": "banner lettering: big yellow letters (brown = inactive) with dark shading and black shadow, 3-4 tiles tall",
+   "drawing": "word drawn as a block of tiles on a plane; the tiles of identical letter runs are shared between banners (PLAY in PLAY / PLAYER SELECT, DATA in DATA LOAD / DATA n, ELE in DELETE / SELECT); see README",
+   "letter_font": false,
+   "work_file": "work/scenes/dataload/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_dl_data_n.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "tr_training",
+   "scene": [
+    "training"
+   ],
+   "kind": "md",
+   "en": "TRAINING",
+   "tile_hashes": [
+    "4c0fb2ca7a75840b",
+    "e614db968fe7e203",
+    "5d53309a5e55254f",
+    "23908d0c94234a13",
+    "034595b8f7281637",
+    "440c2dfb92c9d251",
+    "213cc80a3b2661b6",
+    "36a811a9345be760",
+    "8720c35530d31cf1",
+    "4fb693dfb69f478f",
+    "543c6556948918e7",
+    "8f7a02e2c7cc803f",
+    "f2e2dc1335917b63",
+    "eb6e55406d9bbb26",
+    "2490ac2a81e46f53",
+    "00d0d0e04d381564",
+    "d4462674364ec2ed",
+    "575125232a99e204",
+    "d8009f0bf2fa1afd",
+    "39c3a078559a7597",
+    "c158cf6bc05c9163",
+    "ae8ee08ca47aeaf3",
+    "adda183e15d7480a",
+    "58aeaed053f3333f",
+    "42458d6f3f702473",
+    "e2a179e7b55ab673",
+    "fd54049b3ae4da7a",
+    "e02ec0c28a8d215f",
+    "434cae9855925d5e",
+    "67b3a939547156d0",
+    "2f7ed240f27ad4aa",
+    "0be4448ce79c487a",
+    "18162fc04221f474",
+    "95547c76fefb3210"
+   ],
+   "tile_count": 43,
+   "screen_box": [
+    176,
+    6,
+    296,
+    36
+   ],
+   "size_px": [
+    120,
+    30
+   ],
+   "style": "banner lettering: big yellow letters (brown = inactive) with dark shading and black shadow, 3-4 tiles tall",
+   "drawing": "word drawn as a block of tiles on a plane; the tiles of identical letter runs are shared between banners (PLAY in PLAY / PLAYER SELECT, DATA in DATA LOAD / DATA n, ELE in DELETE / SELECT); see README",
+   "letter_font": false,
+   "work_file": "work/scenes/training/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_tr_training.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "tr_zone_name",
+   "scene": [
+    "training"
+   ],
+   "kind": "md",
+   "en": "ISOLATED ISLAND",
+   "tile_hashes": [
+    "f67a4f5923f1865f",
+    "56abb2dc145909d0",
+    "5e93fe772590c759",
+    "39a0942751e8d911",
+    "9710a8c488355f0e",
+    "fc2e5150537bf7a6",
+    "2ccc5225a3934a44",
+    "0e565740ce412203",
+    "4319677a654f8ee1",
+    "c3905656a6c46b9a",
+    "4d7d362eb13af50c",
+    "f0c31d793e4f9684",
+    "56e9160cea095d49",
+    "e36ba6a76f511643",
+    "09e0974adfa3ac03",
+    "0b0636d403f89ab5",
+    "2b121b6e735114cb",
+    "361d5b04ba41a177"
+   ],
+   "tile_count": 30,
+   "screen_box": [
+    96,
+    100,
+    216,
+    124
+   ],
+   "size_px": [
+    120,
+    24
+   ],
+   "style": "8x16 game font (MENU_ART.md): yellow capitals shaded brown, black drop shadow, 15 px",
+   "drawing": "REUSABLE LETTER FONT: the 8x16 game font (sprites, 2 tiles per glyph, ROM 0x2C4B20), written by code from ASCII strings (character names at ROM 0x3267A..); cannot be translated word by word",
+   "letter_font": true,
+   "work_file": "work/scenes/training/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_tr_zone_name.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles",
+   "tiles_in_8x16_font": 15
+  },
+  {
+   "id": "tr_play",
+   "scene": [
+    "training"
+   ],
+   "kind": "md",
+   "en": "PLAY",
+   "tile_hashes": [
+    "c201ca0c81c8217a",
+    "75aca8175f4592c7",
+    "7f30131386a20363",
+    "9d41d178c17f0d61",
+    "cd9d0c4658f2da84",
+    "2a3877ebf5817edb",
+    "ec2112a45d4c3071",
+    "3ab6a123744c790b",
+    "2f99af2edff6ac82",
+    "56d7fa498591f3bf",
+    "501a169d4c874f8f",
+    "262473a08d4ee92c",
+    "d859d925d3704937",
+    "4c0fb2ca7a75840b"
+   ],
+   "tile_count": 17,
+   "screen_box": [
+    39,
+    180,
+    88,
+    206
+   ],
+   "size_px": [
+    49,
+    26
+   ],
+   "style": "banner lettering: big yellow letters (brown = inactive) with dark shading and black shadow, 3-4 tiles tall",
+   "drawing": "word drawn as a block of tiles on a plane; the tiles of identical letter runs are shared between banners (PLAY in PLAY / PLAYER SELECT, DATA in DATA LOAD / DATA n, ELE in DELETE / SELECT); see README",
+   "letter_font": false,
+   "work_file": "work/scenes/training/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_tr_play.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "tr_exit",
+   "scene": [
+    "training"
+   ],
+   "kind": "md",
+   "en": "EXIT",
+   "tile_hashes": [
+    "159031c93cc6f212",
+    "3f5e4b94c596c81e",
+    "297c812c23f7bb3f",
+    "0736f4198a31e6ff",
+    "490e1b69dcb2deb7",
+    "7fcd3e901678f8c2",
+    "e4ebc59a67bc28ec",
+    "a87e825dbf17b8c9",
+    "4166831b6dd26213",
+    "4c0fb2ca7a75840b",
+    "d859d925d3704937"
+   ],
+   "tile_count": 15,
+   "screen_box": [
+    100,
+    182,
+    146,
+    206
+   ],
+   "size_px": [
+    46,
+    24
+   ],
+   "style": "banner lettering: big yellow letters (brown = inactive) with dark shading and black shadow, 3-4 tiles tall",
+   "drawing": "word drawn as a block of tiles on a plane; the tiles of identical letter runs are shared between banners (PLAY in PLAY / PLAYER SELECT, DATA in DATA LOAD / DATA n, ELE in DELETE / SELECT); see README",
+   "letter_font": false,
+   "work_file": "work/scenes/training/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_tr_exit.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "ps_play_style",
+   "scene": [
+    "playstyle"
+   ],
+   "kind": "md",
+   "en": "PLAY STYLE",
+   "tile_hashes": [
+    "11afecf7114bcf30",
+    "76d214966ca6b9cf",
+    "7af099539c3e57ab",
+    "4c0fb2ca7a75840b",
+    "372e22aaeac0f333",
+    "87abb77089a221c4",
+    "6fb652c1862f7f1c",
+    "ed246ea6c4a890c3",
+    "a0c4fc64ded6b8f6",
+    "2eae5493f96ef24e",
+    "359b9dab0e8062d2",
+    "2531e37306f2bd14",
+    "490e1b69dcb2deb7",
+    "6ec85c6cf215a6cb",
+    "0e565740ce412203",
+    "b5ce96f4008dbfaa",
+    "2e5beb8faf9ed62c",
+    "191f639ac244aea6",
+    "f092b7f7c09e7b60",
+    "5af11efe533da666",
+    "37666c497b88e930",
+    "c0d8b87e13c6e81b",
+    "a6cc1c0308fa4e64",
+    "1690060f32c4f9a8",
+    "d9c7bc555cec34d7",
+    "8f58168783c09d52",
+    "1fb589f30ba1e60f",
+    "4166831b6dd26213",
+    "803ac5aee8ea66c3",
+    "20551cd2e6ae3603",
+    "36916977be1eed4b",
+    "f2f47743ce39a25f",
+    "67b3a939547156d0",
+    "b0a9da7345f5f83b",
+    "42bc42519f44fed6",
+    "c67c787466e1b0c3",
+    "d1db6c90f3c68216",
+    "e1aa352043900b2c",
+    "62b5b0e08f1c00ef"
+   ],
+   "tile_count": 44,
+   "screen_box": [
+    24,
+    6,
+    152,
+    36
+   ],
+   "size_px": [
+    128,
+    30
+   ],
+   "style": "banner lettering: big yellow letters (brown = inactive) with dark shading and black shadow, 3-4 tiles tall",
+   "drawing": "word drawn as a block of tiles on a plane; the tiles of identical letter runs are shared between banners (PLAY in PLAY / PLAYER SELECT, DATA in DATA LOAD / DATA n, ELE in DELETE / SELECT); see README",
+   "letter_font": false,
+   "work_file": "work/scenes/playstyle/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_ps_play_style.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "ps_1p_big",
+   "scene": [
+    "playstyle"
+   ],
+   "kind": "md",
+   "en": "1P",
+   "tile_hashes": [
+    "f7e44b88c422d21b",
+    "e633d67b9ab26e34",
+    "9649cee8bb6d4023",
+    "3bee2855d7533fd2"
+   ],
+   "tile_count": 4,
+   "screen_box": [
+    149,
+    64,
+    169,
+    80
+   ],
+   "size_px": [
+    20,
+    16
+   ],
+   "style": "16 px tile lettering, yellow/white",
+   "drawing": "word drawn as a block of tiles on a plane; the tiles of identical letter runs are shared between banners (PLAY in PLAY / PLAYER SELECT, DATA in DATA LOAD / DATA n, ELE in DELETE / SELECT); see README",
+   "letter_font": false,
+   "work_file": "work/scenes/playstyle/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_ps_1p_big.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "ps_1p_small",
+   "scene": [
+    "playstyle"
+   ],
+   "kind": "md",
+   "en": "1P (selector)",
+   "tile_hashes": [
+    "565b2931680e7c8b",
+    "7393304f486a4d69",
+    "19162d163e88d96f",
+    "9fb56703ef9019e8",
+    "d87e9a334a1327ad"
+   ],
+   "tile_count": 5,
+   "screen_box": [
+    96,
+    136,
+    136,
+    144
+   ],
+   "size_px": [
+    40,
+    8
+   ],
+   "style": "small 8 px tile letters between arrows (1P yellow, CPU pink)",
+   "drawing": "word drawn as a block of tiles on a plane; the tiles of identical letter runs are shared between banners (PLAY in PLAY / PLAYER SELECT, DATA in DATA LOAD / DATA n, ELE in DELETE / SELECT); see README",
+   "letter_font": false,
+   "work_file": "work/scenes/playstyle/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_ps_1p_small.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "ps_cpu",
+   "scene": [
+    "playstyle"
+   ],
+   "kind": "md",
+   "en": "CPU",
+   "tile_hashes": [
+    "565b2931680e7c8b",
+    "3b8787bfe87ab6f7",
+    "e4d7df9175048bd4",
+    "056063d7c4782ec8",
+    "968bdc04f1739bd4"
+   ],
+   "tile_count": 5,
+   "screen_box": [
+    184,
+    136,
+    224,
+    144
+   ],
+   "size_px": [
+    40,
+    8
+   ],
+   "style": "small 8 px tile letters between arrows (1P yellow, CPU pink)",
+   "drawing": "word drawn as a block of tiles on a plane; the tiles of identical letter runs are shared between banners (PLAY in PLAY / PLAYER SELECT, DATA in DATA LOAD / DATA n, ELE in DELETE / SELECT); see README",
+   "letter_font": false,
+   "work_file": "work/scenes/playstyle/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_ps_cpu.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "ps_2p_big",
+   "scene": [
+    "playstyle"
+   ],
+   "kind": "md",
+   "en": "2P",
+   "tile_hashes": [
+    "051e6681007e479b",
+    "e633d67b9ab26e34",
+    "e044b310f4cd8ff9",
+    "3bee2855d7533fd2"
+   ],
+   "tile_count": 4,
+   "screen_box": [
+    101,
+    176,
+    121,
+    192
+   ],
+   "size_px": [
+    20,
+    16
+   ],
+   "style": "16 px tile lettering, yellow/white",
+   "drawing": "word drawn as a block of tiles on a plane; the tiles of identical letter runs are shared between banners (PLAY in PLAY / PLAYER SELECT, DATA in DATA LOAD / DATA n, ELE in DELETE / SELECT); see README",
+   "letter_font": false,
+   "work_file": "work/scenes/playstyle/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_ps_2p_big.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "ps_player_select_banner",
+   "scene": [
+    "playstyle"
+   ],
+   "kind": "md",
+   "en": "PLAYER SELECT",
+   "tile_hashes": [
+    "edb4c31bd83c3e95",
+    "c9b9d15774d24cf3",
+    "13ce9a3de9a294d3",
+    "cc6f2e5fa8456e15",
+    "194f0a89b8093540",
+    "dbcc98ef68604207",
+    "10497c11ce6bedb0",
+    "7189bc5256d347eb",
+    "159031c93cc6f212",
+    "74dde6d049281b81",
+    "a8ac8880efd63708",
+    "1dab529cc73dd6ac",
+    "9f4ebb6050c41092",
+    "a7bdbd1e31468bf2",
+    "e11f4dc4eb0b7d6a",
+    "0b572bf1791734fb",
+    "298f429ea5cd89fc",
+    "b656b04f3c83c60c",
+    "d01b3e43c988b2f3",
+    "20d9835c43e34d8b",
+    "51e3fc72c82d7afb",
+    "7fcd3e901678f8c2",
+    "8cc70770ae563892",
+    "44048b89f9c66a4c",
+    "95f0a7b8dec35329",
+    "68b8d472a4732548",
+    "4ade70a0673bbb69",
+    "d8211a885794d4f3",
+    "b0f3f47a664f0384",
+    "ffecf2db934acc2a",
+    "1a482982070cb4d3",
+    "aa5a4b47d8984b76",
+    "df5dca78f9d5cb83",
+    "bb1460712305b852",
+    "edc716cd97fa9591",
+    "6f250bd8018ee3bd",
+    "63287165ad10ee3b",
+    "fe62583c9b242501",
+    "00906cfc733d8a83",
+    "2058f7ab3b20ec83",
+    "c758e4d4c2909a4b",
+    "cea16f8c03083a0b",
+    "6abda6e64afe38c2",
+    "599af1c8ee292366",
+    "5c25b68635112777",
+    "82e388181fe7e8ac"
+   ],
+   "tile_count": 48,
+   "screen_box": [
+    160,
+    176,
+    288,
+    208
+   ],
+   "size_px": [
+    128,
+    32
+   ],
+   "style": "banner lettering: big yellow letters (brown = inactive) with dark shading and black shadow, 3-4 tiles tall",
+   "drawing": "word drawn as a block of tiles on a plane; the tiles of identical letter runs are shared between banners (PLAY in PLAY / PLAYER SELECT, DATA in DATA LOAD / DATA n, ELE in DELETE / SELECT); see README",
+   "letter_font": false,
+   "work_file": "work/scenes/playstyle/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_ps_player_select_banner.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "psel_player_select",
+   "scene": [
+    "playersel"
+   ],
+   "kind": "md",
+   "en": "PLAYER SELECT",
+   "tile_hashes": [
+    "cf64294af9d77677",
+    "b9387727998443f0",
+    "9710a8c488355f0e",
+    "39a0942751e8d911",
+    "c79ccd44a686c96f",
+    "2ccc5225a3934a44",
+    "c498f7013a916901",
+    "4e9adf1a1a9aa5cb",
+    "5e93fe772590c759",
+    "426d87c484f6fbf8",
+    "56e9160cea095d49",
+    "e36ba6a76f511643",
+    "ef624abe648280f8",
+    "09e0974adfa3ac03",
+    "fc22ab5c2ead4cb6",
+    "55c9964ff2ab958a",
+    "d0bf979ae050bf63",
+    "4d7d362eb13af50c",
+    "815d62102bf06998",
+    "c3905656a6c46b9a"
+   ],
+   "tile_count": 28,
+   "screen_box": [
+    104,
+    12,
+    216,
+    34
+   ],
+   "size_px": [
+    112,
+    22
+   ],
+   "style": "8x16 game font (MENU_ART.md): yellow capitals shaded brown, black drop shadow, 15 px",
+   "drawing": "REUSABLE LETTER FONT: the 8x16 game font (sprites, 2 tiles per glyph, ROM 0x2C4B20), written by code from ASCII strings (character names at ROM 0x3267A..); cannot be translated word by word",
+   "letter_font": true,
+   "work_file": "work/scenes/playersel/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_psel_player_select.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles",
+   "tiles_in_8x16_font": 15
+  },
+  {
+   "id": "psel_char_name",
+   "scene": [
+    "playersel"
+   ],
+   "kind": "md",
+   "en": "KNUCKLES THE ECHIDNA",
+   "tile_hashes": [
+    "f1319458cdb63911",
+    "4319677a654f8ee1",
+    "eefe8dd4d85403b7",
+    "c72a4a0b99fc8fa8",
+    "9710a8c488355f0e",
+    "2ccc5225a3934a44",
+    "5e93fe772590c759",
+    "33c1f543cf8feca7",
+    "0e565740ce412203",
+    "56abb2dc145909d0",
+    "39a0942751e8d911",
+    "100b2f0ae085f903",
+    "2b121b6e735114cb",
+    "f0c31d793e4f9684",
+    "815d62102bf06998",
+    "56e9160cea095d49",
+    "09e0974adfa3ac03",
+    "4d7d362eb13af50c",
+    "9ec08155ab7f0b33",
+    "17118ca0583032c3",
+    "c3905656a6c46b9a",
+    "0b0636d403f89ab5",
+    "e36ba6a76f511643"
+   ],
+   "tile_count": 35,
+   "screen_box": [
+    80,
+    108,
+    240,
+    124
+   ],
+   "size_px": [
+    160,
+    16
+   ],
+   "style": "8x16 game font (MENU_ART.md): yellow capitals shaded brown, black drop shadow, 15 px",
+   "drawing": "REUSABLE LETTER FONT: the 8x16 game font (sprites, 2 tiles per glyph, ROM 0x2C4B20), written by code from ASCII strings (character names at ROM 0x3267A..); cannot be translated word by word",
+   "letter_font": true,
+   "work_file": "work/scenes/playersel/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_psel_char_name.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles",
+   "tiles_in_8x16_font": 21
+  },
+  {
+   "id": "dl_data_n_header",
+   "scene": [
+    "dataload2"
+   ],
+   "kind": "md",
+   "en": "DATA 1 (slot header, yellow)",
+   "tile_hashes": [
+    "a07a3b44c1badeb9",
+    "6cb1ef1bebc96c4a",
+    "7b48fc7198ab57b4",
+    "0f4fbf7e6bed7df7",
+    "b6f9480d2a517f2c",
+    "4b47522382b3cdb4",
+    "f7e44b88c422d21b",
+    "7c7199f1112ae37a",
+    "74cb9fe2a6e6dddd",
+    "337763dbf895d0c7",
+    "c15fabcd9342b6ec",
+    "8b00dfcaa9c4e964",
+    "d675c7642e50b886",
+    "9649cee8bb6d4023",
+    "e614db968fe7e203",
+    "11afecf7114bcf30",
+    "c80e8650ebae22bf",
+    "1f9ddb99b2488fcb",
+    "4d1564f51ce883e3"
+   ],
+   "tile_count": 23,
+   "screen_box": [
+    124,
+    64,
+    192,
+    88
+   ],
+   "size_px": [
+    68,
+    24
+   ],
+   "style": "banner lettering: big yellow letters (brown = inactive) with dark shading and black shadow, 3-4 tiles tall",
+   "drawing": "word drawn as a block of tiles on a plane; the tiles of identical letter runs are shared between banners (PLAY in PLAY / PLAYER SELECT, DATA in DATA LOAD / DATA n, ELE in DELETE / SELECT); see README",
+   "letter_font": false,
+   "work_file": "work/scenes/dataload2/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_dl_data_n_header.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "st_channel_labels",
+   "scene": [
+    "soundtest"
+   ],
+   "kind": "md",
+   "en": "FM1-FM6 PSG1-PSG3 PWM",
+   "tile_hashes": [
+    "38a5edff47a7e763",
+    "26d654eb72682644",
+    "80b05997d7483b03",
+    "84ec3c55cf0eb7b3",
+    "0aa2a1141e7c249e"
+   ],
+   "tile_count": 30,
+   "screen_box": [
+    36,
+    16,
+    56,
+    176
+   ],
+   "size_px": [
+    20,
+    160
+   ],
+   "style": "yellow 16 px tile letters with white digits (FM/PSG/PWM labels and the SOUND TEST bar)",
+   "drawing": "tile letters reused between the labels (F, M, P, S, G and digits); debug-style screen, low priority",
+   "letter_font": true,
+   "work_file": "work/scenes/soundtest/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_st_channel_labels.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  },
+  {
+   "id": "st_sound_test",
+   "scene": [
+    "soundtest"
+   ],
+   "kind": "md",
+   "en": "--- SOUND TEST ---",
+   "tile_hashes": [
+    "11afecf7114bcf30",
+    "38a5edff47a7e763",
+    "0aa2a1141e7c249e",
+    "f54878b33f8085b4",
+    "361d5b04ba41a177",
+    "990be3019d598e03",
+    "c167f7a688df098f"
+   ],
+   "tile_count": 29,
+   "screen_box": [
+    34,
+    192,
+    204,
+    212
+   ],
+   "size_px": [
+    170,
+    20
+   ],
+   "style": "yellow 16 px tile letters with white digits (FM/PSG/PWM labels and the SOUND TEST bar)",
+   "drawing": "tile letters reused between the labels (F, M, P, S, G and digits); debug-style screen, low priority",
+   "letter_font": true,
+   "work_file": "work/scenes/soundtest/ (full.png, md.png = Mega Drive layer only, dump/ = md_<hash>.png tiles)",
+   "review_crop": "sheets/md_st_sound_test.png",
+   "hash_note": "hashes found by matching the dumped tiles against the Mega Drive layer screenshot; a box can include a few background tiles"
+  }
+ ]
+}

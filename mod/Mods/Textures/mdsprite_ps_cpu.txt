@@ -1,0 +1,6 @@
+# PLAY STYLE: CPU (PLAY STYLE partner) -> 電腦 (zh-TW translation mod)
+# built by tools/build_mdsprite.py from text/mdsprite/ps_cpu.json
+align left
+offset 0 -2
+sprite 0 0 4x2 565b2931680e7c8b ca0df3c5596563ce 3b8787bfe87ab6f7 dd99d603228a5312 e4d7df9175048bd4 16044b799563764e 056063d7c4782ec8 fd95b23c57bbf753
+sprite 32 0 2x2 968bdc04f1739bd4 755b0ebf2dbef34b a6cc1c0308fa4e64 3f3bfd721ffd6896

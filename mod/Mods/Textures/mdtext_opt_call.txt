@@ -1,0 +1,6 @@
+# OPTIONS: CALL (controls): A:CALL -> 呼叫 (zh-TW translation mod)
+# built by tools/build_mdtext.py from text/mdtext/opt_call.json
+plane A
+align left
+row 06849326c9a1f6b7 8383a19547aa21e3 56a1bb7565b0ae7f 56a1bb7565b0ae7f
+row 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503

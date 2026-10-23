@@ -1,0 +1,109 @@
+{
+ "en": "CLEAR (save slot, fifth zone)",
+ "zh": "過關",
+ "screen": "DATA LOAD (used slot)",
+ "source": "work/p4/really/dump/Text/sprites_002357.txt group 9 (screen 224,120, palette line 0)",
+ "sprites": [
+  "sprite 0 0 4x3 7c7f8a7820c0890b 311c0a1ee80b541d 926cd31837ea8e6b e5cec741553cbf81 e6798334d26120b7 069d9b1c88a0a07b 03918a9043dfd4c4 b24e3fd511de1683 ee7dd1e1d3850d63 34bbab0d2eb6e76a 78ce94edc83a2d8c ca33c786175f9623",
+  "sprite 32 0 1x3 7c0c9964748539bf 4606ee1e5ebbbf6b b60267b962e84823"
+ ],
+ "align": "left",
+ "preview_palette": [
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   255,
+   255,
+   255
+  ],
+  [
+   219,
+   146,
+   219
+  ],
+  [
+   109,
+   36,
+   109
+  ],
+  [
+   73,
+   0,
+   73
+  ],
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   219
+  ],
+  [
+   36,
+   73,
+   255
+  ],
+  [
+   73,
+   146,
+   255
+  ],
+  [
+   182,
+   255,
+   255
+  ],
+  [
+   255,
+   219,
+   0
+  ],
+  [
+   182,
+   73,
+   0
+  ],
+  [
+   73,
+   0,
+   0
+  ],
+  [
+   0,
+   73,
+   0
+  ],
+  [
+   0,
+   146,
+   0
+  ],
+  [
+   0,
+   255,
+   0
+  ]
+ ],
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 16,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "過關",
+   "style": "slot_yellow",
+   "align": "center",
+   "region": [
+    0,
+    38
+   ],
+   "y": 1
+  }
+ ]
+}

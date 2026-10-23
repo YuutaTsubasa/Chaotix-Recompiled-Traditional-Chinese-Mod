@@ -1,0 +1,41 @@
+{
+ "en": "GOT .... pts!",
+ "zh": "得到 .... 分！",
+ "canvas": "orig",
+ "erase": [
+  [
+   0,
+   0,
+   26,
+   20
+  ],
+  [
+   80,
+   0,
+   110,
+   20
+  ]
+ ],
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 15,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "得到",
+   "style": "sp_white",
+   "y": 0,
+   "x": 1
+  },
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 15,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "分！",
+   "style": "sp_white",
+   "y": 5,
+   "x": 82
+  }
+ ]
+}

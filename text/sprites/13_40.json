@@ -1,0 +1,29 @@
+{
+ "en": "-DEMO-",
+ "zh": "示範",
+ "canvas": "orig",
+ "erase": [
+  [
+   12,
+   0,
+   52,
+   13
+  ]
+ ],
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 15,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "示範",
+   "style": "hud_yellow",
+   "y": 0,
+   "align": "center",
+   "region": [
+    12,
+    52
+   ]
+  }
+ ]
+}

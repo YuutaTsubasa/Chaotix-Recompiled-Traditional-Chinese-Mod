@@ -1,0 +1,5 @@
+# TRAINING: EXIT (menu) banner -> 離開 (zh-TW translation mod)
+# built by tools/build_mdsprite.py from text/mdsprite/banner_exit.json
+align center
+sprite 0 0 4x3 159031c93cc6f212 7fcd3e901678f8c2 9a867e63eb0011e3 3f5e4b94c596c81e e4ebc59a67bc28ec c9b9d15774d24cf3 297c812c23f7bb3f a87e825dbf17b8c9 5d53309a5e55254f 0736f4198a31e6ff 4166831b6dd26213 d859d925d3704937
+sprite 32 0 2x3 490e1b69dcb2deb7 52875a2cc74fbcb3 76d214966ca6b9cf 34c1cc5d7630a28f 7cc960c6f7511643 df25125ed574b8a3

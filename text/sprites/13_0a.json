@@ -1,0 +1,16 @@
+{
+ "en": "ATTACK (red)",
+ "zh": "挑戰",
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 15,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "挑戰",
+   "style": "hud_red",
+   "y": 0,
+   "align": "center"
+  }
+ ]
+}

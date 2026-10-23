@@ -1,0 +1,15 @@
+{
+ "en": "LEVEL (attraction board)",
+ "zh": "關卡",
+ "layers": [
+  {
+   "zh": "關卡",
+   "font": "fusion8",
+   "scale": 1,
+   "gap": 1,
+   "style": "lobby_grey",
+   "y": 0,
+   "align": "center"
+  }
+ ]
+}

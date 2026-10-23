@@ -1,0 +1,90 @@
+{
+ "en": "FEATURING KNUCKLES THE ECHIDNA. / WELCOME TO THE NEXT LEVEL / IN 32X WORLD / PUSH START (logo, left half)",
+ "zh": "主演：納克魯斯／歡迎來到 32X 的全新境界／請按 START",
+ "join": "0b",
+ "canvas": "orig",
+ "rects": [
+  [
+   56,
+   55,
+   236,
+   74,
+   86
+  ]
+ ],
+ "fill_rows": [
+  [
+   106,
+   85,
+   189,
+   94,
+   95
+  ]
+ ],
+ "layers": [
+  {
+   "zh": "主演：納克魯斯",
+   "font": "fusion8",
+   "scale": 1,
+   "gap": 1,
+   "style": "title_tag",
+   "y": 56,
+   "align": "center",
+   "region": [
+    0,
+    292
+   ],
+   "colmap": {
+    "rect": [
+     56,
+     55,
+     236,
+     74
+    ],
+    "bg": [
+     86
+    ],
+    "fill": 127
+   }
+  },
+  {
+   "zh": "歡迎來到 32X 的全新境界",
+   "font": "fusion8",
+   "scale": 1,
+   "gap": 1,
+   "style": "title_tag",
+   "y": 66,
+   "align": "center",
+   "region": [
+    0,
+    292
+   ],
+   "colmap": {
+    "rect": [
+     56,
+     55,
+     236,
+     74
+    ],
+    "bg": [
+     86
+    ],
+    "fill": 127
+   }
+  },
+  {
+   "zh": "請按 START",
+   "font": "fusion8",
+   "scale": 1,
+   "gap": 1,
+   "space": 4,
+   "style": "title_blue",
+   "y": 86,
+   "align": "center",
+   "region": [
+    106,
+    189
+   ]
+  }
+ ]
+}

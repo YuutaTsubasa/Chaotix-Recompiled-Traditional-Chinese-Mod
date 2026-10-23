@@ -1,0 +1,28 @@
+{
+ "en": "(dot) NO CLEAR (dot)",
+ "zh": "未過關",
+ "canvas": "orig",
+ "erase": [
+  [
+   7,
+   0,
+   93,
+   23
+  ]
+ ],
+ "layers": [
+  {
+   "zh": "未過關",
+   "font": "NotoSansTC-Black.ttf",
+   "size": 21,
+   "thresh": 128,
+   "gap": 3,
+   "style": "aa_noclear",
+   "valign": [
+    1,
+    22
+   ],
+   "align": "center"
+  }
+ ]
+}

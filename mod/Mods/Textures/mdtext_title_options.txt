@@ -1,0 +1,6 @@
+# title menu: OPTIONS -> 設定 (zh-TW translation mod)
+# built by tools/build_mdtext.py from text/mdtext/title_options.json
+plane A
+align center
+row c55f51f079e83c63 c47e6d034eb92447 61289eb94ebec2bf ee6410f28116fbcf c55f51f079e83c63 06e89b91ed8a5c67 262ed75e7586890f
+row 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503

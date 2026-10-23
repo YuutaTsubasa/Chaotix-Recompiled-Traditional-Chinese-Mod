@@ -1,0 +1,20 @@
+# PLAYER SELECT, COMBI SELECT: ESPIO THE CHAMELEON (character select) -> 艾斯皮歐 (zh-TW translation mod)
+# built by tools/build_mdsprite.py from text/mdsprite/name_espio.json
+align center
+sprite 0 0 1x2 2ccc5225a3934a44 09e0974adfa3ac03
+sprite 8 0 1x2 5e93fe772590c759 4d7d362eb13af50c
+sprite 16 0 1x2 b9387727998443f0 426d87c484f6fbf8
+sprite 24 0 1x2 56abb2dc145909d0 c3905656a6c46b9a
+sprite 32 0 1x2 39a0942751e8d911 f0c31d793e4f9684
+sprite 48 0 1x2 fc2e5150537bf7a6 c3905656a6c46b9a
+sprite 56 0 1x2 33c1f543cf8feca7 9ec08155ab7f0b33
+sprite 64 0 1x2 2ccc5225a3934a44 09e0974adfa3ac03
+sprite 80 0 1x2 c72a4a0b99fc8fa8 815d62102bf06998
+sprite 88 0 1x2 33c1f543cf8feca7 9ec08155ab7f0b33
+sprite 96 0 1x2 39a0942751e8d911 e36ba6a76f511643
+sprite 104 0 1x2 c086fd7a63463508 ab83780f170f2e0c
+sprite 112 0 1x2 2ccc5225a3934a44 09e0974adfa3ac03
+sprite 120 0 1x2 9710a8c488355f0e 56e9160cea095d49
+sprite 128 0 1x2 2ccc5225a3934a44 09e0974adfa3ac03
+sprite 136 0 1x2 39a0942751e8d911 f0c31d793e4f9684
+sprite 144 0 1x2 4319677a654f8ee1 2b121b6e735114cb

@@ -1,0 +1,111 @@
+{
+ "en": "S.E. (sound effect nn)",
+ "zh": "音效",
+ "screen": "SOUND TEST",
+ "source": "8x16 game font tiles (inventory.json), 'S.E.', title bar",
+ "sprites": [
+  "sprite 0 0 1x2 5e93fe772590c759 4d7d362eb13af50c",
+  "sprite 8 0 1x2 171bb79dc8e18503 2ae1c1ea6d47f504",
+  "sprite 16 0 1x2 2ccc5225a3934a44 09e0974adfa3ac03",
+  "sprite 24 0 1x2 171bb79dc8e18503 2ae1c1ea6d47f504"
+ ],
+ "align": "left",
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 15,
+   "thresh": 150,
+   "gap": 1,
+   "zh": "音效",
+   "style": "font16",
+   "align": "left",
+   "y": 0,
+   "region": [
+    0,
+    40
+   ]
+  }
+ ],
+ "preview_palette": [
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   255,
+   255,
+   255
+  ],
+  [
+   219,
+   146,
+   219
+  ],
+  [
+   109,
+   36,
+   109
+  ],
+  [
+   73,
+   0,
+   73
+  ],
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   219
+  ],
+  [
+   36,
+   73,
+   255
+  ],
+  [
+   73,
+   146,
+   255
+  ],
+  [
+   182,
+   255,
+   255
+  ],
+  [
+   255,
+   219,
+   0
+  ],
+  [
+   182,
+   73,
+   0
+  ],
+  [
+   73,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0
+  ]
+ ]
+}

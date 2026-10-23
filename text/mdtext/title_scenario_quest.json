@@ -1,0 +1,106 @@
+{
+ "en": "SCENARIO QUEST",
+ "zh": "劇情模式",
+ "screen": "title menu",
+ "align": "center",
+ "source": "work/p3/tr/dump/Text/text_001790.txt plane A cells 12,15 14x1",
+ "plane": "A",
+ "rows": [
+  "262ed75e7586890f 06849326c9a1f6b7 0be70ba06abdcbbf 06e89b91ed8a5c67 8383a19547aa21e3 8ab6e8c4c14e5edb ee6410f28116fbcf c55f51f079e83c63 171bb79dc8e18503 90b290db4b02d4a3 49b1a1d0f548db7f 0be70ba06abdcbbf 262ed75e7586890f 61289eb94ebec2bf",
+  "171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503 171bb79dc8e18503"
+ ],
+ "preview_palette": [
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   109,
+   109,
+   109
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   0,
+   0,
+   73
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   128,
+   128,
+   128
+  ],
+  [
+   0,
+   0,
+   0
+  ]
+ ],
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 16,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "劇情模式",
+   "style": "menu16",
+   "align": "center",
+   "y": 0
+  }
+ ]
+}

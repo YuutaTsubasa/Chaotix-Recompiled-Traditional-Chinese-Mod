@@ -1,0 +1,17 @@
+{
+ "en": "YOU (GOT THROUGH)",
+ "zh": "順利過關",
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 15,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "順利過關",
+   "style": "res_white",
+   "y": 0,
+   "align": "left",
+   "x": 29
+  }
+ ]
+}

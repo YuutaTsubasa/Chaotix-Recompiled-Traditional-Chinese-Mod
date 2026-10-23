@@ -1,0 +1,106 @@
+{
+ "en": "DELETE (banner)",
+ "zh": "刪除",
+ "screen": "DATA LOAD",
+ "source": "work/p4/dl/dump/Text/sprites_002023.txt group 11 (screen 96,182, palette line 1)",
+ "sprites": [
+  "sprite 0 0 4x3 67712c8a68653de5 60c56fc02f7718f8 010ff73b22844c13 0eaf8d56c604623f 954f029202698062 6108076c1eee7e26 3769dbb5498a8b22 affa08965eb8d59c 72bf545354d8d2f3 310ba70a02fc3a2f e0d1149c23d2f257 941f5a6b906020b6",
+  "sprite 32 0 4x3 574039f37c1671b2 632c192489ea7fe8 b1204335af7e2500 d9501fe580b82ba6 9f108ab05172f4ba 73a1de9cb81dc0af 679694d985dad24f 2085954e6054f3b1 074fb6796ea643cf bcab9b43060c809b 1058e08669e89162 941f5a6b906020b6",
+  "sprite 64 0 1x3 70f2ff67c9d3fe53 eb4befbd29ef72d6 12cb88e69081e533"
+ ],
+ "align": "center",
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 17,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "刪除",
+   "style": "banner",
+   "align": "center",
+   "y": 0
+  }
+ ],
+ "preview_palette": [
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   255,
+   255,
+   255
+  ],
+  [
+   219,
+   146,
+   219
+  ],
+  [
+   109,
+   36,
+   109
+  ],
+  [
+   73,
+   0,
+   73
+  ],
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   219
+  ],
+  [
+   36,
+   73,
+   255
+  ],
+  [
+   73,
+   146,
+   255
+  ],
+  [
+   182,
+   255,
+   255
+  ],
+  [
+   255,
+   219,
+   0
+  ],
+  [
+   182,
+   73,
+   0
+  ],
+  [
+   73,
+   0,
+   0
+  ],
+  [
+   0,
+   73,
+   0
+  ],
+  [
+   0,
+   146,
+   0
+  ],
+  [
+   0,
+   255,
+   0
+  ]
+ ]
+}

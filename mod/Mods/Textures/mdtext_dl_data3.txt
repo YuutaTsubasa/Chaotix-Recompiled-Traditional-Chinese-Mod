@@ -1,0 +1,7 @@
+# DATA LOAD (slot header): DATA n (save slot): DATA 3 -> 存檔 3 (zh-TW translation mod)
+# built by tools/build_mdtext.py from text/mdtext/dl_data3.json
+plane A
+align center
+row a07a3b44c1badeb9 6cb1ef1bebc96c4a 7b48fc7198ab57b4 0f4fbf7e6bed7df7 b6f9480d2a517f2c 01c434a3a4e66835 171bb79dc8e18503 f09ff4aa4ce4d2d0 c3ea7e4c45323643
+row 7c7199f1112ae37a 74cb9fe2a6e6dddd 1422d2cfcd05ff52 c15fabcd9342b6ec 8b00dfcaa9c4e964 337763dbf895d0c7 d675c7642e50b886 bfa4800d1a147af4 cc2dd1ad3024cd27
+row 92b5280bf0494c6b c80e8650ebae22bf 966c07b0c11226cb 966c07b0c11226cb 4d1564f51ce883e3 97c6b865e59e448b 5de83062ac36bd63 926cd31837ea8e6b 91a6ac056453edfd

@@ -1,0 +1,6 @@
+# DATA LOAD (NEW slot chosen): SAVEMODE, AUTO (save mode): save slot box, top -> 存檔方式 / 自動 (zh-TW translation mod)
+# built by tools/build_mdsprite.py from text/mdsprite/savemode_top.json
+align left
+sprite 0 0 4x4 7de9f9d2f1fd4d4e 3f8ac8f2633c54b3 3f8ac8f2633c54b3 3f8ac8f2633c54b3 53ad88cfa98ac607 39813244df6c69e8 0f59b6cb428f4af9 c76fb4a479d3b103 53ad88cfa98ac607 c4cf93068150a78e 33d840813b7267ab c76fb4a479d3b103 53ad88cfa98ac607 d342c22cb3e8fb50 eba09d4af9538a54 74025480b80a5c60
+sprite 32 0 4x4 53ad88cfa98ac607 2737436c633e03b8 a4d2469f78cc492e 5a245697e61c1432 53ad88cfa98ac607 925fd5324a48cbe3 f2d0fe96cd024365 138766634153e80a 53ad88cfa98ac607 b238d0893d219d2f eef8a229ecfd6f97 b382f5d4d07d834f 53ad88cfa98ac607 3710e5f6bd033fa9 fc501006be98ff7d 5e26eb3de2f5ff9e
+sprite 64 0 3x4 53ad88cfa98ac607 e310a53159f152cc e7f2acb33615f150 890d4169ce3762b6 e72acb2a228b676e a1a06aec1dfabb33 a1a06aec1dfabb33 a1a06aec1dfabb33 171bb79dc8e18503 2a433e18e19dc10b fe390eb009aeee13 fe390eb009aeee13

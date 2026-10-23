@@ -1,0 +1,16 @@
+{
+ "en": "GET",
+ "zh": "收集",
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 15,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "收集",
+   "style": "sp_white",
+   "y": 0,
+   "align": "center"
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+# DATA LOAD (used slot): CLEAR (save slot, fifth zone) -> 過關 (zh-TW translation mod)
+# built by tools/build_mdsprite.py from text/mdsprite/dl_clear5.json
+align left
+sprite 0 0 4x3 7c7f8a7820c0890b 311c0a1ee80b541d 926cd31837ea8e6b e5cec741553cbf81 e6798334d26120b7 069d9b1c88a0a07b 03918a9043dfd4c4 b24e3fd511de1683 ee7dd1e1d3850d63 34bbab0d2eb6e76a 78ce94edc83a2d8c ca33c786175f9623
+sprite 32 0 1x3 7c0c9964748539bf 4606ee1e5ebbbf6b b60267b962e84823

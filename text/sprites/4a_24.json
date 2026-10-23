@@ -1,0 +1,20 @@
+{
+ "en": "IT'S (A NEW RECORD!)",
+ "zh": "新紀錄！",
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 15,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "新紀錄！",
+   "style": "res_yellow",
+   "y": 0,
+   "align": "center",
+   "region": [
+    0,
+    147
+   ]
+  }
+ ]
+}

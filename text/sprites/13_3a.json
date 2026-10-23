@@ -1,0 +1,16 @@
+{
+ "en": "SCORE (red)",
+ "zh": "分數",
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 15,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "分數",
+   "style": "hud_red",
+   "y": 0,
+   "align": "center"
+  }
+ ]
+}

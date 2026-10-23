@@ -1,0 +1,27 @@
+{
+ "en": "COMBI / CATCHER (alternating sign)",
+ "zh": "搭檔／抓抓機",
+ "canvas": "orig",
+ "cycle": {
+  "rect": [
+   6,
+   6,
+   53,
+   14
+  ],
+  "bg": 96,
+  "both": 108,
+  "a": {
+   "zh": "抓抓機",
+   "idx": 110,
+   "gap": 1,
+   "y": 1
+  },
+  "b": {
+   "zh": "搭檔",
+   "idx": 109,
+   "gap": 1,
+   "y": 1
+  }
+ }
+}

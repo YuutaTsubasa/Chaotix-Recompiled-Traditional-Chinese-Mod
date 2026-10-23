@@ -1,0 +1,7 @@
+# SOUND TEST: S.E. (sound effect nn) -> 音效 (zh-TW translation mod)
+# built by tools/build_mdsprite.py from text/mdsprite/st_se.json
+align left
+sprite 0 0 1x2 5e93fe772590c759 4d7d362eb13af50c
+sprite 8 0 1x2 171bb79dc8e18503 2ae1c1ea6d47f504
+sprite 16 0 1x2 2ccc5225a3934a44 09e0974adfa3ac03
+sprite 24 0 1x2 171bb79dc8e18503 2ae1c1ea6d47f504

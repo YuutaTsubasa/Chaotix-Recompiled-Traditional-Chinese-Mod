@@ -1,0 +1,16 @@
+{
+ "en": "LIMITS (red)",
+ "zh": "關口",
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 15,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "關口",
+   "style": "hud_red",
+   "y": 0,
+   "align": "center"
+  }
+ ]
+}

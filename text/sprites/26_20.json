@@ -1,0 +1,28 @@
+{
+ "en": "UP (block)",
+ "zh": "上",
+ "canvas": "orig",
+ "rects": [
+  [
+   3,
+   11,
+   29,
+   21,
+   1
+  ]
+ ],
+ "layers": [
+  {
+   "zh": "上",
+   "font": "NotoSansTC-Black.ttf",
+   "size": 12,
+   "thresh": 128,
+   "style": "bonus_up",
+   "valign": [
+    10,
+    22
+   ],
+   "align": "center"
+  }
+ ]
+}

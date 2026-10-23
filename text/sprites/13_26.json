@@ -1,0 +1,29 @@
+{
+ "en": "HOLD! (speech bubble)",
+ "zh": "抓住！",
+ "canvas": "orig",
+ "erase": [
+  [
+   2,
+   5,
+   33,
+   11
+  ]
+ ],
+ "erase_idx": 5,
+ "layers": [
+  {
+   "zh": "抓住！",
+   "font": "fusion8",
+   "scale": 1,
+   "gap": 1,
+   "style": "hud_bubble",
+   "y": 4,
+   "align": "center",
+   "region": [
+    2,
+    33
+   ]
+  }
+ ]
+}

@@ -1,0 +1,402 @@
+{
+  "Knuckles": {
+    "zh": "納克魯斯",
+    "note": "official (Sonic Racing CrossWorlds)"
+  },
+  "Espio": {
+    "zh": "艾斯皮歐",
+    "note": "official"
+  },
+  "Vector": {
+    "zh": "貝庫特",
+    "note": "official"
+  },
+  "Charmy": {
+    "zh": "查米",
+    "note": "official"
+  },
+  "Mighty": {
+    "zh": "麥堤",
+    "note": "no official zh-TW found; approved by user 2026-10-23"
+  },
+  "Heavy": {
+    "zh": "海威",
+    "note": "no official zh-TW found; approved by user 2026-10-23 (alt: 重型)"
+  },
+  "Bomb": {
+    "zh": "炸彈",
+    "note": "no official zh-TW found; approved by user 2026-10-23"
+  },
+  "Metal Sonic": {
+    "zh": "金屬索尼克",
+    "note": "official"
+  },
+  "Dr. Eggman / Robotnik": {
+    "zh": "蛋頭博士",
+    "note": "official"
+  },
+  "Chaotix": {
+    "zh": "卡歐提斯",
+    "note": "official: Team Chaotix = 卡歐提斯小隊"
+  },
+  "Knuckles' Chaotix": {
+    "zh": "納克魯斯 卡歐提斯",
+    "note": "title; logo itself stays English"
+  },
+  "Isolated Island": {
+    "zh": "孤立之島",
+    "note": "approved by user 2026-10-23"
+  },
+  "Newtrogic High Zone": {
+    "zh": "紐托吉克高地",
+    "note": "approved by user 2026-10-23; subtitle on the title card"
+  },
+  "World Entrance": {
+    "zh": "世界入口",
+    "note": "approved by user 2026-10-23"
+  },
+  "Botanic Base": {
+    "zh": "植物基地",
+    "note": "approved by user 2026-10-23"
+  },
+  "Speed Slider": {
+    "zh": "極速滑道",
+    "note": "approved by user 2026-10-23"
+  },
+  "Amazing Arena": {
+    "zh": "驚奇競技場",
+    "note": "approved by user 2026-10-23"
+  },
+  "Techno Tower": {
+    "zh": "科技之塔",
+    "note": "approved by user 2026-10-23"
+  },
+  "Marina Madness": {
+    "zh": "瘋狂海港",
+    "note": "approved by user 2026-10-23"
+  },
+  "Combi Ring": {
+    "zh": "連結環",
+    "note": "approved by user 2026-10-23"
+  },
+  "Combi Catcher": {
+    "zh": "搭檔抓抓機",
+    "note": "approved by user 2026-10-23"
+  },
+  "Special Stage": {
+    "zh": "特別關卡",
+    "note": "approved by user 2026-10-23"
+  },
+  "Bonus Stage": {
+    "zh": "獎勵關卡",
+    "note": "approved by user 2026-10-23"
+  },
+  "Chaos Ring": {
+    "zh": "混沌之環",
+    "note": "approved by user 2026-10-23"
+  },
+  "Score": {
+    "zh": "分數",
+    "note": ""
+  },
+  "Time": {
+    "zh": "時間",
+    "note": ""
+  },
+  "Rings": {
+    "zh": "戒指",
+    "note": "Sonic convention"
+  },
+  "Game Over": {
+    "zh": "遊戲結束",
+    "note": ""
+  },
+  "Time Over": {
+    "zh": "時間到",
+    "note": ""
+  },
+  "Points (HUD)": {
+    "zh": "得分",
+    "note": "translator decision, approved by user 2026-10-23; HUD label (SCORE stays 分數)"
+  },
+  "Pause": {
+    "zh": "暫停",
+    "note": "translator decision, approved by user 2026-10-23"
+  },
+  "Limits (special stage HUD)": {
+    "zh": "關口",
+    "note": "translator decision, approved by user 2026-10-23; the special stage's gates, shown as n/4"
+  },
+  "Attack (HUD, after TIME)": {
+    "zh": "挑戰",
+    "note": "translator decision, approved by user 2026-10-23"
+  },
+  "Hurry up": {
+    "zh": "快點！",
+    "note": "translator decision, approved by user 2026-10-23; HURRY = 快點, UP = ！"
+  },
+  "Hold! (partner)": {
+    "zh": "抓住！",
+    "note": "translator decision, approved by user 2026-10-23"
+  },
+  "Level": {
+    "zh": "關卡",
+    "note": "translator decision, approved by user 2026-10-23; HUD, title card, lobby board"
+  },
+  "Demo": {
+    "zh": "示範",
+    "note": "translator decision, approved by user 2026-10-23"
+  },
+  "Clear": {
+    "zh": "過關",
+    "note": "translator decision, approved by user 2026-10-23; goal sign, lobby board"
+  },
+  "No clear": {
+    "zh": "未過關",
+    "note": "translator decision, approved by user 2026-10-23"
+  },
+  "Challenge again!!": {
+    "zh": "再挑戰一次！！",
+    "note": "translator decision, approved by user 2026-10-23"
+  },
+  "Lock on": {
+    "zh": "鎖定",
+    "note": "translator decision, approved by user 2026-10-23"
+  },
+  "You got through": {
+    "zh": "順利過關",
+    "note": "translator decision, approved by user 2026-10-23; results title"
+  },
+  "Bonus": {
+    "zh": "獎勵",
+    "note": "translator decision, approved by user 2026-10-23; TIME/RING/SECRET BONUS = 時間/戒指/隱藏獎勵"
+  },
+  "Secret": {
+    "zh": "隱藏",
+    "note": "translator decision, approved by user 2026-10-23"
+  },
+  "Total": {
+    "zh": "合計",
+    "note": "translator decision, approved by user 2026-10-23"
+  },
+  "Score up!": {
+    "zh": "分數提升！",
+    "note": "translator decision, approved by user 2026-10-23"
+  },
+  "Player miss": {
+    "zh": "玩家失誤",
+    "note": "translator decision, approved by user 2026-10-23"
+  },
+  "Start the clock!": {
+    "zh": "開始計時！",
+    "note": "translator decision, approved by user 2026-10-23"
+  },
+  "To next level!": {
+    "zh": "前往下一關！",
+    "note": "translator decision, approved by user 2026-10-23"
+  },
+  "Go for goal!": {
+    "zh": "衝向終點！",
+    "note": "translator decision, approved by user 2026-10-23"
+  },
+  "Get enemies!": {
+    "zh": "打倒敵人！",
+    "note": "translator decision, approved by user 2026-10-23; GET = 打倒, ENEMIES! = 敵人！"
+  },
+  "Score points": {
+    "zh": "賺取分數",
+    "note": "translator decision, approved by user 2026-10-23; SCORE (yellow) = 賺取, POINTS = 分數"
+  },
+  "Finish": {
+    "zh": "完成！",
+    "note": "translator decision, approved by user 2026-10-23"
+  },
+  "It's a new record!": {
+    "zh": "新紀錄！",
+    "note": "translator decision, approved by user 2026-10-23"
+  },
+  "Time out (special stage)": {
+    "zh": "時間到！",
+    "note": "translator decision, approved by user 2026-10-23; as Time Over"
+  },
+  "Course out (special stage)": {
+    "zh": "衝出跑道！",
+    "note": "translator decision, approved by user 2026-10-23"
+  },
+  "Got n pts!": {
+    "zh": "得到 n 分！",
+    "note": "translator decision, approved by user 2026-10-23"
+  },
+  "Too bad!": {
+    "zh": "太可惜了！",
+    "note": "translator decision, approved by user 2026-10-23; TOO = 太, BAD! = 可惜了！"
+  },
+  "Cooool": {
+    "zh": "太酷了",
+    "note": "translator decision, approved by user 2026-10-23"
+  },
+  "Next (special stage)": {
+    "zh": "下一關",
+    "note": "translator decision, approved by user 2026-10-23"
+  },
+  "n blue spheres to go": {
+    "zh": "n 顆藍色球體 待收集",
+    "note": "translator decision, approved by user 2026-10-23; BLUE = 顆藍色球體, SPHERES blank, TO GO = 待收集"
+  },
+  "Get (special stage)": {
+    "zh": "收集",
+    "note": "translator decision, approved by user 2026-10-23"
+  },
+  "Pts.": {
+    "zh": "分",
+    "note": "translator decision, approved by user 2026-10-23"
+  },
+  "Exit": {
+    "zh": "出口",
+    "note": "translator decision, approved by user 2026-10-23; bonus blocks, lobby sign"
+  },
+  "Up / Down (bonus blocks)": {
+    "zh": "上 / 下",
+    "note": "translator decision, approved by user 2026-10-23"
+  },
+  "Play (lobby sign)": {
+    "zh": "開始",
+    "note": "translator decision, approved by user 2026-10-23"
+  },
+  "Attraction information": {
+    "zh": "設施導覽",
+    "note": "translator decision, approved by user 2026-10-23; lobby board"
+  },
+  "Push start": {
+    "zh": "請按 START",
+    "note": "translator decision, approved by user 2026-10-23; START kept as the button's name"
+  },
+  "Featuring Knuckles the Echidna.": {
+    "zh": "主演：納克魯斯",
+    "note": "translator decision, approved by user 2026-10-23; title tagline"
+  },
+  "Welcome to the next level in 32X world": {
+    "zh": "歡迎來到 32X 的全新境界",
+    "note": "translator decision, approved by user 2026-10-23; title tagline"
+  },
+  "Scenario Quest": {
+    "zh": "劇情模式",
+    "note": "translator decision (phase 3, Mega Drive menu text), approved by user 2026-10-23"
+  },
+  "Training (title menu)": {
+    "zh": "練習模式",
+    "note": "translator decision (phase 3, Mega Drive menu text), approved by user 2026-10-23"
+  },
+  "Options": {
+    "zh": "設定",
+    "note": "translator decision (phase 3, Mega Drive menu text), approved by user 2026-10-23"
+  },
+  "Control configuration": {
+    "zh": "按鍵設定",
+    "note": "translator decision (phase 3, Mega Drive menu text), approved by user 2026-10-23"
+  },
+  "Type (controls)": {
+    "zh": "類型",
+    "note": "translator decision (phase 3, Mega Drive menu text), approved by user 2026-10-23"
+  },
+  "Call (controls)": {
+    "zh": "呼叫",
+    "note": "translator decision (phase 3, Mega Drive menu text), approved by user 2026-10-23"
+  },
+  "Hold (controls)": {
+    "zh": "抓住",
+    "note": "translator decision (phase 3, Mega Drive menu text), approved by user 2026-10-23; as Hold! (partner)"
+  },
+  "Jump (controls)": {
+    "zh": "跳躍",
+    "note": "translator decision (phase 3, Mega Drive menu text), approved by user 2026-10-23"
+  },
+  "Sound test": {
+    "zh": "音效測試",
+    "note": "translator decision (phase 3, Mega Drive menu text), approved by user 2026-10-23"
+  },
+  "Color test": {
+    "zh": "色彩測試",
+    "note": "translator decision (phase 3, Mega Drive menu text), approved by user 2026-10-23"
+  },
+  "Exit (menu)": {
+    "zh": "離開",
+    "note": "translator decision (phase 3, Mega Drive menu text), approved by user 2026-10-23; menu item (back), the signs' EXIT stays 出口"
+  },
+  "No save": {
+    "zh": "不存檔",
+    "note": "translator decision (phase 3, Mega Drive menu text), approved by user 2026-10-23"
+  },
+  "New (save slot)": {
+    "zh": "新遊戲",
+    "note": "translator decision (phase 3, Mega Drive menu text), approved by user 2026-10-23"
+  },
+  "Data n (save slot)": {
+    "zh": "存檔 n",
+    "note": "translator decision (phase 3, Mega Drive menu text), approved by user 2026-10-23"
+  },
+  "Data load (banner)": {
+    "zh": "讀取存檔",
+    "note": "approved by user 2026-10-23 (phase 4, Mega Drive sprite text); from the phase 4 brief"
+  },
+  "Play (banner)": {
+    "zh": "開始",
+    "note": "approved by user 2026-10-23 (phase 4, Mega Drive sprite text); from the phase 4 brief; as the lobby sign's PLAY"
+  },
+  "Delete (banner)": {
+    "zh": "刪除",
+    "note": "approved by user 2026-10-23 (phase 4, Mega Drive sprite text); from the phase 4 brief"
+  },
+  "Training (banner)": {
+    "zh": "練習模式",
+    "note": "approved by user 2026-10-23 (phase 4, Mega Drive sprite text); from the phase 4 brief; as the title menu's TRAINING"
+  },
+  "Play style": {
+    "zh": "遊玩方式",
+    "note": "approved by user 2026-10-23 (phase 4, Mega Drive sprite text); from the phase 4 brief"
+  },
+  "Player select": {
+    "zh": "選擇角色",
+    "note": "approved by user 2026-10-23 (phase 4, Mega Drive sprite text); from the phase 4 brief; banner (PLAY STYLE) and header (PLAYER SELECT)"
+  },
+  "Combi select": {
+    "zh": "選擇搭檔",
+    "note": "approved by user 2026-10-23 (phase 4, Mega Drive sprite text); partner select header after PLAYER SELECT"
+  },
+  "CPU (PLAY STYLE partner)": {
+    "zh": "電腦",
+    "note": "approved by user 2026-10-23 (phase 4, Mega Drive sprite text); from the phase 4 brief; 1P / 2P stay"
+  },
+  "Savemode / Save mode": {
+    "zh": "存檔方式",
+    "note": "approved by user 2026-10-23 (phase 4, Mega Drive sprite text); from the phase 4 brief"
+  },
+  "Auto (save mode)": {
+    "zh": "自動",
+    "note": "approved by user 2026-10-23 (phase 4, Mega Drive sprite text); from the phase 4 brief"
+  },
+  "Manual (save mode)": {
+    "zh": "手動",
+    "note": "approved by user 2026-10-23 (phase 4, Mega Drive sprite text); from the phase 4 brief"
+  },
+  "Really? (delete confirmation)": {
+    "zh": "確定嗎？",
+    "note": "approved by user 2026-10-23 (phase 4, Mega Drive sprite text)"
+  },
+  "No (delete confirmation)": {
+    "zh": "否",
+    "note": "approved by user 2026-10-23 (phase 4, Mega Drive sprite text)"
+  },
+  "Yes (delete confirmation)": {
+    "zh": "是",
+    "note": "approved by user 2026-10-23 (phase 4, Mega Drive sprite text)"
+  },
+  "S.E. (sound effect nn)": {
+    "zh": "音效",
+    "note": "approved by user 2026-10-23 (phase 4, Mega Drive sprite text); the number stays"
+  },
+  "Song titles (SOUND TEST)": {
+    "zh": "(English)",
+    "note": "kept in English by user decision 2026-10-23; not translated"
+  }
+}

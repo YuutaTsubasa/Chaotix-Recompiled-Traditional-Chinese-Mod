@@ -1,0 +1,5 @@
+# DATA LOAD, TRAINING: PLAY (banner) -> 開始 (zh-TW translation mod)
+# built by tools/build_mdsprite.py from text/mdsprite/banner_play.json
+align center
+sprite 0 0 4x3 c201ca0c81c8217a ec2112a45d4c3071 dbeeab7d6f977c77 75aca8175f4592c7 3ab6a123744c790b 5e0782ad57085e03 d4f66b2be90e7ce3 2f99af2edff6ac82 4c0fb2ca7a75840b 9d41d178c17f0d61 56d7fa498591f3bf dbeeab7d6f977c77
+sprite 32 0 3x3 cd9d0c4658f2da84 501a169d4c874f8f dbeeab7d6f977c77 2a3877ebf5817edb 262473a08d4ee92c 131ce9dedb1cb833 bf31e57f3efae0a6 171bb79dc8e18503 171bb79dc8e18503

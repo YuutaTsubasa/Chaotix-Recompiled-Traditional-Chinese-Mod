@@ -1,0 +1,17 @@
+{
+ "en": "MISS",
+ "zh": "失誤",
+ "layers": [
+  {
+   "font": "NotoSansTC-Black.ttf",
+   "size": 15,
+   "thresh": 140,
+   "gap": 1,
+   "zh": "失誤",
+   "style": "res_white",
+   "y": 0,
+   "align": "left",
+   "x": 0
+  }
+ ]
+}
