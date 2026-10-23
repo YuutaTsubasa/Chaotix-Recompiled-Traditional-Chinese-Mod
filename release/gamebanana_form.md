@@ -29,6 +29,7 @@ Traditional Chinese (Taiwan) translation for Knuckles' Chaotix Recompiled: HUD, 
 <li>Menu banners stay Chinese while they slide in and out</li>
 <li>Names follow SEGA's official Traditional Chinese where it exists (納克魯斯, 艾斯皮歐, 貝庫特, 查米, 金屬索尼克, 蛋頭博士, 卡歐提斯小隊)</li>
 <li>Pixel text drawn in the game's own palettes; works in 4:3 and widescreen</li>
+<li>Source, tools and specs: <a href="https://github.com/YuutaTsubasa/Chaotix-Recompiled-Traditional-Chinese-Mod">GitHub</a></li>
 </ul>
 
 <h2>Requirements</h2>
@@ -120,7 +121,7 @@ Upload in this order (1280x720 PNG, all well under 6.1 MB):
 | Version | `1.0.0` |
 | Archived | unchecked |
 | Video / Portfolio image | leave empty |
-| Alternate File Sources | leave empty (the mod has no public repository yet) |
+| Alternate File Sources | `https://github.com/YuutaTsubasa/Chaotix-Recompiled-Traditional-Chinese-Mod/releases/download/v1.0.0/ChaotixRecompiled-zhTW-1.0.0.zip` (GitHub release asset); repo `https://github.com/YuutaTsubasa/Chaotix-Recompiled-Traditional-Chinese-Mod` |
 
 ## Tags
 | Name | Value |
